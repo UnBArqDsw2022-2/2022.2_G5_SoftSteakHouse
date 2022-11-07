@@ -14,7 +14,7 @@ Demais diretrizes sobre a organização da wiki constam no Moodle Aprender 3.
 # Nome do Projeto
 
 **Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
+**Número do Grupo**: 05
 
 ## Alunos
 |Matrícula | Aluno |
@@ -32,8 +32,8 @@ Demais diretrizes sobre a organização da wiki constam no Moodle Aprender 3.
 | 20/0028367  |  Victor Hugo Oliveira Leão |
 
 ## Sobre 
-Descreva o seu projeto em linhas gerais.
-Use referências, links, que permitam conhecer um pouco mais sobre o projeto.
+O projeto será uma aplicação WEB, de preferência responsiva, onde atenderá as necessidades de um restaurante, onde suas funcionalidades principais serão o cardápio para clientes e a administração das mesas para auxiliar os funionários.<br>
+Uma referência para essa aplicação: [Life Box](https://www.vucafood.com.br/lifeboxburger/aguas-claras/cardapio-digital) <br>
 
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Primeira Entrega.
