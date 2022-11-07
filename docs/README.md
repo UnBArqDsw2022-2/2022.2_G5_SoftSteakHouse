@@ -24,7 +24,7 @@ Demais diretrizes sobre a organização da wiki constam no Moodle Aprender 3.
 | 19/0085291  |  Caio César Oliveira  |
 | 17/0085023  |  Carla Rocha Cangussú |
 | 20/0019520  |  Hian Praxedes de Souza Olivera |
-| 21/1062151  |  Lucas Alves Vilela |
+| 21/1062141  |  Lucas Alves Vilela |
 | 18/0125974  |  Lucas Rodrigues Monteiro  |
 | 19/0058455  |  Mariana Oliveira Pires do Rio |
 | 17/0051277  |  Nicolas Georgeos Mantzos |
