@@ -25,6 +25,11 @@ Demais diretrizes sobre a organização da wiki constam no Moodle Aprender 3.
 | 17/0085023  |  Carla Rocha Cangussú |
 | 20/0019520  |  Hian Praxedes de Souza Olivera |
 | 21/1062151  |  Lucas Alves Vilela |
+| 18/0125974  |  Lucas Rodrigues Monteiro  |
+| 19/0058455  |  Mariana Oliveira Pires do Rio |
+| 17/0051277  |  Nicolas Georgeos Mantzos |
+| 21/1031833  |  Taynara Cristina Ribeiro Marcellos |
+| 20/0028367  |  Victor Hugo Oliveira Leão |
 
 ## Sobre 
 Descreva o seu projeto em linhas gerais.
