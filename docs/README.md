@@ -1,5 +1,5 @@
 # RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial, da home page do Projeto.
+Esse repositório é para ser utilizado pelo grupo 05 como um template inicial, da home page do Projeto.
 As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
 Demais diretrizes sobre a organização da wiki constam no Moodle Aprender 3.
 
