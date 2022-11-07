@@ -19,8 +19,12 @@ Demais diretrizes sobre a organização da wiki constam no Moodle Aprender 3.
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0023376  |  Abraão Alves Ribeiro |
+| 19/0010606  |  Artur de Sousa Vieira |
+| 19/0085291  |  Caio César Oliveira  |
+| 17/0085023  |  Carla Rocha Cangussú |
+| 20/0019520  |  Hian Praxedes de Souza Olivera |
+| 21/1062151  |  Lucas Alves Vilela |
 
 ## Sobre 
 Descreva o seu projeto em linhas gerais.
