@@ -28,11 +28,12 @@ Foi utilizada a plataforma miro para o desenvolvimento dos diagramas.
 ## Diagramas Gerados
 ### 1. Diagrama - Projeto de Excelência
 
-[![CausaEfeito](./assets/causa-efeito-desorganizacao.jpg "Diagrama de Causa e Efeito")](https://miro.com/welcomeonboard/ZDBzSlZBYWFTbXE4Q3pMdTVWYm9NY0lINnJQUzA5TjYwQVlvYkhRVWhhVktTMFEzZ3AxMmNqcjdKVXJ4QTBDNXwzNDU4NzY0NTE5MzE5NDM5NjY1fDI=?share_link_id=697529899500)
+[![CausaEfeito](./assets/projeto-causa-efeito.jpg "Diagrama de Causa e Efeito")](https://miro.com/welcomeonboard/Y3ZuMnFhRXJZN3drNnVSR0YwaXZCVHRTU0hKa0JjTll2QkdJVkFMNGJ6TklTQ0h6S0kwWU40SVZPdDFYMnp0M3wzNDU4NzY0NTE5MzE5NDM5NjY1fDI=?share_link_id=187776001012)
 
 ### 2. Diagrama - Desorganização da Equipe
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPEyOcTU=/?moveToViewport=-1786,-784,2843,1387&embedId=664774375710" frameborder="0" scrolling="no" allowfullscreen></iframe>
+[![CausaEfeito](./assets/causa-efeito-desorganizacao.jpg "Diagrama de Causa e Efeito")](https://miro.com/welcomeonboard/ZDBzSlZBYWFTbXE4Q3pMdTVWYm9NY0lINnJQUzA5TjYwQVlvYkhRVWhhVktTMFEzZ3AxMmNqcjdKVXJ4QTBDNXwzNDU4NzY0NTE5MzE5NDM5NjY1fDI=?share_link_id=697529899500)
+
 
 ## Referências
 
