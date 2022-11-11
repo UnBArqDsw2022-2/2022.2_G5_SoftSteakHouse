@@ -28,7 +28,7 @@ Foi utilizada a plataforma miro para o desenvolvimento dos diagramas.
 ## Diagramas Gerados
 ### 1. Diagrama - Projeto de Excelência
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPEyg1hU=/?moveToViewport=-1354,-887,3225,1574&embedId=62006207351" frameborder="0" scrolling="no" allowfullscreen></iframe>
+[![CausaEfeito](./assets/causa-efeito-desorganizacao.jpg "Diagrama de Causa e Efeito")](https://miro.com/welcomeonboard/ZDBzSlZBYWFTbXE4Q3pMdTVWYm9NY0lINnJQUzA5TjYwQVlvYkhRVWhhVktTMFEzZ3AxMmNqcjdKVXJ4QTBDNXwzNDU4NzY0NTE5MzE5NDM5NjY1fDI=?share_link_id=697529899500)
 
 ### 2. Diagrama - Desorganização da Equipe
 
