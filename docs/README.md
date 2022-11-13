@@ -3,15 +3,7 @@ Esse repositório é para ser utilizado pelo grupo 05 como um template inicial, 
 As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
 Demais diretrizes sobre a organização da wiki constam no Moodle Aprender 3.
 
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto)*. !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2022.1_G1_ProjetoPandora*. !!** 
- 
- (Apague esses comentários)
-
-# Nome do Projeto
+# Soft SteakHouse
 
 **Código da Disciplina**: FGA0208<br>
 **Número do Grupo**: 05
@@ -20,13 +12,10 @@ Demais diretrizes sobre a organização da wiki constam no Moodle Aprender 3.
 |Matrícula | Aluno |
 | -- | -- |
 | 19/0023376  |  Abraão Alves Ribeiro |
-| 19/0010606  |  Artur de Sousa Vieira |
 | 19/0085291  |  Caio César Oliveira  |
 | 17/0085023  |  Carla Rocha Cangussú |
 | 20/0019520  |  Hian Praxedes de Souza Olivera |
-| 21/1062141  |  Lucas Alves Vilela |
 | 18/0125974  |  Lucas Rodrigues Monteiro  |
-| 19/0058455  |  Mariana Oliveira Pires do Rio |
 | 17/0051277  |  Nicolas Georgeos Mantzos |
 | 21/1031833  |  Taynara Cristina Ribeiro Marcellos |
 | 20/0028367  |  Victor Hugo Oliveira Leão |
