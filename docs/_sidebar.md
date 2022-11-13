@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-- [Home](/docs)
+- [Home](/)
 - [Diretrizes](/docs/Diretrizes/Diretrizes.md)
 
 - **Ata de Reuniões**
