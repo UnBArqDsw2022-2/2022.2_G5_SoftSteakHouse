@@ -10,7 +10,7 @@ O Rich Picture se trada de uma forma de modelar ideias de uma equipe, usando mé
 
 Ele se consiste em rescunhar um desenho junto de palavras-chave, podendo ser feito à mão livre ou via software, ideealmento, são feitos no momento da reunião.
 
-O seu objetivo é contribuir com o levantamento deos requisitos de forma simples, onde todos os envolvidos no projeto conseguem entender e participar.
+O seu objetivo é contribuir com o levantamento dos requisitos de forma simples, onde todos os envolvidos no projeto conseguem entender e participar.
 
 
 
