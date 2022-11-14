@@ -14,6 +14,7 @@
       - [Plano de Riscos](/Base/AbordagemNaoEspecifica/PlanoDeRiscos.md)
       - [Rich Picture](/Base/AbordagemNaoEspecifica/RichPicture.md)
     - [1.2. Módulo Processos/Metodologias/Abordagens](/docs/Base/1.2.ProcessosMetodologiasAbordagens.md)
+      - [Escolhas Metodológicas](/Base/ProcMetAbord/EscolhasMet.md)
     - [1.3. Iniciativas Extras - Base](/docs/Base/1.3.IniciativasExtras.md)
     - [1.4. Participações - Base](/docs/Base/1.4.ParticipacoesBase.md)
 
