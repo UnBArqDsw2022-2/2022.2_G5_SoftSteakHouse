@@ -9,6 +9,7 @@
 - **Base**
   - [1. Desenho de Software (Base)](/Base/1.Base.md)
     - [1.1. Módulo Projeto Não Orientado a Abordagens Específicas](/Base/1.1.AbordagemNaoEspecifica.md)
+      - [Design Sprint](/Base/AbordagemNaoEspecifica/designsprint.md)
       - [5W2H](/Base/AbordagemNaoEspecifica/5w2h.md)
       - [Diagrama Causa-Efeito](/Base/AbordagemNaoEspecifica/CausaEfeito.md)
       - [Plano de Riscos](/Base/AbordagemNaoEspecifica/PlanoDeRiscos.md)
