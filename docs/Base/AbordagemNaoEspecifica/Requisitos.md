@@ -28,6 +28,15 @@ Numeração |                                          Descrição              
  RF05     |                 Visualizar a descrição de um item no cardápio digital.                  |          2          |
  RF06     |                 Visualizar a descrição de um item no cardápio digital.                  |          2          |
           
+
+### Requisitos Não Funcionais
+
+Numeração  |                                          Descrição                                       | Nível de prioridade |
+ --------  |  ------------------------------------------------------------------------------------    |   ----------------  |
+ RFN01     | O Back-end do sistema deve ser desenvolvido em Python, utilizando o framework Django.    |          1          |
+ RFN02     |O Front-end do sistema deve ser desenvolvido em JavaScript, utilizando a biblioteca React.|          1          |
+ RFN03     |   O sistema deve ser responsivo para funcionar bem tanto em ambiente WEB quanto MOBILE.  |          1          |
+        
 ### Regras de Negócio
 
 #### RF01
