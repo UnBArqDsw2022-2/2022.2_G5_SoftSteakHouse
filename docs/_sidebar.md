@@ -12,6 +12,8 @@
       - [5W2H](/Base/AbordagemNaoEspecifica/5w2h.md)
       - [Diagrama Causa-Efeito](/Base/AbordagemNaoEspecifica/CausaEfeito.md)
       - [Plano de Riscos](/Base/AbordagemNaoEspecifica/PlanoDeRiscos.md)
+      - [Plano de Custos](/Base/AbordagemNaoEspecifica/PlanoCusto.md)
+      - [Plano de Tempo](/Base/AbordagemNaoEspecifica/PlanoTempo.md)
       - [Rich Picture](/Base/AbordagemNaoEspecifica/RichPicture.md)
     - [1.2. Módulo Processos/Metodologias/Abordagens](/docs/Base/1.2.ProcessosMetodologiasAbordagens.md)
       - [Escolhas Metodológicas](/Base/ProcMetAbord/EscolhasMet.md)
