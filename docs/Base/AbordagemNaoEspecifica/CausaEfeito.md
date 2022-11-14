@@ -16,14 +16,14 @@ O objetivo, então, do Diagrama Causa-Efeito é, a partir de um efeito (risco) p
 
 ## Metodologia
 
-A partir do entendimento da estratégia, foram detectados dois efeitos (gerando, assim, dois diagramas) para a criação dos diagramas. O primeiro é relacionado à entrega de um projeto de excelência pela equipe (objetivo principal buscado) e o segundo é acerca da desorganização da equipe, que pode ser vista como um desafio em certos momentos durante todo o ciclo do projeto. Após isso, foram escolhidas as categorias para as causas e, por fim, as causas em si foram levantadas para cada uma das categorias.
+A partir do entendimento da estratégia, foram detectados dois efeitos (gerando, assim, dois diagramas) para a criação dos diagramas. O primeiro é relacionado à entrega de um projeto de excelência pela equipe (objetivo principal buscado) e o segundo é acerca da desorganização da equipe, que pode ser vista como um desafio em certos momentos durante todo o ciclo do projeto. Após isso, foram escolhidas as categorias para as causas e, por fim, as causas em si, foram levantadas para cada uma das categorias.
 
 Para a escolha das categorias, foram escolhidas de diversas abordagens, sendo selecionadas, então:
 - Método: relacionadas ao processo e aos procedimentos, ou seja, como o trabalho é realizado.
 - Máquina: relacionadas às máquinas e equipamentos.
 - Pessoas: relacionadas às pessoas envolvidas no processo.
 - Medida: relacionadas a como o processo é mensurado.
-- Meio ambiente: características do ambiente em que o processo ocorre, tais como temperatura, umidade etc.
+- Meio ambiente: características do ambiente em que o processo ocorre, tais como temperatura, umidade, etc.
 
 Foi utilizada a plataforma miro para o desenvolvimento dos diagramas.
 
