@@ -7,6 +7,7 @@
 | 13/11/2022 |  0.1   | Criação do documento | [Caio César](https://github.com/oCaioOliveira)| [Victor Leão](https://github.com/victorleaoo)   |
 | 13/11/2022 |  0.2   | Adição dos requisitos funcionais e regras de negócio por introspecção | [Caio César](https://github.com/oCaioOliveira)| [Victor Leão](https://github.com/victorleaoo)   |
 | 14/11/2022 |  0.3   | Adição de uma breve introdução acerca da introspecção,<br/> adição de um 'I' na frente de cada um dos requisitos elicitados por introspecção,<br/> Adição da técnica de observação | [Victor Leão](https://github.com/victorleaoo) | [Caio César](https://github.com/oCaioOliveira) |
+| 14/11/2022 |  0.4   | Adição de novos requisitos por meio da técnica de introspecção, além da revisão dos requisitos adicionados anteriormente. | [Caio César](https://github.com/oCaioOliveira)| [Victor Leão](https://github.com/victorleaoo)   |
 
 ## Introspecção
 
@@ -24,8 +25,14 @@ Participante da técnica:
 | RFI03    |                         Cadastrar dados do administrador.                               |
 | RFI04    |                         Visualizar o cardápio digital.                                  |
 | RFI05    |                 Visualizar a descrição de um item no cardápio digital.                  |
-| RFI06    |                 Visualizar a descrição de um item no cardápio digital.                  |
-          
+| RFI06    |                Cadastrar níveis diferentes para os administradores do sistema.          |
+| RFI07    |                       Buscar no cardápio digital itens por nome.                        |
+| RFI08    |                  Filtrar itens por preço ou ordem alfabética.                           |
+| RFI09    |         Visualizar o título, descrição, preço e imagem de cada item no cardápio digital.|
+| RFI10    |         O cardápio deve ser dividido por áreas com itens de mesma categoria.            |
+| RFI11    |Encontrar a localização, contato para suporte e horário de funcionamento como atalhos dentro do sistema.|
+| RFI12    |                  Gerenciar o controle de mesas no estabelecimento como administrador.   |
+  
 
 ### Requisitos Não Funcionais
 
@@ -34,6 +41,7 @@ Participante da técnica:
 | RFNI01    | O Back-end do sistema deve ser desenvolvido em Python, utilizando o framework Django.    |
 | RFNI02    |O Front-end do sistema deve ser desenvolvido em JavaScript, utilizando a biblioteca React.|
 | RFNI03    |   O sistema deve ser responsivo para funcionar bem tanto em ambiente WEB quanto MOBILE.  |
+
 
 ## Observação
 
@@ -67,25 +75,3 @@ Participante da técnica:
 | --------  | --------- |
 | RFNOB01   | O cardápio digital deve ser disposto separado por categorias de alimento. |
 | RFNOB02   | Cada elemento do cardápio deve conter título, imagem, descrição e valor.  |
-
-  ---------------------------- Apagar Abaixo ----------------------------      
-### Regras de Negócio
-
-#### RF01
-
-- **Descrição:** Deve haver níveis diferentes para os administradores do sistema, ou seja, um nível para o gerenciamento de mesas apenas, e um nível superior para todas as 
-funcionalidades do sistema e a capacidade de cadastrar novos itens no cardápio digital, editá-los ou apagá-los.
-- **Prioridade:** 3
-
-#### RF04
-
-- **Descrição:** Deve ser possível visualizar o título, descrição, preço e imagem de cada item no cardápio digital.
-- **Prioridade:** 1
-<br>
-
-- **Descrição:** Deve ser possível fazer uma busca no cardápio digital por nome ou filtrar por preço e ordem alfabética.
-- **Prioridade:** 2
-<br>
-
-- **Descrição:** O cardápio deve ser dividido por áreas com itens de mesma categoria, como uma área para pizzas, fritas, hamburgueres, etc.
-- **Prioridade:** 2
