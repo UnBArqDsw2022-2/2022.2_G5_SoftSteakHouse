@@ -1,8 +1,8 @@
 # Plano de Tempo
 
-| Data | Versão | Descrição | Autor(es) |
-| ---- | ----- | --------- | --------- |
-| 14/11/2022 | 1.0 | Criação do documento | Taynara |
+| Data | Versão | Descrição | Autor(es) | Revisor(es)
+| ---- | ----- | --------- | --------- | ---------
+| 14/11/2022 | 1.0 | Criação do documento | Taynara | Caio César
 
 ## Introdução
 
