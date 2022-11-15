@@ -35,13 +35,13 @@ Essa segunda etapa é onde têm-se desenhos de várias ideias, utilizando como b
 
 Para realizar, então, essa tarefa, foi pedido para que cada membro da equipe confeccionasse um Rich Picture e um Mapa Mental de como eles visualizam a solução a ser desenvolvida. Assim, seria possível consolidar a visão de cada um dos integrantes acerca do produto.
 
-Todos os desenhos produzidos podem ser escolhidos nas páginas do [Rich Picture]() e [Mapa Mental](). 
+Todos os desenhos produzidos podem ser escolhidos nas páginas do [Rich Picture](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/RichPicture) e [Mapa Mental](). 
 
 ### Decision
 
-Após a realização dos desenhos, a equipe se reuniu para selecionar o melhor de cada um dos artefatos (Rich Picture e Mapa Mental). Além disso, a partir do que foi produzido, a equipe pode elaborar o [Product Backlog Priorizado]() com os requisitos dos projetos, juntamente com seus rastreios.
+Após a realização dos desenhos, a equipe se reuniu para selecionar o melhor de cada um dos artefatos (Rich Picture e Mapa Mental). Além disso, a partir do que foi produzido, a equipe pôde elaborar o [Product Backlog Priorizado]() com os requisitos dos projetos, juntamente com seus rastreios.
 
-Os desenhos escolhidos também podem ser encontrados nas páginas do [Rich Picture]() e [Mapa Mental](). 
+Os desenhos escolhidos também podem ser encontrados nas páginas do [Rich Picture](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/RichPicture) e [Mapa Mental](). 
 
 ### Prototype
 

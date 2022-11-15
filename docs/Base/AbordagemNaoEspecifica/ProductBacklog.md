@@ -8,7 +8,24 @@
 
 ## Introdução & Objetivo
 
-O Product Backlog é uma consolidação dos [requisitos elicitados]()
+O Product Backlog é uma consolidação dos [requisitos elicitados](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) juntamente com sua priorização, que, nesse caso, é feita  por meio datécnica MoSCoW.
+
+Portanto, o objetivo desse artefato é mostrar os requisitos elicitados e sua prioridade no projeto em um momento inicial.
+
+## Metodologia
+
+A metodologia usada para a priorização dos requisitos elicitados é a MoSCoW, que trabalha com a seguinte divisão:
+
+- Must: requisitos que são indispensáveis para o funcionamento do software.
+- Should: requisitos importantes, mas não vitais/críticos.
+- Could: requisitos desejáveis, mas que podem ser atendidos quando houver tempo e disposição.
+- Would: requisitos menos críticos, com menor retorno final.
+
+Os requisitos também possuem sua técnica de elicitação ou artefatos ligados ao seu levantamento. 
+
+## Product Backlog
+
+
 
 must
 should
@@ -40,3 +57,7 @@ would
 | RFOB10   | O cliente deve ser capaz de ver seus pedidos já realizados. | would
 | RFOB11   | O cliente deve ser capaz de adicionar métodos de pagamentos (cartões de crédito). | would
 | RFOB12   | O cliente deve ser capaz de alterar suas informações cadastradas (nome e e-mail). | could
+
+## Referências
+
+BECKER, Alice. **Aprenda como o método MoSCoW poderá ajudá-lo a priorizar as tarefas da sua empresa**, 2020. Disponível em: https://www.voitto.com.br/blog/artigo/metodo-moscow. Acesso em: 15 nov. 2022.
