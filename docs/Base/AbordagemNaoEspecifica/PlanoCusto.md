@@ -1,12 +1,12 @@
 # Plano de Custo
 
-| Data | Versão | Descrição | Autor(es) |
-| ---- | ----- | --------- | --------- |
-| 14/11/2022 | 1.0 | Criação do documento | Taynara |
+| Data | Versão | Descrição | Autor(es) | Reviror(es)
+| ---- | ----- | --------- | --------- | ------- 
+| 14/11/2022 | 1.0 | Criação do documento | Taynara | Caio César
 
 ## Introdução
 
-O gerenciamento de custo, com o processo de estimativa de custo, converte em unidades monetárias a necessidade de recursos de um projeto.Ou seja, possui como objetivo o detalhamento e explicação acerca do acompanhamento dos custos estimados para o projeto.
+O gerenciamento de custo, com o processo de estimativa de custo, converte em unidades monetárias a necessidade de recursos de um projeto. Portanto, possui como objetivo o detalhamento e explicação acerca do acompanhamento dos custos estimados para o projeto.
 
 ## Definição de custos
 
