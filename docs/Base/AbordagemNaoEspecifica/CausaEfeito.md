@@ -4,7 +4,7 @@
 
 |    Data    | Versão |            Descrição           |       Autor     |    Revisor    |
 |  --------  |  ----  |            ----------          | --------------- |    -------    |
-| 10/11/2022 |  1.0.0 |  Criação do artefato de Diagrama Causa-Efeito    |   [Victor Leão](https://github.com/victorleaoo)    |       -       |
+| 10/11/2022 |  1.0.0 |  Criação do artefato de Diagrama Causa-Efeito    | [Victor Leão](https://github.com/victorleaoo) | [Abraão Alves](https://github.com/Abraao1231) |
 
 ## Introdução & Objetivo
 
