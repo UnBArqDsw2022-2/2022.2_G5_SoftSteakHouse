@@ -16,6 +16,8 @@
       - [Plano de Custos](/Base/AbordagemNaoEspecifica/PlanoCusto.md)
       - [Plano de Tempo](/Base/AbordagemNaoEspecifica/PlanoTempo.md)
       - [Rich Picture](/Base/AbordagemNaoEspecifica/RichPicture.md)
+      - [Elicitação](/Base/AbordagemNaoEspecifica/Requisitos.md)
+      - [Backlog + Priorização](/Base/AbordagemNaoEspecifica/ProductBacklog.md)
     - [1.2. Módulo Processos/Metodologias/Abordagens](/docs/Base/1.2.ProcessosMetodologiasAbordagens.md)
       - [Escolhas Metodológicas](/Base/ProcMetAbord/EscolhasMet.md)
     - [1.3. Iniciativas Extras - Base](/docs/Base/1.3.IniciativasExtras.md)
