@@ -47,7 +47,7 @@ Os desenhos escolhidos também podem ser encontrados nas páginas do [Rich Pictu
 
 A etapa de prototipação foca na elaboração do protótipo, usando o chamado "realistic-looking" para trazer um protótipo fidedigno à solução desejada.
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="720" height="1280" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FyijWr243Zkrfi5bfoOLTcG%2FSoft-SteakHouse%3Fnode-id%3D19%253A8%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D19%253A8" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="360" height="640" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FyijWr243Zkrfi5bfoOLTcG%2FSoft-SteakHouse%3Fnode-id%3D19%253A8%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D19%253A8" allowfullscreen></iframe>
 
 ## Referências
 
