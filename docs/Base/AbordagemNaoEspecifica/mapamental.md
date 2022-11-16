@@ -2,9 +2,10 @@
 
 ## Histórico de Versões
 
-|    Data    | Versão |            Descrição           |       Autor     |    Revisor    |
-|  --------  |  ----  |            ----------          | --------------- |    -------    |
-| 15/11/2022 |  1.0.0 | Criação do artefato Mapa Mental | [Victor Leão](https://github.com/victorleaoo) | - |
+|    Data    | Versão |            Descrição            |                     Autor                     |                    Revisor                    |
+| ---------- | ------ | ------------------------------- | --------------------------------------------- | --------------------------------------------- |
+| 15/11/2022 | 1.0    | Criação do artefato Mapa Mental | [Victor Leão](https://github.com/victorleaoo) | [Abraão Alves](https://github.com/Abraao1231) |
+| 15/11/2002 | 1.1    | Revisão do artefato mapa mental | [Abraão Alves](https://github.com/Abraao1231) |                                               |
 
 ## Introdução & Objetivo
 
@@ -14,7 +15,8 @@ O objetivo desse artefato, então, é apresentar os mapas mentais desenvolvidos 
 
 ## Metodologia
 
-A partir do entendimento da estratégia e do Design Sprint, cada membro da equipe desenvolveu um mapa mental com seu conhecimento e, posterioramente, foi decidido um como fixo para o projeto.
+A partir do entendimento da estratégia e do Design Sprint, cada membro da equipe desenvolveu um mapa mental com seu conhecimento e, posteriormente, foi decidido um como fixo para o projeto.
+
 
 ## Mapas Mentais Gerados
 ### 1. Mapa Mental - Definitivo - Abraão
