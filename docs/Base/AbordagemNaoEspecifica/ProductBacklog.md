@@ -4,7 +4,7 @@
 
 |    Data    | Versão |      Descrição       |                   Autor(a)                    |                   Revisor(a)                    |
 | ---------- | ------ | -------------------- | --------------------------------------------- | ----------------------------------------------- |
-| 13/11/2022 |  0.1   | Criação do documento | [Victor Leão](https://github.com/victorleaoo) | - |
+| 13/11/2022 |  0.1   | Criação do documento | [Victor Leão](https://github.com/victorleaoo) | [Caio César](https://github.com/oCaioOliveira) |
 
 ## Introdução & Objetivo
 
