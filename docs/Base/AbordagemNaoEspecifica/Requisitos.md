@@ -83,8 +83,7 @@ Participante da técnica:
 
 | Numeração | Descrição |
 | --------  | --------- |
-| RFNOB01   | O cardápio digital deve ser disposto separado por categorias de alimento. |
-| RFNOB02   | Cada elemento do cardápio deve conter título, imagem, descrição e valor.  |
+| RFNOB01   | O sistema deve ser responsivo para dispositivos móveis e desktop. |
 
 ## Referências
 
