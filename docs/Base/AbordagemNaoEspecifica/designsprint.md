@@ -39,11 +39,13 @@ Todos os desenhos produzidos podem ser escolhidos nas páginas do [Rich Picture]
 
 ### Decision
 
-Após a realização dos desenhos, a equipe se reuniu para selecionar o melhor de cada um dos artefatos (Rich Picture e Mapa Mental). Além disso, a partir do que foi produzido, a equipe pôde elaborar o [Product Backlog Priorizado]() com os requisitos dos projetos, juntamente com seus rastreios.
+Após a realização dos desenhos, a equipe se reuniu para selecionar o melhor de cada um dos artefatos (Rich Picture e Mapa Mental). Além disso, a partir do que foi produzido, a equipe pôde elaborar o [Product Backlog Priorizado](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/ProductBacklog) com os requisitos dos projetos, juntamente com seus rastreios.
 
 Os desenhos escolhidos também podem ser encontrados nas páginas do [Rich Picture](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/RichPicture) e [Mapa Mental](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/mapamental). 
 
 ### Prototype
+
+A etapa de prototipação foca na elaboração do protótipo, usando o chamado "realistic-looking" para trazer um protótipo fidedigno à solução desejada.
 
 ## Referências
 

@@ -8,7 +8,7 @@
 
 ## Introdução & Objetivo
 
-O Product Backlog é uma consolidação dos [requisitos elicitados](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) juntamente com sua priorização, que, nesse caso, é feita  por meio datécnica MoSCoW.
+O Product Backlog é uma consolidação dos [requisitos elicitados](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) juntamente com sua priorização, que, nesse caso, é feita por meio da técnica MoSCoW.
 
 Portanto, o objetivo desse artefato é mostrar os requisitos elicitados e sua prioridade no projeto em um momento inicial.
 
@@ -25,38 +25,40 @@ Os requisitos também possuem sua técnica de elicitação ou artefatos ligados 
 
 ## Product Backlog
 
+| ID | Requisito | Prioridade | Rastreabilidade |
+| -- | --------- | ---------- | --------------- |
+| RF01 | Cadastrar conta de administrador. | Must | [Introspecção](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
+| RF02 | Recuperar a senha de administrador pelo e-mail cadastrado. | Should | [Introspecção](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
+| RF03 | Cadastrar dados do administrador. | Must | [Introspecção](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
+| RF04 | Visualizar o cardápio digital. | Must | [Introspecção](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
+| RF05 | Visualizar a descrição de um item no cardápio digital. | Should | [Introspecção](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
+| RF06 | Cadastrar níveis diferentes para os administradores do sistema. | Could | [Introspecção](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
+| RF07 | Buscar no cardápio digital itens por nome. | Should | [Introspecção](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
+| RF08 | Filtrar itens por preço ou ordem alfabética. | Could | [Introspecção](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
+| RF09 | Visualizar o título, descrição, preço e imagem de cada item no cardápio digital. | Must | [Introspecção](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
+| RF10 | O cardápio deve ser dividido por áreas com itens de mesma categoria. | Could | [Introspecção](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
+| RF11 | Encontrar a localização, contato para suporte e horário de funcionamento como atalhos dentro do sistema. | Would | [Introspecção](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
+| RF12 | Gerenciar o controle de mesas no estabelecimento como administrador. | Must | [Introspecção](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
+| RF13 | O cliente deve ser capaz de abrir a página específica de cada elemento do cardápio. | Should | [Observação](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
+| RF13 | O cliente deve ser capaz de visualizar as opções extras de ingredientes e seu valor para cada elemento do cardápio. | Would | [Observação](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
+| RF14 | O cliente deve ser capaz de realizar cadastro. | Could | [Observação](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
+| RF15 | O cliente deve ser capaz de realizar login. | Could | [Observação](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
+| RF16 | O cliente deve ser capaz de sair da sua conta. | Could | [Observação](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
+| RF17 | O cliente deve ser capaz de informar quantas pessoas estão esperando por uma vaga no restaurante. | Could | [Observação](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
+| RF18 | O cliente deve ser capaz de entrar na fila de espera do restaurante. | Could | [Observação](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
+| RF19 | O cliente deve ser capaz de ver seus pedidos já realizados. | Would | [Observação](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
+| RF20 | O cliente deve ser capaz de adicionar métodos de pagamentos (cartões de crédito). | Would | [Observação](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
+| RF21 | O cliente deve ser capaz de alterar suas informações cadastradas (nome e e-mail). | Could | [Observação](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
+| RF22 | O cardápio deve ser gerar um QR Code para compartilhamento. | Would | [Rich Picture](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/RichPicture) |
+| RF23 | As mesas devem apresentar status de 'ocupada' ou 'livre'. | Must | [Rich Picture](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/RichPicture) |
+| RF24 | O funcionário deve ser capaz de alterar o status de uma mesa. | Must | [Rich Picture](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/RichPicture) |
+| RF25 | O funcionário deve ser capaz de adicionar um item a um pedido. | Would | [Rich Picture](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/RichPicture) |
+| RF26 | O funcionário deve ser capaz de remover um item a um pedido. | Would | [Rich Picture](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/RichPicture) |
+| RF26 | Um pedido deve estar associado à uma mesa ou entrega. | Would | [Rich Picture](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/RichPicture) |
+| RNF01 | O Back-end do sistema deve ser desenvolvido em Python, utilizando o framework Django. | Must | [Introspecção](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
+| RNF02 | O Front-end do sistema deve ser desenvolvido em JavaScript, utilizando a biblioteca React. | Must | [Introspecção](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
+| RNF03 | O sistema deve ser responsivo para funcionar bem tanto em ambiente WEB quanto MOBILE. | Must | [Introspecção](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
 
-
-must
-should
-could
-would
-
-| RFI01    |                          Cadastrar conta de administrador.                              | must
-| RFI02    |                 Recuperar a senha de administrador pelo e-mail cadastrado.              | should
-| RFI03    |                         Cadastrar dados do administrador.                               | must
-| RFI04    |                         Visualizar o cardápio digital.                                  | must
-| RFI05    |                 Visualizar a descrição de um item no cardápio digital.                  | should
-| RFI06    |                Cadastrar níveis diferentes para os administradores do sistema.          | could
-| RFI07    |                       Buscar no cardápio digital itens por nome.                        | should
-| RFI08    |                  Filtrar itens por preço ou ordem alfabética.                           | could
-| RFI09    |         Visualizar o título, descrição, preço e imagem de cada item no cardápio digital.| must
-| RFI10    |         O cardápio deve ser dividido por áreas com itens de mesma categoria.            | could
-| RFI11    |Encontrar a localização, contato para suporte e horário de funcionamento como atalhos dentro do sistema.| would
-| RFI12    |                  Gerenciar o controle de mesas no estabelecimento como administrador.   | must
-
-| RFOB01   | O cliente deve ser capaz de visualizar o cardápio digital. | must
-| RFOB02   | O cliente deve ser capaz de abrir a página específica de cada elemento do cardápio. | should
-| RFOB03   | O cliente deve ser capaz de visualizar as opções extras de ingredientes e seu valor para cada elemento do cardápio. | would
-| RFOB04   | O cliente deve ser capaz de realizar cadastro. | could
-| RFOB05   | O cliente deve ser capaz de realizar login. | could
-| RFOB06   | O cliente deve ser capaz de sair da sua conta. | could
-| RFOB07   | O cliente deve ser capaz de informar quantas pessoas estão esperando por uma vaga no restaurante. | could
-| RFOB08   | O cliente deve ser capaz de entrar na fila de espera do restaurante. | could
-| RFOB09   | O cliente deve ser capaz de ver a página 'sobre' do restaurante, com informações como telefone, endereço, gerente, entre outras, expostas. | would
-| RFOB10   | O cliente deve ser capaz de ver seus pedidos já realizados. | would
-| RFOB11   | O cliente deve ser capaz de adicionar métodos de pagamentos (cartões de crédito). | would
-| RFOB12   | O cliente deve ser capaz de alterar suas informações cadastradas (nome e e-mail). | could
 
 ## Referências
 
