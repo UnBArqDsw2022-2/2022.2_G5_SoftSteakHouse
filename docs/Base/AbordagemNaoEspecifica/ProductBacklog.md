@@ -49,7 +49,7 @@ Os requisitos também possuem sua técnica de elicitação ou artefatos ligados 
 | RF19 | O cliente deve ser capaz de ver seus pedidos já realizados. | Would | [Observação](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
 | RF20 | O cliente deve ser capaz de adicionar métodos de pagamentos (cartões de crédito). | Would | [Observação](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
 | RF21 | O cliente deve ser capaz de alterar suas informações cadastradas (nome e e-mail). | Could | [Observação](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
-| RF22 | O cardápio deve ser gerar um QR Code para compartilhamento. | Would | [Rich Picture](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/RichPicture) |
+| RF22 | O cardápio deve ser disponibilizado por um QR Code para compartilhamento. | Would | [Rich Picture](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/RichPicture) |
 | RF23 | As mesas devem apresentar status de 'ocupada' ou 'livre'. | Must | [Rich Picture](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/RichPicture) |
 | RF24 | O funcionário deve ser capaz de alterar o status de uma mesa. | Must | [Rich Picture](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/RichPicture) |
 | RF25 | O funcionário deve ser capaz de adicionar um item a um pedido. | Would | [Rich Picture](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/RichPicture) |
