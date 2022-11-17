@@ -1,14 +1,5 @@
 # Elicitação de Requisitos
 
-## Histórico de versões
-
-|    Data    | Versão |      Descrição       |                   Autor(a)                    |                   Revisor(a)                    |
-| ---------- | ------ | -------------------- | --------------------------------------------- | ----------------------------------------------- |
-| 13/11/2022 |  0.1   | Criação do documento | [Caio César](https://github.com/oCaioOliveira)| [Victor Leão](https://github.com/victorleaoo)   |
-| 13/11/2022 |  0.2   | Adição dos requisitos funcionais e regras de negócio por introspecção | [Caio César](https://github.com/oCaioOliveira)| [Victor Leão](https://github.com/victorleaoo)   |
-| 14/11/2022 |  0.3   | Adição de uma breve introdução acerca da introspecção,<br/> adição de um 'I' na frente de cada um dos requisitos elicitados por introspecção,<br/> Adição da técnica de observação | [Victor Leão](https://github.com/victorleaoo) | [Caio César](https://github.com/oCaioOliveira) |
-| 14/11/2022 |  0.4   | Adição de novos requisitos por meio da técnica de introspecção, além da revisão dos requisitos adicionados anteriormente. | [Caio César](https://github.com/oCaioOliveira)| [Victor Leão](https://github.com/victorleaoo)   |
-
 ## Introdução & Objetivo
 
 A primeira, e talvez uma das mais importantes, parte no desenvolvimento de um software é a elicitação e priorização dos requisitos. Esse artefato, então, tem como objetivo usar certas técnicas de elicitação para levantar requisitos importantes do projeto a ser construído pela equipe.
@@ -52,7 +43,6 @@ Participante da técnica:
 | RFNI02    |O Front-end do sistema deve ser desenvolvido em JavaScript, utilizando a biblioteca React.|
 | RFNI03    |   O sistema deve ser responsivo para funcionar bem tanto em ambiente WEB quanto MOBILE.  |
 
-
 ## Observação
 
 A técnica de observação consiste em, como o próprio nome já diz, observar um usuário em seu fluxo de uso e obter os requisitos a partir dessa prática. Essa técnica é muito útil para conseguir conhecimentos tácitos, isto é, aqueles que são "óbvios" para o usuário, mas que não foram explicitados.
@@ -84,6 +74,15 @@ Participante da técnica:
 | Numeração | Descrição |
 | --------  | --------- |
 | RFNOB01   | O sistema deve ser responsivo para dispositivos móveis e desktop. |
+
+## Histórico de versões
+
+|    Data    | Versão |      Descrição       |                   Autor(a)                    |                   Revisor(a)                    |
+| ---------- | ------ | -------------------- | --------------------------------------------- | ----------------------------------------------- |
+| 13/11/2022 |  0.1   | Criação do documento | [Caio César](https://github.com/oCaioOliveira)| [Victor Leão](https://github.com/victorleaoo)   |
+| 13/11/2022 |  0.2   | Adição dos requisitos funcionais e regras de negócio por introspecção | [Caio César](https://github.com/oCaioOliveira)| [Victor Leão](https://github.com/victorleaoo)   |
+| 14/11/2022 |  0.3   | Adição de uma breve introdução acerca da introspecção,<br/> adição de um 'I' na frente de cada um dos requisitos elicitados por introspecção,<br/> Adição da técnica de observação | [Victor Leão](https://github.com/victorleaoo) | [Caio César](https://github.com/oCaioOliveira) |
+| 14/11/2022 |  0.4   | Adição de novos requisitos por meio da técnica de introspecção, além da revisão dos requisitos adicionados anteriormente. | [Caio César](https://github.com/oCaioOliveira)| [Victor Leão](https://github.com/victorleaoo)   |
 
 ## Referências
 
