@@ -43,16 +43,32 @@ Essas quatro características são agregadas nos léxicos agrupados por tipo das
 
 #### LV04 - Finalizar a conta
 
-| Noção                                                                             | Impacto                                                                                                                            | Sinônimos                      |
-|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|
-| Ação realizada pelo cliente na qual ele consulta a lista de pedidos e a finaliza. | - <br> - Um valor final, gerado a partir da soma dos pedidos entregues, será gerado; <br> - A conta aberta pelo cliente é fechada. | Pedir a conta, fechar a conta. |
+| Noção                                                                             | Impacto                                                                                                                     | Sinônimos                      |
+|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------|
+| Ação realizada pelo cliente na qual ele consulta a lista de pedidos e a finaliza. | - Um valor final, gerado a partir da soma dos pedidos entregues, será gerado; <br> - A conta aberta pelo cliente é fechada. | Pedir a conta, fechar a conta. |
 
 
 ### 2.2 Objetos
 
-#### Arquivados
+#### LO01 - Cliente
+
+| Noção                                                                                                       | Impacto                                                                                                                                                                                        | Sinônimos |
+|-------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+| Indivíduo que se utiliza do sistema a fim de fazer e cancelar pedidos, entrar na fila, consultar preços etc | - O cliente pode logar no sistema; <br> - O cliente pode ver o cardápio dos restaurantes cadastrados; <br> - O cliente pode fazer e cancelar um pedido; <br> O cliente por contatar o suporte; | Usuário.  |
+
+#### LO02 - Funcionário
+
+| Noção                                                            | Impacto                                                                                                                                                     | Sinônimos                    |
+|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
+| Usuário que recepciona e/ou responde às solicitações do cliente. | - Um funcionário pode ver a situação dos pedidos (pendente, cancelado ou entregue) e avaliar as requisições dos clientes (esgotado, disponível, demora...); | Garçom, balconista, gerente. |
 
 ### 2.3 Estados
+
+#### LE01 - Status Pedido
+
+| Noção                                             | Impacto                                                                                                                                                     | Sinônimos                    |
+|---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
+| Métrica que avalia a atual situação de um pedido. | - Um funcionário pode ver a situação dos pedidos (pendente, cancelado ou entregue) e avaliar as requisições dos clientes (esgotado, disponível, demora...); | Garçom, balconista, gerente. |
 
 ## Referências Bibliográficas
 
