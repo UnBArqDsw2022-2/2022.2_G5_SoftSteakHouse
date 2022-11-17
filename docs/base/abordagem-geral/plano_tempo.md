@@ -1,9 +1,5 @@
 # Plano de Tempo
 
-| Data | Versão | Descrição | Autor(es) | Revisor(es)
-| ---- | ----- | --------- | --------- | ---------
-| 14/11/2022 | 1.0 | Criação do documento | Taynara | Caio César
-
 ## Introdução
 
 O gerenciamento de tempo inclui os processos necessários para assegurar a conclusão do projeto no prazo previsto. Logo, para o desenvolvimento do projeto teremos como base o seguinte **cronograma**, sendo que este está sujeito a adaptações. Para a criação deste, serão levadas em consideração os seguintes processos para o seu desenvolvimento e gerenciamento:
@@ -31,6 +27,12 @@ Analisar sequência das atividades, duração, quais são os recursos necessári
 
 ## Controlar cronograma
 Atualizar cronograma conforme forem surgindo novos requisitos, restrições, etc.
+
+## Histórico de Versões
+
+| Data | Versão | Descrição | Autor(es) | Reviror(es) |
+| ---- | ----- | --------- | --------- | -------  |
+| 14/11/2022 | 1.0 | Criação do documento | [Taynara](https://github.com/TaynaraCris)    |   [Caio César](https://github.com/oCaioOliveira) |
 
 ## Referências
 

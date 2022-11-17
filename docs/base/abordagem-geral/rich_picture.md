@@ -46,7 +46,7 @@ A partir do entendimento da estratégia e do Design Sprint, foram detectados pon
 |    Data    | Versão |            Descrição           |       Autor     |    Revisor    |
 |  --------  |  ----  |            ----------          | --------------- |    -------    |
 | 13/11/2022 |  1.0.0 |  Criação do artefato Rich Picture    |   [Hian Praxedes](https://github.com/HianPraxedes)    |       [Carla Cangusssú](https://github.com/Carlacangussu)       |
-| 14/11/2022 |  1.1.0 |  Adição dos Rich Pictures feitos e qual o selecionado com o Design Sprint;<br/>Correção de erros gramaticais    |   [Victor Leão](https://github.com/victorleaoo)    |       -       |
+| 14/11/2022 |  1.1.0 |  Adição dos Rich Pictures feitos e qual o selecionado com o Design Sprint;<br/>Correção de erros gramaticais    |   [Victor Leão](https://github.com/victorleaoo)    |       [Hian Praxedes](https://github.com/HianPraxedes)       |
 
 ## Referências
 
