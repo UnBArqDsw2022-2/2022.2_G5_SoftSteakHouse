@@ -1,9 +1,5 @@
 # Plano de Custo
 
-| Data | Versão | Descrição | Autor(es) | Reviror(es)
-| ---- | ----- | --------- | --------- | ------- 
-| 14/11/2022 | 1.0 | Criação do documento | Taynara | Caio César
-
 ## Introdução
 
 O gerenciamento de custo, com o processo de estimativa de custo, converte em unidades monetárias a necessidade de recursos de um projeto. Portanto, possui como objetivo o detalhamento e explicação acerca do acompanhamento dos custos estimados para o projeto.
@@ -63,6 +59,12 @@ Percentual que evoluímos com relação ao planejado. Um valor maior que 1 é fa
 É calculado pela razão entre o valor agregado (EV) e o custo planejado (AC).
 
 CPI = EV / PV
+
+## Histórico de Versões
+
+| Data | Versão | Descrição | Autor(es) | Reviror(es) |
+| ---- | ----- | --------- | --------- | -------  |
+| 14/11/2022 | 1.0 | Criação do documento | [Taynara](https://github.com/TaynaraCris)    |   [Caio César](https://github.com/oCaioOliveira) |
 
 
 ## Referências
