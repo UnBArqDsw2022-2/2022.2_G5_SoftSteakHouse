@@ -1,0 +1,93 @@
+# Léxicos
+
+## 1. Introdução
+
+Léxicos são utilizados para descrever os símbolos de uma linguagem através de suas **noções** e **impactos**, isto é, respectivamente, suas definições/conceitos/denotações e implicações/resultados. No contexto de software, geralmente toma-se a aplicação que está sendo
+desenvolvida como referencial para a medição do impacto e elicitação das denotações. 
+
+Além das noções e impactos, léxicos também possuem um, e somente um, tipo associado. Os três que serão utilizadaos podem ser visualizados na tabela 1.
+
+| Tipo   |  Noção                                                             |  Impacto                                                                                | Sinônimos            |
+|--------|--------------------------------------------------------------------|-----------------------------------------------------------------------------------------|----------------------|
+| Verbo  | Quem realiza, quando acontece e quais procedimentos são envolvidos | Quais os reflexos da ação                                                               | Sinônimos do símbolo |
+| Objeto | Definir o objeto e outros objetos com os quais se relaciona        | Ações que podem ser aplicadas ao objeto                                                 | Sinônimos do símbolo |
+| Estado | O que significa e quais ações levaram a esse estado                | Identificar outros estados e ações que podem ocorrer a partir do estado que se descreve | Sinônimos do símbolo |
+
+_Tabela 1: Modelo para os léxicos (SERRANO, Requisitos - Aula 10)_
+
+Não obstante, também possuem um sinônimo - um objeto equivalente que está associado a mesma noção.
+
+Essas quatro características são agregadas nos léxicos agrupados por tipo das tabelas abaixo.
+
+## 3. Léxicos
+
+### 3.1 Verbos
+
+#### Ver cardápio
+
+| Noção                                                                                            | Impacto                                                                                                 | Sinônimos                            |
+|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|--------------------------------------|
+| Ação realizada pelo cliente a fim de visualizar os produtos e pratos disponíveis no restaurante. | O cliente pode ver quais são os produtos oferecidos pelo restaurante, seus preços e realizar um pedido. | Olhar os pratos, acessar o cardápio. |
+
+#### Realizar pedido
+
+| Noção                                                                                                                              | Impacto                                                                                                                                         | Sinônimos                  |
+|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
+| Ação realizada pelo cliente na qual ele seleciona um item do cardápio e solicita a um funcionário que ele seja trazido a sua mesa. | - O valor da soma dos itens selecionados é adiciona à conta do cliente; <br> - Depois de prontos, os pedidos são levados até a mesa do cliente. | Fazer pedido, pedir prato. |
+
+#### Cancelar pedido
+
+| Noção                                                                                                               | Impacto                                                                                                                        | Sinônimos                        |
+|---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| Ação realizada pelo cliente na qual ele consulta alguns dos pedidos ainda não enviados para a cozinha e os cancela. | - O valor da soma dos itens cancelados é subtraída da conta do cliente; <br> - Os pedidos não serão levados à mesa do cliente. | Retirar pedido, cancelar pedido. |
+
+#### Finalizar a conta
+
+| Noção                                                                             | Impacto                                                                                                                            | Sinônimos                      |
+|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|
+| Ação realizada pelo cliente na qual ele consulta a lista de pedidos e a finaliza. | - <br> - Um valor final, gerado a partir da soma dos pedidos entregues, será gerado; <br> - A conta aberta pelo cliente é fechada. | Pedir a conta, fechar a conta. |
+
+
+### 3.2 Objetos
+
+#### Arquivados
+
+#### Caixa de entrada
+
+#### Configurações
+
+#### Deletados recentemente
+
+#### Página
+
+#### Seguindo
+
+### 3.3 Estados
+
+#### Alterado
+
+| Tipo   | Noção                               | Impacto                                                                 | Sinônimos           |
+| ------ | ----------------------------------- | ----------------------------------------------------------------------- | ------------------- |
+| Estado | O arquivo foi alterado pelo usuário | Toda alteração do arquivo é registrada na página de todas as alterações | Editado, atualizado |
+
+#### Arquivado
+
+| Tipo   | Noção                                         | Impacto                                                                                                                                               | Sinônimos |
+| ------ | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| Estado | A caixa de entrada foi arquivada pelo usuário | A caixa de entrada arquivada é apresentada em uma tela diferente das outras caixas, ela pode ser restaurada para a caixa de entrada normal do sistema |           |
+
+#### Deletado
+
+| Tipo   | Noção                                          | Impacto                                                                                                                                                             | Sinônimos |
+| ------ | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| Estado | O arquivo foi deletado pelo usuário do sistema | Quando o usuário restaura o arquivo ele volta para a lista de arquivos principais, mas já quando o usuário deleta permanentemente o arquivo é deletado por completo | Excluído  |
+
+## Referências Bibliográficas
+
+SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 10. 1º/2019. 35 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+
+## Histórico de Versões
+
+| Versão | Data       | Descrição            | Autor                    | Revisor |
+| ------ |------------|----------------------|--------------------------|---------|
+| 1.0    | 15/11/2022 | Criação do documento | Nícolas Georgeos Mantzos | -       |
