@@ -27,14 +27,19 @@ Uma referência para essa aplicação: [Life Box](https://www.vucafood.com.br/li
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Primeira Entrega.
 
-## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
-Adicione 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entrega.
+[//]: # (## Screenshots Segunda Entrega <<FOCO: DSW&#40;Modelagem&#41;>>)
 
-## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
-Adicione 2 ou mais screenshots do projeto em termos de artefatos da Terceira Entrega.
+[//]: # (Adicione 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entrega.)
 
-## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
-Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
+[//]: # ()
+[//]: # (## Screenshots Terceira Entrega <<FOCO: DSW&#40;Padrões de Projeto&#41;>>)
+
+[//]: # (Adicione 2 ou mais screenshots do projeto em termos de artefatos da Terceira Entrega.)
+
+[//]: # ()
+[//]: # (## Screenshots Quarta Entrega &#40;FINAL&#41; <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>)
+
+[//]: # (Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.)
 
 ## Descritivo dos Principais Aspectos Técnicos 
 **Principal(is) Metodologia(s) Adotada(s)**: xxxxxx<br>
@@ -42,10 +47,14 @@ Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcioname
 **Principais Tecnologias Utilizadas e/ou Pretendidas**: xxxxxx<br>
 **Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: xxxxxx<br>
 
-## O Projeto está rodando?
-( ) SIM
-( ) NÃO
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados em consultar o projeto.
+[//]: # (## O Projeto está rodando?)
 
-## Informações Complementares 
-Quaisquer outras informações sobre seu projeto podem ser descritas nessa seção.
+[//]: # (&#40; &#41; SIM)
+
+[//]: # (&#40; &#41; NÃO)
+
+[//]: # (Se SIM, insira um manual &#40;ou um script&#41; para auxiliar ainda mais os interessados em consultar o projeto.)
+
+[//]: # (## Informações Complementares )
+
+[//]: # (Quaisquer outras informações sobre seu projeto podem ser descritas nessa seção.)
