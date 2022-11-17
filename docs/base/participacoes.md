@@ -1,8 +1,8 @@
-# 1.4. Participações - Base
+# Participações 
 
 ## Introdução 
 
-A tabela 1 compila as contribuições de cada membro, escrita a próprio punho por ele, para a entrega do primeiro módulo de documentação (*Base*).
+A tabela 1 compila as contribuições de cada membro, escritas a próprio punho por ele, para a entrega do primeiro módulo de documentação (*Base*).
 
 ## Contribuições
 
