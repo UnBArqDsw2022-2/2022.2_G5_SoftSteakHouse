@@ -2,10 +2,10 @@
 
 ## 1. Introdução
 
-Léxicos são utilizados para descrever os símbolos de uma linguagem através de suas **noções** e **impactos**, isto é, respectivamente, suas definições/conceitos/denotações e implicações/resultados. No contexto de software, geralmente toma-se a aplicação que está sendo
-desenvolvida como referencial para a medição do impacto e elicitação das denotações. 
+Léxicos são utilizados para descrever os símbolos de uma linguagem através de suas **noções** e **impactos**, isto é, respectivamente, suas definições/conceitos/denotações e suas implicações/resultados. No contexto de software, geralmente toma-se a aplicação que está sendo
+desenvolvida como referencial para a medição do impacto e elicitação das denotações.
 
-Além das noções e impactos, léxicos também possuem um, e somente um, tipo associado. Os três que serão utilizadaos podem ser visualizados na tabela 1.
+Além das noções e impactos, léxicos também possuem um, e somente um, tipo associado. Os três que serão utilizadaos podem ser visualizados na tabela 1 abaixo.
 
 | Tipo   |  Noção                                                             |  Impacto                                                                                | Sinônimos            |
 |--------|--------------------------------------------------------------------|-----------------------------------------------------------------------------------------|----------------------|
@@ -19,40 +19,40 @@ Não obstante, também possuem um sinônimo - um objeto equivalente que está as
 
 Essas quatro características são agregadas nos léxicos agrupados por tipo das tabelas abaixo.
 
-## 3. Léxicos
+## 2. Léxicos
 
-### 3.1 Verbos
+### 2.1 Verbos
 
-#### Ver cardápio
+#### LV01 - Ver cardápio
 
 | Noção                                                                                            | Impacto                                                                                                 | Sinônimos                            |
 |--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|--------------------------------------|
 | Ação realizada pelo cliente a fim de visualizar os produtos e pratos disponíveis no restaurante. | O cliente pode ver quais são os produtos oferecidos pelo restaurante, seus preços e realizar um pedido. | Olhar os pratos, acessar o cardápio. |
 
-#### Realizar pedido
+#### LV02 - Realizar pedido
 
 | Noção                                                                                                                              | Impacto                                                                                                                                         | Sinônimos                  |
 |------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
 | Ação realizada pelo cliente na qual ele seleciona um item do cardápio e solicita a um funcionário que ele seja trazido a sua mesa. | - O valor da soma dos itens selecionados é adiciona à conta do cliente; <br> - Depois de prontos, os pedidos são levados até a mesa do cliente. | Fazer pedido, pedir prato. |
 
-#### Cancelar pedido
+#### LV03 - Cancelar pedido
 
 | Noção                                                                                                               | Impacto                                                                                                                        | Sinônimos                        |
 |---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
 | Ação realizada pelo cliente na qual ele consulta alguns dos pedidos ainda não enviados para a cozinha e os cancela. | - O valor da soma dos itens cancelados é subtraída da conta do cliente; <br> - Os pedidos não serão levados à mesa do cliente. | Retirar pedido, cancelar pedido. |
 
-#### Finalizar a conta
+#### LV04 - Finalizar a conta
 
 | Noção                                                                             | Impacto                                                                                                                            | Sinônimos                      |
 |-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|
 | Ação realizada pelo cliente na qual ele consulta a lista de pedidos e a finaliza. | - <br> - Um valor final, gerado a partir da soma dos pedidos entregues, será gerado; <br> - A conta aberta pelo cliente é fechada. | Pedir a conta, fechar a conta. |
 
 
-### 3.2 Objetos
+### 2.2 Objetos
 
 #### Arquivados
 
-### 3.3 Estados
+### 2.3 Estados
 
 ## Referências Bibliográficas
 
