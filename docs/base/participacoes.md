@@ -1,8 +1,13 @@
 # 1.4. Participações - Base
 
-Breve relato sobre as participações/contribuições de cada membro à entrega. 
+## Introdução 
+
+A tabela 1 compila as contribuições de cada membro, escrita a próprio punho por ele, para a entrega do primeiro módulo de documentação (*Base*).
+
+## Contribuições
 
 |Nome do Membro | Contribuição | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
+|--|--|--|
 | Abraao Alves Ribeiro | - | - |
 | Caio Cesar Oliveira | - | - |
 | Carla Rocha Cangussú | - | - |
@@ -11,5 +16,3 @@ Breve relato sobre as participações/contribuições de cada membro à entrega.
 | Nícolas Georgeos Mantzos | - | - |
 | Taynara Cristina Ribeiro Marcellos | - | - |
 | Victor Hugo Oliveira Leão | - | - |
-
-TODOS DEVEM PARTICIPAR, MOSTRANDO SEUS PONTOS DE VISTA E COMO COLABORARAM NESSA ETAPA DO PROJETO.
