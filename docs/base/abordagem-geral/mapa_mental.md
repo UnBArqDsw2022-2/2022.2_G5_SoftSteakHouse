@@ -1,12 +1,5 @@
 # Mapa Mental
 
-## Histórico de Versões
-
-|    Data    | Versão |            Descrição            |                     Autor                     |                    Revisor                    |
-| ---------- | ------ | ------------------------------- | --------------------------------------------- | --------------------------------------------- |
-| 15/11/2022 | 1.0    | Criação do artefato Mapa Mental | [Victor Leão](https://github.com/victorleaoo) | [Abraão Alves](https://github.com/Abraao1231) |
-| 15/11/2002 | 1.1    | Revisão do artefato mapa mental | [Abraão Alves](https://github.com/Abraao1231) |                                               |
-
 ## Introdução & Objetivo
 
 Mapa mental é uma técnica eficiente que promove poder de fixação, aprendizagem rápida e agilidade na lembrança acerca de um tema. Para o projeto a ser desenvolvido, o mapa mental pode abordar, não apenas questões funcionalidades, mas também questões técnicas que serão abordadas pela equipe durante sua trajetória.
@@ -16,7 +9,6 @@ O objetivo desse artefato, então, é apresentar os mapas mentais desenvolvidos 
 ## Metodologia
 
 A partir do entendimento da estratégia e do Design Sprint, cada membro da equipe desenvolveu um mapa mental com seu conhecimento e, posteriormente, foi decidido um como fixo para o projeto.
-
 
 ## Mapas Mentais Gerados
 ### 1. Mapa Mental - Definitivo - Abraão
@@ -46,6 +38,13 @@ A partir do entendimento da estratégia e do Design Sprint, cada membro da equip
 ### 7. Mapa Mental - Victor
 
 ![MapaMental Victor](./assets/mapamental-victor.jpeg)
+
+## Histórico de Versões
+
+|    Data    | Versão |            Descrição            |                     Autor                     |                    Revisor                    |
+| ---------- | ------ | ------------------------------- | --------------------------------------------- | --------------------------------------------- |
+| 15/11/2022 | 1.0    | Criação do artefato Mapa Mental | [Victor Leão](https://github.com/victorleaoo) | [Abraão Alves](https://github.com/Abraao1231) |
+| 15/11/2002 | 1.1    | Revisão do artefato mapa mental | [Abraão Alves](https://github.com/Abraao1231) |                                               |
 
 ## Referências
 

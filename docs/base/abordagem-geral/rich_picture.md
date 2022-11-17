@@ -1,12 +1,5 @@
 # Rich Picture
 
-## Histórico de Versões
-
-|    Data    | Versão |            Descrição           |       Autor     |    Revisor    |
-|  --------  |  ----  |            ----------          | --------------- |    -------    |
-| 13/11/2022 |  1.0.0 |  Criação do artefato Rich Picture    |   [Hian Praxedes](https://github.com/HianPraxedes)    |       [Carla Cangusssú](https://github.com/Carlacangussu)       |
-| 14/11/2022 |  1.1.0 |  Adição dos Rich Pictures feitos e qual o selecionado com o Design Sprint;<br/>Correção de erros gramaticais    |   [Victor Leão](https://github.com/victorleaoo)    |       -       |
-
 ## Introdução & Objetivo
 
 O Rich Picture se trata de uma forma de modelar ideias de uma equipe, usando métodos não formais. Sendo assim, ele é perfeito para ser usado em reuniões com o cliente e/ou em times de desenvolvimento.
@@ -47,6 +40,13 @@ A partir do entendimento da estratégia e do Design Sprint, foram detectados pon
 ### 7. Rich Picture - Victor
 
 ![RichPicture Victor](./assets/richpicture-victor.jpeg)
+
+## Histórico de Versões
+
+|    Data    | Versão |            Descrição           |       Autor     |    Revisor    |
+|  --------  |  ----  |            ----------          | --------------- |    -------    |
+| 13/11/2022 |  1.0.0 |  Criação do artefato Rich Picture    |   [Hian Praxedes](https://github.com/HianPraxedes)    |       [Carla Cangusssú](https://github.com/Carlacangussu)       |
+| 14/11/2022 |  1.1.0 |  Adição dos Rich Pictures feitos e qual o selecionado com o Design Sprint;<br/>Correção de erros gramaticais    |   [Victor Leão](https://github.com/victorleaoo)    |       -       |
 
 ## Referências
 
