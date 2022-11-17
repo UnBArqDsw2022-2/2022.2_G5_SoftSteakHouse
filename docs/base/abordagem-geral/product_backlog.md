@@ -1,11 +1,5 @@
 # Product Backlog + Priorização
 
-## Histórico de versões
-
-|    Data    | Versão |      Descrição       |                   Autor(a)                    |                   Revisor(a)                    |
-| ---------- | ------ | -------------------- | --------------------------------------------- | ----------------------------------------------- |
-| 13/11/2022 |  0.1   | Criação do documento | [Victor Leão](https://github.com/victorleaoo) | [Caio César](https://github.com/oCaioOliveira) |
-
 ## Introdução & Objetivo
 
 O Product Backlog é uma consolidação dos [requisitos elicitados](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) juntamente com sua priorização, que, nesse caso, é feita por meio da técnica MoSCoW.
@@ -59,6 +53,11 @@ Os requisitos também possuem sua técnica de elicitação ou artefatos ligados 
 | RNF02 | O Front-end do sistema deve ser desenvolvido em JavaScript, utilizando a biblioteca React. | Must | [Introspecção](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
 | RNF03 | O sistema deve ser responsivo para funcionar bem tanto em ambiente WEB quanto MOBILE. | Must | [Introspecção](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/Base/AbordagemNaoEspecifica/Requisitos) |
 
+## Histórico de versões
+
+|    Data    | Versão |      Descrição       |                   Autor(a)                    |                   Revisor(a)                    |
+| ---------- | ------ | -------------------- | --------------------------------------------- | ----------------------------------------------- |
+| 13/11/2022 |  0.1   | Criação do documento | [Victor Leão](https://github.com/victorleaoo) | [Caio César](https://github.com/oCaioOliveira) |
 
 ## Referências
 
