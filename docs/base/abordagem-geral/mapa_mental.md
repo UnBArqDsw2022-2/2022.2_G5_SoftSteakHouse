@@ -44,7 +44,7 @@ A partir do entendimento da estratégia e do Design Sprint, cada membro da equip
 |    Data    | Versão |            Descrição            |                     Autor                     |                    Revisor                    |
 | ---------- | ------ | ------------------------------- | --------------------------------------------- | --------------------------------------------- |
 | 15/11/2022 | 1.0    | Criação do artefato Mapa Mental | [Victor Leão](https://github.com/victorleaoo) | [Abraão Alves](https://github.com/Abraao1231) |
-| 15/11/2002 | 1.1    | Revisão do artefato mapa mental | [Abraão Alves](https://github.com/Abraao1231) |                                               |
+| 15/11/2002 | 1.1    | Revisão do artefato mapa mental | [Abraão Alves](https://github.com/Abraao1231) |                     -                         |
 
 ## Referências
 

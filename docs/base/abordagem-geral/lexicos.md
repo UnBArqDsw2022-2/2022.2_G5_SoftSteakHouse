@@ -2,8 +2,7 @@
 
 ## 1. Introdução
 
-Léxicos são utilizados para descrever os símbolos de uma linguagem através de suas **noções** e **impactos**, isto é, respectivamente, suas definições/conceitos/denotações e suas implicações/resultados. No contexto de software, geralmente toma-se a aplicação que está sendo
-desenvolvida como referencial para a medição do impacto e elicitação das denotações.
+Léxicos são utilizados para descrever os símbolos de uma linguagem através de suas **noções** e **impactos**, isto é, respectivamente, suas definições/conceitos/denotações e suas implicações/resultados. No contexto de software, geralmente toma-se a aplicação que está sendo desenvolvida como referencial para a medição do impacto e elicitação das denotações.
 
 Além das noções e impactos, léxicos também possuem um, e somente um, tipo associado. Os três que serão utilizadaos podem ser visualizados na tabela 1 abaixo.
 
@@ -54,13 +53,13 @@ Essas quatro características são agregadas nos léxicos agrupados por tipo das
 
 | Noção                                                                                                       | Impacto                                                                                                                                                                                        | Sinônimos |
 |-------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
-| Indivíduo que se utiliza do sistema a fim de fazer e cancelar pedidos, entrar na fila, consultar preços etc | - O cliente pode logar no sistema; <br> - O cliente pode ver o cardápio dos restaurantes cadastrados; <br> - O cliente pode fazer e cancelar um pedido; <br> O cliente por contatar o suporte; | Usuário.  |
+| Indivíduo que se utiliza do sistema a fim de fazer e cancelar pedidos, entrar na fila, consultar preços etc | - O cliente pode logar no sistema; <br> - O cliente pode ver o cardápio dos restaurantes cadastrados; <br> - O cliente pode fazer e cancelar um pedido; <br> O cliente pode contatar o suporte; | Usuário.  |
 
 #### LO02 - Funcionário
 
 | Noção                                                            | Impacto                                                                                                                                                     | Sinônimos                    |
 |------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
-| Usuário que recepciona e/ou responde às solicitações do cliente. | - Um funcionário pode ver a situação dos pedidos (pendente, cancelado ou entregue) e avaliar as requisições dos clientes (esgotado, disponível, demora...); | Garçom, balconista, gerente. |
+| Usuário que recepciona e/ou responde às solicitações do cliente. | - Um funcionário pode ver a situação dos pedidos (pendente, cancelado ou entregue) e avaliar as requisições dos clientes e mesas (esgotado, disponível, demora...); | Garçom, balconista, gerente. |
 
 ### 2.3 Estados
 
@@ -70,12 +69,12 @@ Essas quatro características são agregadas nos léxicos agrupados por tipo das
 |---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
 | Métrica que avalia a atual situação de um pedido. | - Um funcionário pode ver a situação dos pedidos (pendente, cancelado ou entregue) e avaliar as requisições dos clientes (esgotado, disponível, demora...); | Garçom, balconista, gerente. |
 
-## Referências Bibliográficas
-
-SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 10. 1º/2019. 35 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
-
 ## Histórico de Versões
 
 | Versão | Data       | Descrição            | Autor                    | Revisor |
 | ------ |------------|----------------------|--------------------------|---------|
-| 1.0    | 15/11/2022 | Criação do documento | Nícolas Georgeos Mantzos | -       |
+| 1.0    | 15/11/2022 | Criação do documento | [Nícolas Georgeos Mantzos](https://github.com/ngm1450) | [Victor Leão](https://github.com/victorleaoo) |
+
+## Referências Bibliográficas
+
+SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 10. 1º/2019. 35 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
