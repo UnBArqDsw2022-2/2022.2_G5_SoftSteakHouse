@@ -1,9 +1,3 @@
-## Histórico de Versões
-
-|    Data    | Versão |            Descrição           |       Autor     |    Revisor    |
-|  --------  |  ----  |            ----------          | --------------- |    -------    |
-| 09/11/2022 |  1.0.0 |  Criação do plano de riscos    |   [Caio César](https://github.com/oCaioOliveira)    |       [Taynara](https://github.com/TaynaraCris)       |
-
 ## Introdução & Objetivo
 
 O objetivo desse documento é informar detalhadamente os riscos que podem afetar o projeto. Além de categorizar e descrever os mesmos, tendo em vista que existem diversos riscos, afetando diretamente escopo, cronograma, custo e qualidade. Portanto, é preciso definir como serão mantidos os riscos, para identificar e propor ações contra.
@@ -77,6 +71,12 @@ Para caracterização dos risco, foram usados os seguintes componentes:
 | 6 | Atraso nas entregas | Média | Alta | Comunicação frequente, especialmente durante as sprints | Realocar tarefas atrasadas; Aumentar prioridade; |
 | 7 | Requisitos mal elicitados | Média | Alta | Realizar validação de requisitos efetivamente | Comunicar o grupo; Levantar requisitos |
 | 8 | Defeitos na aplicação do projeto | Alta | Média | Realizar testes; Realizar code reviews antes de aceitar PRs sem analisar mudanças; | Alocar membros para o hot fix; |
+
+## Histórico de Versões
+
+|    Data    | Versão |            Descrição           |       Autor     |    Revisor    |
+|  --------  |  ----  |            ----------          | --------------- |    -------    |
+| 09/11/2022 |  1.0.0 |  Criação do plano de riscos    |   [Caio César](https://github.com/oCaioOliveira)    |       [Taynara](https://github.com/TaynaraCris)       |
 
 ## 6. Referências
 
