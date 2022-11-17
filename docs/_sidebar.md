@@ -7,7 +7,7 @@
   - [2ª Reunião - 13/11/2022](/atas/r2_131122.md)
 - **Base**
   - [1. Desenho de Software](/base/base.md)
-    - [1.1. Projeto Não Orientado a Abordagens Específicas]()
+    - [1.1. Projeto Não Orientado a Abordagens Específicas](/base/abordagem_geral.md)
       - [Design Sprint](/base/abordagem-geral/design_sprint.md)
       - [Léxicos](/base/abordagem-geral/lexicos.md)
       - [5W2H](/base/abordagem-geral/5w2h.md)
@@ -19,7 +19,7 @@
       - [Mapa Mental](/base/abordagem-geral/mapa_mental.md)
       - [Elicitação](/base/abordagem-geral/requisitos.md)
       - [Backlog & Priorização](/base/abordagem-geral/product_backlog.md)
-    - [1.2. Processos/Metodologias/Abordagens](/docs/base/processos_metodologias_abordagens.md)
+    - [1.2. Processos/Metodologias/Abordagens](/base/processos_metodologias_abordagens.md)
       - [Escolhas Metodológicas](/base/proce-metod-aborda/escolhas_metodologicas.md)
     - [1.3. Iniciativas Extras](/base/iniciativas_extras.md)
     - [1.4. Participações](/base/participacoes.md)
