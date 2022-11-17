@@ -52,35 +52,7 @@ Essas quatro características são agregadas nos léxicos agrupados por tipo das
 
 #### Arquivados
 
-#### Caixa de entrada
-
-#### Configurações
-
-#### Deletados recentemente
-
-#### Página
-
-#### Seguindo
-
 ### 3.3 Estados
-
-#### Alterado
-
-| Tipo   | Noção                               | Impacto                                                                 | Sinônimos           |
-| ------ | ----------------------------------- | ----------------------------------------------------------------------- | ------------------- |
-| Estado | O arquivo foi alterado pelo usuário | Toda alteração do arquivo é registrada na página de todas as alterações | Editado, atualizado |
-
-#### Arquivado
-
-| Tipo   | Noção                                         | Impacto                                                                                                                                               | Sinônimos |
-| ------ | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| Estado | A caixa de entrada foi arquivada pelo usuário | A caixa de entrada arquivada é apresentada em uma tela diferente das outras caixas, ela pode ser restaurada para a caixa de entrada normal do sistema |           |
-
-#### Deletado
-
-| Tipo   | Noção                                          | Impacto                                                                                                                                                             | Sinônimos |
-| ------ | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| Estado | O arquivo foi deletado pelo usuário do sistema | Quando o usuário restaura o arquivo ele volta para a lista de arquivos principais, mas já quando o usuário deleta permanentemente o arquivo é deletado por completo | Excluído  |
 
 ## Referências Bibliográficas
 
