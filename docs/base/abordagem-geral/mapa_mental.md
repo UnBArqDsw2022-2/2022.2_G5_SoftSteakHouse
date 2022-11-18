@@ -31,11 +31,15 @@ A partir do entendimento da estratégia e do Design Sprint, cada membro da equip
 
 ![MapaMental Lucas](./assets/mapamental-lucas.jpeg)
 
-### 6. Mapa Mental - Taynara
+### 6. Mapa Mental - Nicolas
+
+![MapaMental Nicolas](./assets/mapa_mental_nicolas.jpg)
+
+### 7. Mapa Mental - Taynara
 
 ![MapaMental Taynara](./assets/mapamental-taynara.jpeg)
 
-### 7. Mapa Mental - Victor
+### 8. Mapa Mental - Victor
 
 ![MapaMental Victor](./assets/mapamental-victor.jpeg)
 

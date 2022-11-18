@@ -33,11 +33,15 @@ A partir do entendimento da estratégia e do Design Sprint, foram detectados pon
 
 ![RichPicture Lucas](./assets/richpicture-lucas.jpg)
 
-### 6. Rich Picture - Taynara
+### 6. Rich Picture - Nicolas
+
+![RichPicture Nicolas](./assets/rich_picture_nicolas.jpg)
+
+### 7. Rich Picture - Taynara
 
 ![RichPicture Taynara](./assets/richpicture-taynara.jpeg)
 
-### 7. Rich Picture - Victor
+### 8. Rich Picture - Victor
 
 ![RichPicture Victor](./assets/richpicture-victor.jpeg)
 
