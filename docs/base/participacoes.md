@@ -14,7 +14,7 @@ A tabela 1 compila as contribuições de cada membro, escritas a próprio punho 
 | Hian Praxedes de Souza Oliveira    | Crianção do documento do Rich Picture, mapa mental e revisão de melhorias feitas no documento do Rich Picture                                                                             | Excelente                                                                              |
 | Lucas Rodrigues Monteiro           | -                                                                               | -                                                                              |
 | Nícolas Georgeos Mantzos           | -                                                                               | -                                                                              |
-| Taynara Cristina Ribeiro Marcellos | -                                                                               | -                                                                              |
+| Taynara Cristina Ribeiro Marcellos | Criação do plano de custo e plano de tempo, mapa mental e rich picture. Revisão do plano de risco e BPMN                                                                               | Excelente                                                                     |
 | Victor Hugo Oliveira Leão          | Participação na criação dos artefatos: Diagrama causa-efeito; Design Sprint; Mapa Mental; Elicitação; Product Backlog; Rich Picture; BPMN <br/>Revisão nos artefatos: léxicos; 5W2H; Guia de Estilo | Excelente|
 
 |    Data    | Versão |            Descrição           |       Autor     |    Revisor    |
