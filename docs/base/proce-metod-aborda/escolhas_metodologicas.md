@@ -12,7 +12,7 @@ O Scrum é uma metodologia ágil para gestão e planejamento de projetos de soft
 
 Nessa metodologia, os projetos são divididos em ciclos de desenvolvimento com tempos e um conjunto de tarefas determinados, chamados Sprints. Para a construção dessas Sprints, as atividades são baseadas na lista de funcionalidades feita no ínicio do projeto, o Product Backlog.
 
-No Scrum, reuniões são essenciais. Primeiramente, no ínicio de cada Sprint, há uma reunião de "Planning", em que é planejado quais tarefas serão feitas e quem as farão durante o ciclo. Durante a Sprint, cada dia ocorre uma reunião "Daily" em que cada membro fala o que foi feito, seus impedimentos e quais os trabalhos no dia que se segue. No fim de cada Sprint, então, acontece a "Review", em que ocorre a apresentação do desenvolvido. 
+No Scrum, reuniões são essenciais. Primeiramente, no ínicio de cada Sprint, há uma reunião de "Planning", em que é planejado quais tarefas serão feitas e quem as farão durante o ciclo. Durante a Sprint, diariamente ocorre uma reunião "Daily" em que cada membro fala o que foi feito, seus impedimentos e quais os trabalhos planejados para o dia seguinte. No fim de cada Sprint, então, acontece a "Review", em que ocorre a apresentação do que foi desenvolvido. 
 
 ![Scrum Representação](./assets/scrum.jpg)
 
@@ -45,7 +45,7 @@ A figura a seguir mostra o quadro nos dias finais da última entrega.
 
 |    Data    | Versão |            Descrição           |       Autor     |    Revisor    |
 |  --------  |  ----  |            ----------          | --------------- |    -------    |
-| 17/11/2022 |  1.0.0 |  Criação do artefato de Escolhas Metodológicas    |   [Victor Leão](https://github.com/victorleaoo)    |       -       |
+| 17/11/2022 |  1.0.0 |  Criação do artefato de Escolhas Metodológicas    |   [Victor Leão](https://github.com/victorleaoo)    |       [Caio César](https://github.com/oCaioOliveira)       |
 
 ## Referências
 
