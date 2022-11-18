@@ -15,4 +15,4 @@ A tabela 1 compila as contribuições de cada membro, escritas a próprio punho 
 | Lucas Rodrigues Monteiro           | -                                                                               | -                                                                              |
 | Nícolas Georgeos Mantzos           | -                                                                               | -                                                                              |
 | Taynara Cristina Ribeiro Marcellos | -                                                                               | -                                                                              |
-| Victor Hugo Oliveira Leão          | -                                                                               | -                                                                              |
+| Victor Hugo Oliveira Leão          | Participação na criação dos artefatos: Diagrama causa-efeito; Design Sprint; Mapa Mental; Elicitação; Product Backlog; Rich Picture; BPMN <br/>Revisão nos artefatos: léxicos; 5W2H; Guia de Estilo | Excelente|
