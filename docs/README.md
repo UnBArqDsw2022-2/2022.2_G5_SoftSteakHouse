@@ -63,9 +63,9 @@ Uma referência para essa aplicação: [Life Box](https://www.vucafood.com.br/li
 [//]: # (Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.)
 
 ## Descritivo dos Principais Aspectos Técnicos 
-**Principal(is) Metodologia(s) Adotada(s)**: xxxxxx<br>
-**Principais Linguagens Utilizadas e/ou Pretendidas**: xxxxxx<br>
-**Principais Tecnologias Utilizadas e/ou Pretendidas**: xxxxxx<br>
+**Principal(is) Metodologia(s) Adotada(s)**: Scrum e Kanban<br>
+**Principais Linguagens Utilizadas e/ou Pretendidas**: Python e JavaScript<br>
+**Principais Tecnologias Utilizadas e/ou Pretendidas**: Django (Back-end) e React (Front-end)<br>
 **Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: xxxxxx<br>
 
 [//]: # (## O Projeto está rodando?)
