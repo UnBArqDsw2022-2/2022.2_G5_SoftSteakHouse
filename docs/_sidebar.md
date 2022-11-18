@@ -19,6 +19,7 @@
       - [Mapa Mental](/base/abordagem-geral/mapa_mental.md)
       - [Elicitação](/base/abordagem-geral/requisitos.md)
       - [Backlog & Priorização](/base/abordagem-geral/product_backlog.md)
+      - [Guia de Estilo](/base/abordagem-geral/guia_estilo.md)
     - [1.2. Processos/Metodologias/Abordagens](/base/processos_metodologias_abordagens.md)
       - [Escolhas Metodológicas](/base/proce-metod-aborda/escolhas_metodologicas.md)
     - [1.3. Iniciativas Extras](/base/iniciativas_extras.md)
