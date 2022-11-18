@@ -19,6 +19,7 @@
       - [Mapa Mental](/base/abordagem-geral/mapa_mental.md)
       - [Elicitação](/base/abordagem-geral/requisitos.md)
       - [Backlog & Priorização](/base/abordagem-geral/product_backlog.md)
+      - [Personas](/base/abordagem-geral/personas.md)
       - [Guia de Estilo](/base/abordagem-geral/guia_estilo.md)
     - [1.2. Processos/Metodologias/Abordagens](/base/processos_metodologias_abordagens.md)
       - [BPMN](/base/proce-metod-aborda/BPMN.md)
