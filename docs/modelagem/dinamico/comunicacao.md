@@ -12,17 +12,20 @@ O Diagrama de Comunicação tem 3 elementos principais na sua composição:
 2. Lifeline: é a especialização do elemento nomeado que representa um participante individual na interação. É mostrado como um retângulo com a identificação por escrito dentro dele.
 3. Message: é uma linha com a expressão da sequência com uma seta embaixo indicando a direção da comunicação. A sequência é numerada. 
 
-A partir do entendimento da diagramação e de seus elementos, foram desenvolvidos diagramas para 3 tipos de casos de usos diferentes encontrados no projeto: 
+A partir do entendimento da diagramação e de seus elementos, foram desenvolvidos diagramas para 2 tipos de casos de usos diferentes encontrados no projeto: 
 
-* **Cardápio**
-* **Mesas**
-* **Pedidos**
+* **Cliente**
+* **Funcionário**
 
 ## Diagramas
 
-### Cardápio
+### Cliente
 
-### Mesas
+![Diagrama Comunicação Cliente](./assets/diagrama-comunicacao-cliente.png)
+
+### Funcionário
+
+![Diagrama Comunicação Funcionário](./assets/diagrama-comunicacao-func.png)
 
 ### Pedidos
 
@@ -31,6 +34,7 @@ A partir do entendimento da diagramação e de seus elementos, foram desenvolvid
 |    Data    | Versão |            Descrição           |       Autor     |    Revisor    |
 |  --------  |  ----  |            ----------          | --------------- |    -------    |
 | 29/11/2022 |  1.0.0 |  Criação do artefato de Diagrama de Comunicação | [Victor Leão](https://github.com/victorleaoo) | [Lucas Rodrigues](https://github.com/nickby2) |
+| 30/11/2022 |  1.1.0 |  Adição dos diagramas | [Victor Leão](https://github.com/victorleaoo) | [Lucas Rodrigues](https://github.com/nickby2) |
 
 ## Referências
 
