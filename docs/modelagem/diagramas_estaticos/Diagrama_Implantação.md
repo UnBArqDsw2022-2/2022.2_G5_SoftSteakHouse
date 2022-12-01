@@ -28,7 +28,7 @@ Os diagramas de implantação são normalmente usados para visualizar o hardware
 
 ## Diagrama
 
-![Diagrama de Implantação](./assets/Diagrama_Implantacao.png)
+![Diagrama de Implantação](../../assets/Diagrama_Implantacao.png)
 
 
 ## Histório de versão
