@@ -29,19 +29,17 @@
     - [1.3. Iniciativas Extras](/base/iniciativas_extras.md)
     - [1.4. Participações](/base/participacoes.md)
 
-[//]: # (- **Modelagem**)
+- **Modelagem**
 
-[//]: # (  - [2. Desenho de Software]&#40;/docs/modelagem/modelagem.md&#41;)
+  - [2. Desenho de Software](/docs/modelagem/modelagem.md)
 
-[//]: # (    - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais]&#40;/docs/modelagem/modelagem_tradicional.md&#41;)
+    - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](/docs/modelagem/modelagem_tradicional.md)
+      - [2.1.1. Notação UML – Diagramas Estáticos](modelagem/uml_estaticos.md)
+        - [Diagrama de pacotes](modelagem/diagramas_estaticos/diagrama_pacotes.md)
+      - [2.1.2. Notação UML – Diagramas Dinâmicos](modelagem/uml_dinamicos.md)
+      - [2.1.3. Modelagem Ágil](modelagem/agil.md)
 
-[//]: # (      - [2.1.1. Notação UML – Diagramas Estáticos]&#40;/docs/modelagem/uml_estaticos.md&#41;)
-
-[//]: # (      - [2.1.2. Notação UML – Diagramas Dinâmicos]&#40;/docs/modelagem/uml_dinamicos.md&#41;)
-
-[//]: # (      - [2.1.3. Modelagem Ágil]&#40;/docs/modelagem/agil.md&#41;)
-
-[//]: # (    - [2.2. Iniciativas Extras]&#40;/docs/modelagem/iniciativas_extras.md&#41;)
+    - [2.2. Iniciativas Extras](modelagem/iniciativas_extras.md)
 
 [//]: # (    - [2.3. Participações]&#40;/docs/modelagem/participacoes_modelagem.md&#41;)
 
