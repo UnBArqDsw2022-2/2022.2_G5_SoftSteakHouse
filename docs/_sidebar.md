@@ -5,6 +5,8 @@
 - **Ata de Reuniões**
   - [1ª Reunião - 07/11/2022](/atas/r1_071122.md)
   - [2ª Reunião - 13/11/2022](/atas/r2_131122.md)
+  - [3ª Reunião - 23/11/2022](/atas/r3_231122.md)
+  - [4ª Reunião - 30/11/2022](/atas/r4_301122.md)
 - **Base**
   - [1. Desenho de Software](/base/base.md)
     - [1.1. Projeto Não Orientado a Abordagens Específicas](/base/abordagem_geral.md)
@@ -27,19 +29,18 @@
     - [1.3. Iniciativas Extras](/base/iniciativas_extras.md)
     - [1.4. Participações](/base/participacoes.md)
 
-[//]: # (- **Modelagem**)
+- **Modelagem**
 
-[//]: # (  - [2. Desenho de Software]&#40;/docs/modelagem/modelagem.md&#41;)
+  - [2. Desenho de Software](/docs/modelagem/modelagem.md)
 
-[//]: # (    - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais]&#40;/docs/modelagem/modelagem_tradicional.md&#41;)
+    - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](/docs/modelagem/modelagem_tradicional.md)
+      - [2.1.1. Notação UML – Diagramas Estáticos](modelagem/uml_estaticos.md)
+        - [Diagrama de pacotes](modelagem/diagramas_estaticos/diagrama_pacotes.md)
+        - [Diagrama de implantação](modelagem/diagramas_estaticos/Diagrama_Implantação.md)
+      - [2.1.2. Notação UML – Diagramas Dinâmicos](modelagem/uml_dinamicos.md)
+      - [2.1.3. Modelagem Ágil](modelagem/agil.md)
 
-[//]: # (      - [2.1.1. Notação UML – Diagramas Estáticos]&#40;/docs/modelagem/uml_estaticos.md&#41;)
-
-[//]: # (      - [2.1.2. Notação UML – Diagramas Dinâmicos]&#40;/docs/modelagem/uml_dinamicos.md&#41;)
-
-[//]: # (      - [2.1.3. Modelagem Ágil]&#40;/docs/modelagem/agil.md&#41;)
-
-[//]: # (    - [2.2. Iniciativas Extras]&#40;/docs/modelagem/iniciativas_extras.md&#41;)
+    - [2.2. Iniciativas Extras](modelagem/iniciativas_extras.md)
 
 [//]: # (    - [2.3. Participações]&#40;/docs/modelagem/participacoes_modelagem.md&#41;)
 
