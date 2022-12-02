@@ -41,13 +41,14 @@ Os desenhos escolhidos também podem ser encontrados nas páginas do [Rich Pictu
 
 A etapa de prototipação foca na elaboração do protótipo, usando o chamado "realistic-looking" para trazer um protótipo fidedigno à solução desejada.
 
-Para melhor visualização, um documento único para essa técnica foi criado, ele pode ser encontrado em: [Protótipo de Alta Fidelidade]().
+Para melhor visualização, um documento único para essa técnica foi criado, ele pode ser encontrado em: [Protótipo de Alta Fidelidade](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/base/abordagem-geral/prototipo-alta-fidelidade).
 
 ## Histórico de Versões
 
 |    Data    | Versão |            Descrição           |       Autor     |    Revisor    |
 |  --------  |  ----  |            ----------          | --------------- |    -------    |
 | 14/11/2022 |  1.0.0 |  Criação do artefato do Design Sprint    |   [Victor Leão](https://github.com/victorleaoo)    |       [Caio César](https://github.com/oCaioOliveira)     |
+| 02/12/2022 |  1.1.0 |  Adição link prototipo alta fidelidade    |   [Victor Leão](https://github.com/victorleaoo)    |       [Caio César](https://github.com/oCaioOliveira)     |
 
 ## Referências
 
