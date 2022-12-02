@@ -36,7 +36,7 @@
 
     - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](/docs/modelagem/modelagem_tradicional.md)
       - [2.1.1. Notação UML – Diagramas Estáticos](modelagem/uml_estaticos.md)
-        - [Diagrama de pacotes](modelagem/diagramas_estaticos/diagrama_pacotes.md)
+        - [Diagrama de Pacotes](modelagem/diagramas_estaticos/diagrama_pacotes.md)
       - [2.1.2. Notação UML – Diagramas Dinâmicos](modelagem/uml_dinamicos.md)
       - [2.1.3. Modelagem Ágil](modelagem/agil.md)
 
