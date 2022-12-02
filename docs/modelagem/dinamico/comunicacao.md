@@ -17,6 +17,8 @@ A partir do entendimento da diagramação e de seus elementos, foram desenvolvid
 * **Cliente**
 * **Funcionário**
 
+A ferramenta utilizada para a criação dos diagramas foi a **diagrams.net** (conectada com o Google Drive).
+
 ## Diagramas
 
 ### Cliente
@@ -35,6 +37,7 @@ A partir do entendimento da diagramação e de seus elementos, foram desenvolvid
 |  --------  |  ----  |            ----------          | --------------- |    -------    |
 | 29/11/2022 |  1.0.0 |  Criação do artefato de Diagrama de Comunicação | [Victor Leão](https://github.com/victorleaoo) | [Lucas Rodrigues](https://github.com/nickby2) |
 | 30/11/2022 |  1.1.0 |  Adição dos diagramas | [Victor Leão](https://github.com/victorleaoo) | [Lucas Rodrigues](https://github.com/nickby2) |
+| 02/12/2022 |  1.1.1 |  Mudança no Diagrama de Cliente retirando classe inexistente | [Victor Leão](https://github.com/victorleaoo) | [Lucas Rodrigues](https://github.com/nickby2) |
 
 ## Referências
 
