@@ -11,6 +11,7 @@
   - [1. Desenho de Software](/base/base.md)
     - [1.1. Projeto Não Orientado a Abordagens Específicas](/base/abordagem_geral.md)
       - [Design Sprint](/base/abordagem-geral/design_sprint.md)
+      - [Protótipo de Alta Fidelidade](/base/abordagem-geral/prototipo-alta-fidelidade.md)
       - [Léxicos](/base/abordagem-geral/lexicos.md)
       - [5W2H](/base/abordagem-geral/5w2h.md)
       - [Diagrama Causa-Efeito](/base/abordagem-geral/causa_efeito.md)
