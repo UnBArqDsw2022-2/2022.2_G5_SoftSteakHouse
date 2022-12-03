@@ -38,6 +38,7 @@
       - [2.1.1. Notação UML – Diagramas Estáticos](modelagem/uml_estaticos.md)
         - [Diagrama de Pacotes](modelagem/diagramas_estaticos/diagrama_pacotes.md)
       - [2.1.2. Notação UML – Diagramas Dinâmicos](modelagem/uml_dinamicos.md)
+        - [Diagrama de Sequência](modelagem/diagramas_dinamicos/diagrama-sequencia.md)
       - [2.1.3. Modelagem Ágil](modelagem/agil.md)
 
     - [2.2. Iniciativas Extras](modelagem/iniciativas_extras.md)
