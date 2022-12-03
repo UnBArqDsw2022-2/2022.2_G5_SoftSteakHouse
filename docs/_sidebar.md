@@ -42,6 +42,7 @@
       - [2.1.2. Notação UML – Diagramas Dinâmicos](modelagem/uml_dinamicos.md)
         - [Diagrama de Pacotes](modelagem/diagramas_estaticos/diagrama_pacotes.md)
         - [Diagrama de Componentes](modelagem/diagramas_estaticos/diagrama_componentes.md)
+        - [Diagrama de Atividades](modelagem/diagramas_dinamicos/atividades.md)
       - [2.1.2. Notação UML – Diagramas Dinâmicos](modelagem/uml_dinamicos.md)
         - [Diagrama de Sequência](modelagem/diagramas_dinamicos/diagrama-sequencia.md)
       - [2.1.3. Modelagem Ágil](modelagem/agil.md)
