@@ -25,10 +25,11 @@ A partir do entendimento da diagramação e de seus elementos, foram desenvolvid
 
 ### Reserva de mesa
 
-![Diagrama de atividades Reserva de mesa](./assets/reserva_de_mesa.png)
+![Diagrama de atividades Reserva de mesa](../../assets/reserva_de_mesa.png)
 
 ### Geral
-![Diagrama de atividades Geral](./assets/geral.png)
+
+![Diagrama de atividades Geral](../../assets/geral.png)
 
 ## Histório de versão
 

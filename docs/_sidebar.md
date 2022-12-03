@@ -32,9 +32,9 @@
 
 - **Modelagem**
 
-  - [2. Desenho de Software](/docs/modelagem/modelagem.md)
+  - [2. Desenho de Software](modelagem/modelagem.md)
 
-    - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](/docs/modelagem/modelagem_tradicional.md)
+    - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](modelagem/modelagem_tradicional.md)
       - [2.1.1. Notação UML – Diagramas Estáticos](modelagem/uml_estaticos.md)
         - [Diagrama de Pacotes](modelagem/diagramas_estaticos/diagrama_pacotes.md)
         - [Diagrama de Componentes](modelagem/diagramas_estaticos/diagrama_componentes.md)
