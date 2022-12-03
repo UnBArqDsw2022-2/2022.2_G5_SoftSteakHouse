@@ -5,10 +5,13 @@
 - **Ata de Reuniões**
   - [1ª Reunião - 07/11/2022](/atas/r1_071122.md)
   - [2ª Reunião - 13/11/2022](/atas/r2_131122.md)
+  - [3ª Reunião - 23/11/2022](/atas/r3_231122.md)
+  - [4ª Reunião - 30/11/2022](/atas/r4_301122.md)
 - **Base**
   - [1. Desenho de Software](/base/base.md)
     - [1.1. Projeto Não Orientado a Abordagens Específicas](/base/abordagem_geral.md)
       - [Design Sprint](/base/abordagem-geral/design_sprint.md)
+      - [Protótipo de Alta Fidelidade](/base/abordagem-geral/prototipo-alta-fidelidade.md)
       - [Léxicos](/base/abordagem-geral/lexicos.md)
       - [5W2H](/base/abordagem-geral/5w2h.md)
       - [Diagrama Causa-Efeito](/base/abordagem-geral/causa_efeito.md)
@@ -36,6 +39,28 @@
     - [2.2. Iniciativas Extras](/modelagem/iniciativas_extras.md)
     - [2.3. Participações](/modelagem/participacoes_modelagem.md)
 
+- **Modelagem**
+
+  - [2. Desenho de Software](/docs/modelagem/modelagem.md)
+
+    - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](/docs/modelagem/modelagem_tradicional.md)
+      - [2.1.1. Notação UML – Diagramas Estáticos](modelagem/uml_estaticos.md)
+        - [Diagrama de Pacotes](modelagem/diagramas_estaticos/diagrama_pacotes.md)
+        - [Diagrama de Componentes](modelagem/diagramas_estaticos/diagrama_componentes.md)
+        - [Diagrama de Implantação](modelagem/diagramas_estaticos/Diagrama_Implantação.md)
+      - [2.1.2. Notação UML – Diagramas Dinâmicos](modelagem/uml_dinamicos.md)
+        - [Diagrama de Pacotes](modelagem/diagramas_estaticos/diagrama_pacotes.md)
+        - [Diagrama de Componentes](modelagem/diagramas_estaticos/diagrama_componentes.md)
+        - [Diagrama de Comunicação](/modelagem/dinamico/comunicacao.md)
+      - [2.1.2. Notação UML – Diagramas Dinâmicos](modelagem/uml_dinamicos.md)
+        - [Diagrama de Sequência](modelagem/diagramas_dinamicos/diagrama-sequencia.md)
+      - [2.1.3. Modelagem Ágil](modelagem/agil.md)
+
+    - [2.2. Iniciativas Extras](modelagem/iniciativas_extras.md)
+
+[//]: # (    - [2.3. Participações]&#40;/docs/modelagem/participacoes_modelagem.md&#41;)
+
+[//]: # ()
 [//]: # (- **Padrões de Projeto**)
 
 [//]: # (  - [3. Desenho de Software]&#40;/padroes-projeto/padroes_projeto.md&#41;)
