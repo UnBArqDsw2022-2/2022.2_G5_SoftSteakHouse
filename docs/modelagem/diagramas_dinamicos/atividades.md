@@ -17,7 +17,7 @@ O Diagrama de Atividades tem 5 elementos principais na sua composição:
 5. Linhas de Atividade
 >Nos diagramas de atividades, uma extremidade de atividade é uma conexão direcionada entre dois nós de atividade. Quando uma ação específica em uma atividade é concluída, a linha de atividade continua o fluxo para a próxima ação na seqüência.
 
-A partir do entendimento da diagramação e de seus elementos, foram desenvolvidos diagramas para 3 tipos de casos de usos diferentes encontrados no projeto:
+A partir do entendimento da diagramação e de seus elementos, foram desenvolvidos diagramas para 2 tipos de casos de usos diferentes encontrados no projeto:
 * Reserva de mesa
 * Geral, que é composto por acessar o cardápio online, gerenciar o pedido e gerenciar mesa
 
@@ -34,7 +34,7 @@ A partir do entendimento da diagramação e de seus elementos, foram desenvolvid
 
 Data | Versão |Descrição |Autor | Revisor
 -----|--------|----------|------|--------
-30/11/2022| 1.0.0| Elaboração do artefato de Diagrama de Atividades | Carla | --
+30/11/2022| 1.0.0| Elaboração do artefato de Diagrama de Atividades | [Carla Cangusssú](https://github.com/Carlacangussu) | [Victor Leão](https://github.com/victorleaoo)
 
 ## Referências
 SERRANO, Milene. Diagrama de Colaboração, 2022. Material apresentado na Disciplina de Arquitetura e Desenho de Software do curso de engenharia de software da UnB, FGA. Acesso em: 30 nov. 2022.
