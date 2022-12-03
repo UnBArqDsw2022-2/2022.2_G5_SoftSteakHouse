@@ -1,4 +1,35 @@
-# Backlog 
+# Product Backlog Priorizado
+
+## Introdução 
+
+De forma simples, o Product Backlog é uma lista extensa de itens que compõem e são desejados no produto a ser desenvolvido. Esse artefato é mutável ao longo do projeto, então, novos itens podem ser adicionados, os itens já presentes podem sofrer alterações e ainda removidos. Por ter essas características, é muito comum encontrar o Product Backlog em projetos que usam metodologias ágeis, o que é o caso desse projeto, que, como explicitado, no artefato de [Escolhas Metodológicas](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/base/proce-metod-aborda/escolhas_metodologicas), segue Scrum.
+
+Com os itens definidos, é importante ordená-los, para que haja conhecimento de quais são mais relevantes (e, portanto, devem receber mais atenção) e quais são poucos essenciais para a entrega e funcionamento do produto. Dessa forma, para realizar essa tarefa, a técnica **MoSCoW** foi a escolhida.
+
+## Metodologia
+
+### Product Backlog
+
+Buscando a criação de Product Backlog com diferentes níveis de granularidade, isto é, a especificidade da descrição, foi seguido um padrão com 5 níveis (começando pelo menor nível e acabando com o maior):
+
+- Épico
+- Feature
+- História de Usuário
+- Critérios de Aceitação
+- Tarefas
+
+Dessa forma, uma tabela foi criada com a identificação (ID) de cada uma das histórias, o épico e feature que a história pertence, também com seus critérios de aceitação. Além disso, pode-se encontrar a prioridade da história e sua rastreabilidade em artefatos anteriores.
+
+### Priorização
+
+Para realizar a priorização do itens (em especial, as histórias de usuário), foi usada a técnica MoSCoW, que trabalha com os seguintes níveis de prioridade:
+
+- Must (Have): requisitos que são indispensáveis para o funcionamento do software.
+- Should (Have): requisitos importantes, mas não vitais/críticos.
+- Could (Have): requisitos desejáveis, mas que podem ser atendidos quando houver tempo e disposição.
+- Would (Have): requisitos menos críticos, com menor retorno final.
+
+## Product Backlog
 
 | ID   | Épico | Feature | História de usuário | Priorização | Rastreabilidade | Critérios de Aceitação |
 | ---- | ----- | ------- | --------------      | ----------- | ----            | ---------------        |
@@ -20,10 +51,14 @@
 | US0 | E04 - Gerenciamento de Pedidos | FE10 - CRUD de pedido | História de usuário | Must | Rastreabilidade | Critérios de Aceitação |
 | US0 | E04 - Gerenciamento de Pedidos | FE11 - Mudança de estado de pedido | História de usuário | Must | Rastreabilidade | Critérios de Aceitação |
 
-### Histórico de Versões
+## Histórico de Versões
 
 | Data  | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
 | 03/12/2022 | 0.1 | Criação do documento | [Caio César](https://github.com/oCaioOliveira) | [Victor Leão](https://github.com/victorleaoo) |
 | 03/12/2022 | 0.2 | Criação dos épicos e features | [Caio César](https://github.com/oCaioOliveira) | [Victor Leão](https://github.com/victorleaoo) |
 | 03/12/2022 | 0.3 | Criação de histórias de usuários nos épicos 2 e 3 | [Caio César](https://github.com/oCaioOliveira) | [Victor Leão](https://github.com/victorleaoo) |
+
+## Referências
+
+**PRODUCT BACKLOG | ELEMENTOS BASE DO FRAMEWORK SCRUM**, 2018. Disponível em: https://www.youtube.com/watch?v=Gh9PEgZIBCo. Acesso em: 03 dez. 2022.
