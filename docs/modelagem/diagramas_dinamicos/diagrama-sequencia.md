@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Modela as interações entre objetos em um caso de uso. Ilustra como diferentes partes do sistema interagem entre si para realizar determinada função, e a ordem que as interações ocorrem quando um caso de uso é executado.
+O Diagrama de Sequência modela as interações entre objetos em um caso de uso. Ilustra como diferentes partes do sistema interagem entre si para realizar determinada função, e a ordem que as interações ocorrem quando um caso de uso é executado.
 
 ## Notações
 
@@ -16,7 +16,7 @@ Quando possui um símbolo de ator é usada quando o diagrama de sequência perte
 
 ### Entidade
 
-Representa os dados do sistema. Por exemplo, uma aplicação de restaurante, a entidade Funcionário administraria todos os ddos relacionados as mesas.
+Representa os dados do sistema. Por exemplo, uma aplicação de restaurante, a entidade Funcionário administraria todos os dados relacionados as mesas.
 
 ### Interface
 
@@ -36,14 +36,14 @@ Pode fluir em qualquer direção. Pode-se descrever a mensagem que está passand
 
 ## Diagrama
 
- ![Diagrama de Sequência](../assets/sequência.png)
- ![Diagrama de Sequência](../assets/DiagramaSequência.png)
+![Diagrama de Sequência](../../assets/DiagramaSeq.png)
 
- ## Histórico de versão
+## Histórico de versão
 
- Data | Versão |Descrição |Autor | Revisor
------|--------|----------|------|--------
-03/12/2022| 1.0.0| Elaboração do artefato de Diagrama de Implantação | Taynara | --
+| Data | Versão |Descrição |Autor | Revisor |
+| -----|--------|----------|------|-------- |
+| 03/12/2022 | 1.0.0| Elaboração do artefato de Diagrama de Implantação | [Taynara](https://github.com/TaynaraCris) | [Victor Leão](https://github.com/victorleaoo) |
+| 03/12/2022 | 1.1.0| Correções gramaticais e escolha do diagrama correto | [Victor Leão](https://github.com/victorleaoo) | [Taynara](https://github.com/TaynaraCris) |
 
 ## Referências
 SERRANO, Milene. Diagrama de Colaboração, 2022. Material apresentado na Disciplina de Arquitetura e Desenho de Software do curso de engenharia de software da UnB, FGA. Acesso em: 30 nov. 2022.
