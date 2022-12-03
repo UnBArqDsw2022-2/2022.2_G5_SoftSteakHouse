@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Um diagrama de implantação é um tipo de diagrama UML que mostra a de execução arquitectura de um sistema, incluindo nós, como ambientes de execução de hardware ou software, e o middleware que os conecta.
+Um diagrama de implantação é um tipo de diagrama UML que mostra a execução arquitetural de um sistema, incluindo nós, como ambientes de execução de hardware ou software, e o middleware que os conecta.
 
 Os diagramas de implantação são normalmente usados para visualizar o hardware e software físico de um sistema.
 
@@ -35,7 +35,7 @@ Os diagramas de implantação são normalmente usados para visualizar o hardware
 
 Data | Versão |Descrição |Autor | Revisor
 -----|--------|----------|------|--------
-30/11/2022| 1.0.0| Elaboração do artefato de Diagrama de Implantação | Hian | --
+30/11/2022| 1.0.0| Elaboração do artefato de Diagrama de Implantação | [Hian Praxedes](https://github.com/HianPraxedes) | [Victor Leão](https://github.com/victorleaoo)
 
 ## Referências
 SERRANO, Milene. Diagrama de Colaboração, 2022. Material apresentado na Disciplina de Arquitetura e Desenho de Software do curso de engenharia de software da UnB, FGA. Acesso em: 30 nov. 2022.
