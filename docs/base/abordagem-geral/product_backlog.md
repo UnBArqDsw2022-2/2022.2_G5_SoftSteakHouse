@@ -6,6 +6,8 @@ O Product Backlog é uma consolidação dos [requisitos elicitados](https://unba
 
 Portanto, o objetivo desse artefato é mostrar os requisitos elicitados e sua prioridade no projeto em um momento inicial.
 
+**Importante:** O Product Backlog definido e mais elaborado do projeto pode ser encontrado em: .
+
 ## Metodologia
 
 A metodologia usada para a priorização dos requisitos elicitados é a MoSCoW, que trabalha com a seguinte divisão:
