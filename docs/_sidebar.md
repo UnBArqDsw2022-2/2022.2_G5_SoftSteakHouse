@@ -29,6 +29,15 @@
       - [Escolhas Metodológicas](/base/proce-metod-aborda/escolhas_metodologicas.md)
     - [1.3. Iniciativas Extras](/base/iniciativas_extras.md)
     - [1.4. Participações](/base/participacoes.md)
+- **Modelagem**
+  - [2. Desenho de Software](/modelagem/modelagem.md)
+    - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](/modelagem/modelagem_tradicional.md)
+      - [2.1.1. Notação UML – Diagramas Estáticos](/modelagem/uml_estaticos.md)
+      - [2.1.2. Notação UML – Diagramas Dinâmicos](/modelagem/uml_dinamicos.md)
+        - [Diagrama de Comunicação](/modelagem/dinamico/comunicacao.md)
+      - [2.1.3. Modelagem Ágil](/modelagem/agil.md)
+    - [2.2. Iniciativas Extras](/modelagem/iniciativas_extras.md)
+    - [2.3. Participações](/modelagem/participacoes_modelagem.md)
 
 - **Modelagem**
 
@@ -39,6 +48,7 @@
         - [Diagrama de Pacotes](modelagem/diagramas_estaticos/diagrama_pacotes.md)
         - [Diagrama de Componentes](modelagem/diagramas_estaticos/diagrama_componentes.md)
         - [Diagrama de Implantação](modelagem/diagramas_estaticos/Diagrama_Implantação.md)
+        - [Diagrama de Comunicação](/modelagem/dinamico/comunicacao.md)
       - [2.1.2. Notação UML – Diagramas Dinâmicos](modelagem/uml_dinamicos.md)
         - [Diagrama de Sequência](modelagem/diagramas_dinamicos/diagrama-sequencia.md)
         - [Diagrama de Atividades](modelagem/diagramas_dinamicos/atividades.md)

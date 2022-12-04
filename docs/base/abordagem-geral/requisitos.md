@@ -8,11 +8,13 @@ Como as metodologias escolhidas pela equipe são baseadas em abordagens ágeis, 
 
 ## Metodologia
 
-Foram, a princípio, utilizadas duas técnicas de elicitação (introspecção e observação) para levantar os requisitos funcionais e não-funcionais do projeto.
+Foram, a princípio, utilizadas duas técnicas de elicitação (introspecção e observação) para levantar os requisitos funcionais e não-funcionais do projeto. Cada uma dessas técnicas é melhor explicada em seus pontos.
 
 ## Introspecção
 
-É uma técnica em que o desenvolvedor se posiciona no papel do cliente/usuário do projeto e elicita os requisitos pensando nos seus desejos e fluxos de usos.
+É uma técnica em que o desenvolvedor se posiciona no papel do cliente/usuário do projeto e elicita os requisitos pensando nos seus desejos e fluxos de usos. Essa técnica é muito eficiente no início do projeto durante um levantamento breve do que foi entendido, estimado e imaginado de forma objetiva.
+
+É importante mencionar que essa técnica pode não trazer muita complexidade em consideração. Além disso, como é dito por Diego Paganini em seu artigo on-line publicado sobre técnicas de elicitação, a integridade dos requisitos elicitados pode ser questionada, uma vez que o desenvolvedor/engenheiro de requisitos pode levar sua própria experiência (ou visão) e habilidades, distanciando-se da realidade dos verdadeiros usuários finais.
 
 Participante da técnica:
 - [Caio César](https://github.com/oCaioOliveira)
@@ -45,7 +47,9 @@ Participante da técnica:
 
 ## Observação
 
-A técnica de observação consiste em, como o próprio nome já diz, observar um usuário em seu fluxo de uso e obter os requisitos a partir dessa prática. Essa técnica é muito útil para conseguir conhecimentos tácitos, isto é, aqueles que são "óbvios" para o usuário, mas que não foram explicitados.
+A técnica de observação consiste em, como o próprio nome já diz, observar um usuário em seu fluxo de uso e obter os requisitos a partir dessa prática. Essa técnica é muito útil para conseguir conhecimentos tácitos, isto é, aqueles que são "óbvios" para o usuário, mas que não foram explicitados, isso acontece porque, a partir de suas ações, é possível visualizar e descrever o que não foi dito.
+
+Para obter sucesso, é importante que o responsável pela sua realização esteja atento a todas as atividades dos envolvidos e descrevê-las de forma entendível para um requisito.
 
 Para o projeto, a observação foi feita em cima da utilização do software [Life Box](https://www.vucafood.com.br/lifeboxburger/aguas-claras/cardapio-digital), inspiração para o projeto do grupo, por parte de um terceiro participante não pertecente ao grupo.
 
@@ -83,7 +87,12 @@ Participante da técnica:
 | 13/11/2022 |  0.2   | Adição dos requisitos funcionais e regras de negócio por introspecção | [Caio César](https://github.com/oCaioOliveira)| [Victor Leão](https://github.com/victorleaoo)   |
 | 14/11/2022 |  0.3   | Adição de uma breve introdução acerca da introspecção,<br/> adição de um 'I' na frente de cada um dos requisitos elicitados por introspecção,<br/> Adição da técnica de observação | [Victor Leão](https://github.com/victorleaoo) | [Caio César](https://github.com/oCaioOliveira) |
 | 14/11/2022 |  0.4   | Adição de novos requisitos por meio da técnica de introspecção, além da revisão dos requisitos adicionados anteriormente. | [Caio César](https://github.com/oCaioOliveira)| [Victor Leão](https://github.com/victorleaoo)   |
+| 02/12/2022 |  1.0   | Melhoria da documentação das duas técnicas utilizadas | [Victor Leão](https://github.com/victorleaoo) | [Caio César](https://github.com/oCaioOliveira) |
 
 ## Referências
 
 SERRANO, Milene. **Requisitos - Técnicas Elicitação**, 2022. Material apresentado na Disciplina de Arquitetura e Desenho de Software do curso de engenharia de software da UnB, FGA.
+
+PAGANINI, Diego. **Técnicas para Elicitação de Requisitos**, 2019. Disponível em: https://www.linkedin.com/pulse/t%C3%A9cnicas-para-elicita%C3%A7%C3%A3o-de-requisitos-diogo-paganini/. Acesso em: 02 dez. 2022.
+
+GOOGLE. **Técnicas de Elicitação de Requisitos**. Disponível em: https://sites.google.com/site/tecnicaselicitacao/. Acesso em: 02 dez. 2022.
