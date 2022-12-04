@@ -16,7 +16,7 @@ Os elementos principais para a criação de um elemento são:  
     - Disponibilização: Mostra a implementação de um artefato em um alvo de implementação
 
 ## 2. Metodologia
-    Após a definição e o entendimento do funcionamento dos diagramas de pacotes, foram feitos dois diagramas de pacotes, o primeiro voltado para a parte do backend feito com base na arquitetura do django rest, que será o framework usado para construirmos o backend da aplicação. Em seguida foi feito o diagrama de pacotes voltado para a arquitetura do reactJs que será o framework utilizado para o desenvolvimento do front end da aplicação.  
+Após a definição e o entendimento do funcionamento dos diagramas de pacotes, foram feitos dois diagramas de pacotes, o primeiro voltado para a parte do backend feito com base na arquitetura do django rest, que será o framework usado para construirmos o backend da aplicação. Em seguida foi feito o diagrama de pacotes voltado para a arquitetura do reactJs que será o framework utilizado para o desenvolvimento do front end da aplicação.  
 
 ### 2.1 Backend
 
