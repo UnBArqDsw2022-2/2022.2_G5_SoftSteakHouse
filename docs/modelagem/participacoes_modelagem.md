@@ -4,6 +4,7 @@
 
 A tabela 1 compila as contribuições de cada membro, escritas a próprio punho por ele, para a entrega do segundo módulo de documentação (*Modelagem*).
 
+## Contribuições
 
 | Nome do Membro                     | Contribuição                                                                  | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
 |------------------------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
@@ -16,6 +17,8 @@ A tabela 1 compila as contribuições de cada membro, escritas a próprio punho 
 | Nícolas Georgeos Mantzos           | Criação dos artefatos Diagrama de Classes, UML, UML Dinâmicos e UML Estáticos | Excelente                                                                      |
 | Taynara Cristina Ribeiro Marcellos | -                                                                             | -                                                                              |
 | Victor Hugo Oliveira Leão          | -                                                                             | -                                                                              |
+
+Tabela 1: Contribuições - Modelagem
 
 ## Histórico de Versões
 
