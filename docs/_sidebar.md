@@ -41,7 +41,7 @@
       - [Diagrama de Componentes](modelagem/diagramas_estaticos/diagrama_componentes.md)
       - [Diagrama de Implantação](modelagem/diagramas_estaticos/Diagrama_Implantação.md)
       - [Diagrama de Comunicação](/modelagem/dinamico/comunicacao.md)
-    - [2.1.2. Notação UML – Diagramas Dinâmicos](modelagem/uml_dinamicos.md)
+    - [2.1.2. UML – Diagramas Dinâmicos](modelagem/uml_dinamicos.md)
       - [Diagrama de Sequência](modelagem/diagramas_dinamicos/diagrama-sequencia.md)
       - [Diagrama de Atividades](modelagem/diagramas_dinamicos/atividades.md)
     - [2.1.3. Modelagem Ágil](modelagem/agil.md)
