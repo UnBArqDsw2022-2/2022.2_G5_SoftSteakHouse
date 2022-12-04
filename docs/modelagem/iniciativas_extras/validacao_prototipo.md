@@ -1,7 +1,7 @@
 
 # Validação do protótipo de alta fidelidade
 
-## . Metodologia
+## Metodologia
 Para a validação do protótipo serão realizadas entrevistas com pessoas, a fim de buscar feedbacks sobre as funcionalidades da aplicação. As entrevistas serão realizadas por dois integrantes do grupo, que serão responsáveis por orientar a realização da tarefa apresentando um questionário desenvolvido, com o objetivo de verificar o modelo proposto. 
 
 O perfil dos usuários que poderiam responder a essa avaliação pode ser encontrado no documento de [Personas](/base/abordagem-geral/personas.md).
