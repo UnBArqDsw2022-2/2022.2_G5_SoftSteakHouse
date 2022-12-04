@@ -73,8 +73,8 @@ Protótipo de média fidelidade | Product backlog | US08 | US12 | US03 |
 Guia de estilo |  BPMN | US09 | US13 | US05 | 
 Product backlog | MOSCOW  | US16 | US16 | US07 | 
 Rich picture  | Validação do protótipo | US17 | US17 | US10 | 
-Mapa mental | Diagrama de Classes |          |          | US14 | 
-Plano de custo | Diagrama de Pacotes |          |          | US15 | 
+Mapa mental | Diagrama de Classes |  Padrões de Projeto GRASPs | Padrões Arquiteturais | US14 | 
+Plano de custo | Diagrama de Pacotes |  Padrões de Projeto GoFs | Reutilização de Software | US15 | 
 Plano de tempo  | Diagrama de Componentes |          |          | US18 | 
 Design sprint | Diagrama de Implementação |          |          | US19 | 
 Escolhas metodológicas  |Diagrama de Sequência |          |          | US20 | 
