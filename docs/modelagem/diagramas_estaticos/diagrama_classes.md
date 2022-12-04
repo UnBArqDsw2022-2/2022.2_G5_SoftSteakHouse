@@ -4,7 +4,7 @@
 Diagramas de classes oferecem uma representação visual de um conjunto de classes, pontuando seus atributos, métodos e
 relacionamentos estabelecidos com outras classes.
 
-No contexto da UML, cada classe é representada por meio de um retângulo com três compartimentos, vide figura 1 a seguir, contendo, de cima para baixo, seu nome (normalmente em negrito), seus atributos e métodos. 
+No contexto da UML, cada classe é representada por meio de um retângulo com três compartimentos, contendo, de cima para baixo, seu nome (normalmente em negrito), seus atributos e métodos. 
 A esquerda dos membros dela, é possível ainda colocar ainda um modificador de acesso, indicado com '+' para público e '-' para privado. Por fim, à direita 
 especifica-se o tipo do atributo ou do retorno do método.
 
@@ -18,22 +18,22 @@ Relações de herança são representadas por meio de setas com extremidade não
 
 ### 1.2 Dependências
 
-Há uma dependência entre duas classes <i>X</i> e <i>Y</i> quando <i>X</i> declara um parâmetro ou variável local do tipo <i>Y</i> ou quando um método de <i>X</i> lança uma exceção do tipo <i>Y</i>. É considerada uma modadalidade menos forte de 
-relacionamento do que heranças e associações e, no diagram de classes, é representada como uma seta tracejada, de extremidade fechada e orientada de <i>X</i> para <i>Y</i>.
+Há uma dependência entre duas classes <i>X</i> e <i>Y</i> quando <i>X</i> declara um parâmetro ou variável local do tipo <i>Y</i> ou quando um método de <i>X</i> lança uma exceção do tipo <i>Y</i>. É considerada uma modalidade menos forte de 
+relacionamento do que heranças e associações e, no diagrama de classes, é representada como uma seta tracejada, de extremidade fechada e orientada de <i>X</i> para <i>Y</i>.
 
 ## 2. Metodologia
 
-Após a definição das tecnologias que serão utilizadas no desenvolvimento, seus objetivos e sua arquitetura, houve um mapemaneto das entidades fundamentais da aplicação e das classes necessárias à sua manipulação (<i>services, repositories, controllers, utils </i> etc). Por fim, foram estabelecidos os
+Após a definição das tecnologias que serão utilizadas no desenvolvimento, seus objetivos e sua arquitetura, houve um mapeamento das entidades fundamentais da aplicação e das classes necessárias à sua manipulação (<i>services, repositories, controllers, utils </i> etc). Por fim, foram estabelecidos os
 tipos de relacionamento supracitados, consultando os membros do grupos e o backlog do produto para validação.
 
 ## 3. Diagrama
-![Diagrama de pacotes backend](../../assets/diagrama_classes_softstackhouse.jpeg)
+![Diagrama de classes](../../assets/diagrama_classes_softstackhouse.jpeg)
 
 
 ## Histórico de versões
 | Data       | Versão |      Descrição       | Autor(a)                                      | Revisor(a) |
 |------------| ------ | -------------------- |-----------------------------------------------|------------|
-| 01/12/2022 | 1.0    | Criação do documento | [Nícolas Mantzos](https://github.com/ngm1450) | -          |
+| 01/12/2022 | 1.0    | Criação do documento | [Nícolas Mantzos](https://github.com/ngm1450) | [Victor Leão](https://github.com/victorleaoo) |
 
 
 ## Referências

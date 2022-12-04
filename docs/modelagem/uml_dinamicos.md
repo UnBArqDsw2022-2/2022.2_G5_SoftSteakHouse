@@ -1,6 +1,6 @@
 # 2.1.2. Notação UML – Diagramas Dinâmicos
 
-**Foco_02:** Modelagem UML Dinâmica
+**Foco_02:** [Modelagem UML Dinâmica](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/modelagem/iniciativas_extras/diagramas_dinamicos)
 
 Vídeo explicando os principais modelos especificados, com: (i) rastro claro aos membros participantes; (ii) justificativas & senso crítico sobre os modelos; (iii) breve apresentação dos modelos dinâmicos elaborados, e (iv) comentários gerais sobre iniciativas extras. Tempo do vídeo: +/- 10min. Recomendação: Apresentar diretamente via Wiki ou GitPages do Projeto.
 
