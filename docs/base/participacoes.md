@@ -17,8 +17,6 @@ A tabela compila as contribuições de cada membro, escritas a próprio punho po
 | Taynara Cristina Ribeiro Marcellos | Criação do plano de custo e plano de tempo, mapa mental e rich picture. Revisão do plano de risco e BPMN                                                                                                                                                                             | Excelente                                                                      |
 | Victor Hugo Oliveira Leão          | Participação na criação dos artefatos: Diagrama causa-efeito; Design Sprint; Mapa Mental; Elicitação; Product Backlog; Rich Picture; BPMN <br/>Revisão nos artefatos: léxicos; 5W2H; Guia de Estilo                                                                                  | Excelente                                                                      |
 
-                                               |
-
 ## Histórico de Versões
 
 |    Data    | Versão |            Descrição           |       Autor     |    Revisor    |
