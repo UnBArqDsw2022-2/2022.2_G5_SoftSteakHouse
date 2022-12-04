@@ -18,7 +18,7 @@ Os materiais utilizados para a realização da entrevista foram:
 * Webcam para gravação dos participantes da entrevista
 * Software para gravação da entrevista "Google Meet"
 
-### Questionario
+### Questionário
 
 A entrevista acontecerá seguindo o roteiro do questionário de acordo com o usuário que estiver utilizando. 
 
