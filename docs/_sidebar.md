@@ -41,19 +41,17 @@
 
 - **Modelagem**
 
-  - [2. Desenho de Software](/docs/modelagem/modelagem.md)
+  - [2. Desenho de Software](modelagem/modelagem.md)
 
-    - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](/docs/modelagem/modelagem_tradicional.md)
+    - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](modelagem/modelagem_tradicional.md)
       - [2.1.1. Notação UML – Diagramas Estáticos](modelagem/uml_estaticos.md)
         - [Diagrama de Pacotes](modelagem/diagramas_estaticos/diagrama_pacotes.md)
         - [Diagrama de Componentes](modelagem/diagramas_estaticos/diagrama_componentes.md)
         - [Diagrama de Implantação](modelagem/diagramas_estaticos/Diagrama_Implantação.md)
-      - [2.1.2. Notação UML – Diagramas Dinâmicos](modelagem/uml_dinamicos.md)
-        - [Diagrama de Pacotes](modelagem/diagramas_estaticos/diagrama_pacotes.md)
-        - [Diagrama de Componentes](modelagem/diagramas_estaticos/diagrama_componentes.md)
         - [Diagrama de Comunicação](/modelagem/dinamico/comunicacao.md)
       - [2.1.2. Notação UML – Diagramas Dinâmicos](modelagem/uml_dinamicos.md)
         - [Diagrama de Sequência](modelagem/diagramas_dinamicos/diagrama-sequencia.md)
+        - [Diagrama de Atividades](modelagem/diagramas_dinamicos/atividades.md)
       - [2.1.3. Modelagem Ágil](modelagem/agil.md)
 
     - [2.2. Iniciativas Extras](modelagem/iniciativas_extras.md)
