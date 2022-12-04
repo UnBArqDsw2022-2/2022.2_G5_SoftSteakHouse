@@ -21,9 +21,18 @@ Os materiais utilizados para a realização da entrevista foram:
 
 ### Questionario
 
-A entrevista acontecerá seguindo o seguinte questionário:
+A entrevista acontecerá seguindo o roteiro do questionario de acordo com o usuario que estiver utilizando. 
 
 
+1. Em relação ao design da aplicação, você acha a pagina do cardapio online intuitiva e clara para a escolha do pedido ?
+
+2. Em relação ao design da aplicação, você acha a pagina de gerenciamento de mesa eficiente ?
+
+3. O que mais te incomoda na usabilidade do produto como um todo ?
+
+4. De que maneira a aplicação facilita no gerenciamento do restaurante ?
+
+5. O que voçê alteraria na aplicação para melhorar sua experiencia ao utilizar o produto  ?
 
 ## 2. Resultados
 
