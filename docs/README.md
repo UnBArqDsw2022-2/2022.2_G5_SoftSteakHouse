@@ -13,6 +13,7 @@
 | 17/0085023  |  Carla Rocha Cangussú |
 | 20/0019520  |  Hian Praxedes de Souza Olivera |
 | 18/0125974  |  Lucas Rodrigues Monteiro  |
+| 18/0066382  | Marcos Felipe de Almeida Souza |
 | 17/0051277  |  Nicolas Georgeos Mantzos |
 | 21/1031833  |  Taynara Cristina Ribeiro Marcellos |
 | 20/0028367  |  Victor Hugo Oliveira Leão |
