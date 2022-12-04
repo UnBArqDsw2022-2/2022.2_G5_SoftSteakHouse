@@ -50,6 +50,8 @@
     - [2.2.2 UML](modelagem/iniciativas_extras/uml.md)
       - [Diagramas Estáticos](modelagem/iniciativas_extras/diagramas_estaticos.md)
       - [Diagramas Dinâmicos](modelagem/iniciativas_extras/diagramas_dinamicos.md)
+  - [2.3. Participações](modelagem/participacoes_modelagem.md)
+
 
 [//]: # (    - [2.3. Participações]&#40;/docs/modelagem/participacoes_modelagem.md&#41;)
 

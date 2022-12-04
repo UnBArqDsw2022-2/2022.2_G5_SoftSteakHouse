@@ -1,6 +1,9 @@
-# 2.3. Participações - Modelagem
+# Participações
 
-Breve relato sobre as participações/contribuições de cada membro à entrega. 
+## Introdução
+
+A tabela 1 compila as contribuições de cada membro, escritas a próprio punho por ele, para a entrega do segundo módulo de documentação (*Modelagem*).
+
 
 | Nome do Membro                     | Contribuição                                                                  | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
 |------------------------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
@@ -13,9 +16,6 @@ Breve relato sobre as participações/contribuições de cada membro à entrega.
 | Nícolas Georgeos Mantzos           | Criação dos artefatos Diagrama de Classes, UML, UML Dinâmicos e UML Estáticos | Excelente                                                                      |
 | Taynara Cristina Ribeiro Marcellos | -                                                                             | -                                                                              |
 | Victor Hugo Oliveira Leão          | -                                                                             | -                                                                              |
-
-TODOS DEVEM PARTICIPAR, MOSTRANDO SEUS PONTOS DE VISTA E COMO COLABORARAM NESSA ETAPA DO PROJETO.
-
 
 ## Histórico de Versões
 
