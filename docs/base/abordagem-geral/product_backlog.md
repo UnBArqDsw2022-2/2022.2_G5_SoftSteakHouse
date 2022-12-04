@@ -6,7 +6,7 @@ O Product Backlog é uma consolidação dos [requisitos elicitados](https://unba
 
 Portanto, o objetivo desse artefato é mostrar os requisitos elicitados e sua prioridade no projeto em um momento inicial.
 
-**Importante:** O Product Backlog definido e mais elaborado do projeto pode ser encontrado em: .
+**Importante:** O Product Backlog definido e mais elaborado do projeto pode ser encontrado em: [Product Backlog](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/modelagem/agil/backlog).
 
 ## Metodologia
 
