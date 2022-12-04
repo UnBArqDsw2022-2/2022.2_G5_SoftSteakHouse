@@ -61,6 +61,28 @@ Para realizar a priorização do itens (em especial, as histórias de usuário),
 | US22 | E04 - Gerenciamento de Pedidos | FE10 - CRUD de pedido | Eu, como funcionário, quero poder deletar um pedido. | Could | [Rich Picture](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/base/abordagem-geral/rich_picture)<br>[Mapa Mental](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/base/abordagem-geral/mapa_mental) | Deve haver um botão de apagar pedido na tela de pedidos.<br>O funcionário deve ser pedido para confirmar a deleção do pedido. |
 | US23 | E04 - Gerenciamento de Pedidos | FE11 - Mudança de estado de pedido | Eu, como funcionário, quero poder mudar o estado de um pedido, para que ele possa ser acompanhado de forma visível. | Could | [Rich Picture](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/base/abordagem-geral/rich_picture)<br>[Mapa Mental](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/base/abordagem-geral/mapa_mental) | Somente pedidos não fechados podem ser alterados.<br>Os pedidos podem ser 'Novo Pedido', 'Sendo Feito', 'Para Entrega em Mesa', 'Entregue' e 'Fechado'. |
 
+## RoadMap
+
+Esta seção é destinada para apresentar as atividades realizadas pela equipe por sprint.
+
+Sprint 1 | Sprint 2 | Sprint 3 | Sprint 4 | Sprint 5 |
+-------- | -------- | -------  | -------- | -------- |
+5W2H     | 5W2H |          |          |          | 
+Plano de riscos | Protótipo de alta fidelidade  |          |          |          | 
+Protótipo de média fidelidade | Product backlog |          |          |          | 
+Guia de estilo |  BPMN |          |          |          | 
+Product backlog | MOSCOW  |          |          |          | 
+Rich picture  | Validação do protótipo |          |          |          | 
+Mapa mental | Diagrama de Classes |          |          |          | 
+Plano de custo | Diagrama de Pacotes |          |          |          | 
+Plano de tempo  | Diagrama de Componentes |          |          |          | 
+Design sprint | Diagrama de Implementação |          |          |          | 
+Escolhas metodológicas  |Diagrama de Sequência |          |          |          | 
+Personas | Diagrama de Comunicação|          |          |          | 
+Léxicos |Diagrama de Estados |          |          |          | 
+BPMN  | Diagrama de Atividades|          |          |          | 
+Diagrama causa-efeito |       |          |          |          | 
+
 ## Histórico de Versões
 
 | Data  | Versão | Descrição | Autor | Revisor |
@@ -69,6 +91,7 @@ Para realizar a priorização do itens (em especial, as histórias de usuário),
 | 03/12/2022 | 0.2 | Criação dos épicos e features | [Caio César](https://github.com/oCaioOliveira) | [Victor Leão](https://github.com/victorleaoo) |
 | 03/12/2022 | 0.3 | Criação de histórias de usuários nos épicos 2 e 3 | [Caio César](https://github.com/oCaioOliveira) | [Victor Leão](https://github.com/victorleaoo) |
 | 03/12/2022 | 0.4 | Criação de histórias de usuários nos épicos 1 e 4 | [Victor Leão](https://github.com/victorleaoo) | [Caio César](https://github.com/oCaioOliveira) |
+| 03/12/2022 | 0.5 | Adição do RoadMap | [Caio César](https://github.com/oCaioOliveira) | [Victor Leão](https://github.com/victorleaoo) |
 
 ## Referências
 
