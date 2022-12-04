@@ -67,20 +67,20 @@ Esta seção é destinada para apresentar as atividades realizadas pela equipe p
 
 Sprint 1 | Sprint 2 | Sprint 3 | Sprint 4 | Sprint 5 |
 -------- | -------- | -------  | -------- | -------- |
-5W2H     | 5W2H |          |          |          | 
-Plano de riscos | Protótipo de alta fidelidade  |          |          |          | 
-Protótipo de média fidelidade | Product backlog |          |          |          | 
-Guia de estilo |  BPMN |          |          |          | 
-Product backlog | MOSCOW  |          |          |          | 
-Rich picture  | Validação do protótipo |          |          |          | 
-Mapa mental | Diagrama de Classes |          |          |          | 
-Plano de custo | Diagrama de Pacotes |          |          |          | 
-Plano de tempo  | Diagrama de Componentes |          |          |          | 
-Design sprint | Diagrama de Implementação |          |          |          | 
-Escolhas metodológicas  |Diagrama de Sequência |          |          |          | 
-Personas | Diagrama de Comunicação|          |          |          | 
-Léxicos |Diagrama de Estados |          |          |          | 
-BPMN  | Diagrama de Atividades|          |          |          | 
+5W2H | 5W2H | US04 | US10 | US01 | 
+Plano de riscos | Protótipo de alta fidelidade  | US06 | US11 | US02 | 
+Protótipo de média fidelidade | Product backlog | US08 | US12 | US03 | 
+Guia de estilo |  BPMN | US09 | US13 | US05 | 
+Product backlog | MOSCOW  | US16 | US16 | US07 | 
+Rich picture  | Validação do protótipo | US17 | US17 | US10 | 
+Mapa mental | Diagrama de Classes |          |          | US14 | 
+Plano de custo | Diagrama de Pacotes |          |          | US15 | 
+Plano de tempo  | Diagrama de Componentes |          |          | US18 | 
+Design sprint | Diagrama de Implementação |          |          | US19 | 
+Escolhas metodológicas  |Diagrama de Sequência |          |          | US20 | 
+Personas | Diagrama de Comunicação|          |          | US21 | 
+Léxicos |Diagrama de Estados |          |          | US22 | 
+BPMN  | Diagrama de Atividades|          |          | US23 | 
 Diagrama causa-efeito |       |          |          |          | 
 
 ## Histórico de Versões
@@ -92,6 +92,7 @@ Diagrama causa-efeito |       |          |          |          |
 | 03/12/2022 | 0.3 | Criação de histórias de usuários nos épicos 2 e 3 | [Caio César](https://github.com/oCaioOliveira) | [Victor Leão](https://github.com/victorleaoo) |
 | 03/12/2022 | 0.4 | Criação de histórias de usuários nos épicos 1 e 4 | [Victor Leão](https://github.com/victorleaoo) | [Caio César](https://github.com/oCaioOliveira) |
 | 03/12/2022 | 0.5 | Adição do RoadMap | [Caio César](https://github.com/oCaioOliveira) | [Victor Leão](https://github.com/victorleaoo) |
+| 03/12/2022 | 0.6 | Adição no RoadMap | [Caio César](https://github.com/oCaioOliveira) | [Victor Leão](https://github.com/victorleaoo) |
 
 ## Referências
 
