@@ -23,11 +23,11 @@ A ferramenta utilizada para a criação dos diagramas foi a **diagrams.net** (co
 
 ### Cliente
 
-![Diagrama Comunicação Cliente](./assets/diagrama-comunicacao-cliente.png)
+![Diagrama Comunicação Cliente](../../assets/diagrama-comunicacao-cliente.png)
 
 ### Funcionário
 
-![Diagrama Comunicação Funcionário](./assets/diagrama-comunicacao-func.png)
+![Diagrama Comunicação Funcionário](../../assets/diagrama-comunicacao-func.png)
 
 ### Pedidos
 
