@@ -2,9 +2,9 @@
 
 ## Introdução 
 
-As tabelas compilam as contribuições de cada membro, escritas a próprio punho por ele, para a entrega dos módulos de documentação e implementação da disciplina.
+A tabela compila as contribuições de cada membro, escritas a próprio punho por ele, para a entrega dos módulos de documentação.
 
-## Contribuições Entrega 1
+## Contribuições
 
 |           Nome do Membro           |                                                                                                                                     Contribuição                                                                                                                                     | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
@@ -17,22 +17,10 @@ As tabelas compilam as contribuições de cada membro, escritas a próprio punho
 | Taynara Cristina Ribeiro Marcellos | Criação do plano de custo e plano de tempo, mapa mental e rich picture. Revisão do plano de risco e BPMN                                                                                                                                                                             | Excelente                                                                      |
 | Victor Hugo Oliveira Leão          | Participação na criação dos artefatos: Diagrama causa-efeito; Design Sprint; Mapa Mental; Elicitação; Product Backlog; Rich Picture; BPMN <br/>Revisão nos artefatos: léxicos; 5W2H; Guia de Estilo                                                                                  | Excelente                                                                      |
 
-## Contribuições Entrega 2
-
-|           Nome do Membro           |                                                                                                                                     Contribuição                                                                                                                                     | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
-| Abraao Alves Ribeiro               |  | Excelente                                                                      |
-| Caio Cesar Oliveira                | Criação dos artefatos: diagrama de componentes, Product Backlog, RoadMap, protótipo de alta fidelidade. <br>Revisão dos artefatos: diagrama de comunicação, diagrama de pacotes, Product Backlog. | Excelente                                                                      |
-| Carla Rocha Cangussú               |  | Excelente                                                                      |
-| Hian Praxedes de Souza Oliveira    |   | Excelente                                                                      |
-| Lucas Rodrigues Monteiro           |  | Bom                                                                            |
-| Nícolas Georgeos Mantzos           |    | Excelente                                                                      |
-| Taynara Cristina Ribeiro Marcellos |  | Excelente                                                                      |
-| Victor Hugo Oliveira Leão          |   | Excelente                                                                      |
+                                               |
 
 ## Histórico de Versões
 
 |    Data    | Versão |            Descrição           |       Autor     |    Revisor    |
 |  --------  |  ----  |            ----------          | --------------- |    -------    |
 | 17/11/2022 |  1.0.0 |  Criação do documento de participações em cada entrega    |   [Victor Leão](https://github.com/victorleaoo)    |       [Caio César](https://github.com/oCaioOliveira)       |
-| 17/11/2022 |  1.1.0 |  Criação da tabela de participações da segunda entrega    |   [Caio César](https://github.com/oCaioOliveira)    | -------   |
