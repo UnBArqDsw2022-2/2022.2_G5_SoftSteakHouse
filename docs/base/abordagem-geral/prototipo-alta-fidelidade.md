@@ -18,7 +18,7 @@ O site do restaurante Soft SteakHouse ainda está sendo desenvolvido conceitualm
 
 ## Protótipo de Alta Fidelidade WEB
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F6VCkdozArF1usDvjOoTq19%2FUntitled%3Fnode-id%3D1%253A20%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A20" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="700" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F6VCkdozArF1usDvjOoTq19%2FUntitled%3Fnode-id%3D1%253A20%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A20" allowfullscreen></iframe>
 
 ### Atividades presentes nos protótipos
 

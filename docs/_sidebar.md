@@ -32,21 +32,24 @@
 
 - **Modelagem**
 
-  - [2. Desenho de Software](/docs/modelagem/modelagem.md)
+- [2. Desenho de Software](modelagem/modelagem.md)
 
-    - [2.1. Projeto Orientado a Abordagens Tradicionais]()
-      - [2.1.1. UML – Diagramas Estáticos](modelagem/iniciativas_extras/diagramas_estaticos.md)
-        - [Diagrama de Pacotes](modelagem/diagramas_estaticos/diagrama_pacotes.md)
-        - [Diagrama de Classes](modelagem/diagramas_estaticos/diagrama_classes.md)
-      - [2.1.2. UML – Diagramas Dinâmicos](modelagem/iniciativas_extras/diagramas_dinamicos.md)
-      - [2.1.3. Modelagem Ágil](modelagem/agil.md)
-    - [2.2. Iniciativas Extras](modelagem/iniciativas_extras.md)
-      - [2.2.1 Modelos de Software](modelagem/iniciativas_extras/modelos_software.md)
-      - [2.2.2 UML](modelagem/iniciativas_extras/uml.md)
-        - [Diagramas Estáticos](modelagem/iniciativas_extras/diagramas_estaticos.md)
-        - [Diagramas Dinâmicos](modelagem/iniciativas_extras/diagramas_dinamicos.md)
-
-
+  - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](modelagem/modelagem_tradicional.md)
+    - [2.1.1. UML – Diagramas Estáticos](modelagem/uml_estaticos.md)
+      - [Diagrama de Pacotes](modelagem/diagramas_estaticos/diagrama_pacotes.md)
+      - [Diagrama de Classes](modelagem/diagramas_estaticos/diagrama_classes.md)
+      - [Diagrama de Componentes](modelagem/diagramas_estaticos/diagrama_componentes.md)
+      - [Diagrama de Implantação](modelagem/diagramas_estaticos/Diagrama_Implantação.md)
+      - [Diagrama de Comunicação](/modelagem/dinamico/comunicacao.md)
+    - [2.1.2. Notação UML – Diagramas Dinâmicos](modelagem/uml_dinamicos.md)
+      - [Diagrama de Sequência](modelagem/diagramas_dinamicos/diagrama-sequencia.md)
+      - [Diagrama de Atividades](modelagem/diagramas_dinamicos/atividades.md)
+    - [2.1.3. Modelagem Ágil](modelagem/agil.md)
+  - [2.2. Iniciativas Extras](modelagem/iniciativas_extras.md)
+    - [2.2.1 Modelos de Software](modelagem/iniciativas_extras/modelos_software.md)
+    - [2.2.2 UML](modelagem/iniciativas_extras/uml.md)
+      - [Diagramas Estáticos](modelagem/iniciativas_extras/diagramas_estaticos.md)
+      - [Diagramas Dinâmicos](modelagem/iniciativas_extras/diagramas_dinamicos.md)
 
 [//]: # (    - [2.3. Participações]&#40;/docs/modelagem/participacoes_modelagem.md&#41;)
 
