@@ -51,7 +51,6 @@
     - [2.2.2 UML](modelagem/iniciativas_extras/uml.md)
       - [Diagramas Estáticos](modelagem/iniciativas_extras/diagramas_estaticos.md)
       - [Diagramas Dinâmicos](modelagem/iniciativas_extras/diagramas_dinamicos.md)
-      - [Validação do protótipo de alta fidelidade](modelagem/iniciativas_extras/validacao_prototipo.md)
   - [2.3.Participações](modelagem/participacoes_modelagem.md)
 
 [//]: # ()
