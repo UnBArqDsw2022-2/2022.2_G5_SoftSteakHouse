@@ -5,7 +5,7 @@ Diagramas de classes oferecem uma representação visual de um conjunto de class
 relacionamentos estabelecidos com outras classes.
 
 No contexto da UML, cada classe é representada por meio de um retângulo com três compartimentos, vide figura 1 a seguir, contendo, de cima para baixo, seu nome (normalmente em negrito), seus atributos e métodos. 
-A esquerda dos membros dela, é possível ainda colocar ainda um modificador de acesso, indicado com '+' para público e '-' para privado. Por fim, à direita 
+A esquerda dos membros dela, é possível ainda colocar ainda um modificador de acesso, indicado com '+' para público,  '-' para privado e '#' para protegido. Por fim, à direita 
 especifica-se o tipo do atributo ou do retorno do método.
 
 ### 1.1 Associações
@@ -33,9 +33,11 @@ tipos de relacionamento supracitados, consultando os membros do grupos e o backl
 ## Histórico de versões
 | Data       | Versão |      Descrição       | Autor(a)                                      | Revisor(a) |
 |------------| ------ | -------------------- |-----------------------------------------------|------------|
-| 01/12/2022 | 1.0    | Criação do documento | [Nícolas Mantzos](https://github.com/ngm1450) | -          |
+| 01/12/2022 | 1.0    | Criação do documento | [Nícolas Mantzos](https://github.com/ngm1450) | [Carla Cangussú](https://github.com/Carlacangussu)|
 
 
 ## Referências
 
 GREEN, Daniel. Diagrama de Pacotes: Definição, Componentes e Exemplos. [S. l.], 23 jun. 2021. Disponível em: https://gitmind.com/pt/diagrama-de-pacotes.html. Acesso em: 30 nov. 2022.
+
+SERRANO, Milene. Diagrama de Colaboração, 2022. Material apresentado na Disciplina de Arquitetura e Desenho de Software do curso de engenharia de software da UnB, FGA. Acesso em: 04 Dez. 2022.
