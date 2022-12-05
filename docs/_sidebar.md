@@ -44,6 +44,7 @@
       - [Diagrama de Sequência](modelagem/diagramas_dinamicos/diagrama-sequencia.md)
       - [Diagrama de Comunicação](/modelagem/dinamico/comunicacao.md)
       - [Diagrama de Atividades](modelagem/diagramas_dinamicos/atividades.md)
+      - [Diagrama de Estados](modelagem/diagramas_estaticos/Diagrama_Estados.md)
     - [2.1.3. Modelagem Ágil](modelagem/agil.md)
   - [2.2. Iniciativas Extras](modelagem/iniciativas_extras.md)
     - [2.2.1 Modelos de Software](modelagem/iniciativas_extras/modelos_software.md)
