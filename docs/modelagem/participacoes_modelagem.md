@@ -9,7 +9,7 @@ A tabela 1 compila as contribuições de cada membro, escritas a próprio punho 
 | Nome do Membro                     | Contribuição                                                                  | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
 |------------------------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 | Abraao Alves Ribeiro               | -                                                                             | -                                                                              |
-| Caio Cesar Oliveira                | -                                                                             | -                                                                              |
+| Caio Cesar Oliveira                |  Criação dos artefatos Diagrama de Componentes, Protótipo de Alta Fidelidade, RoadMap.<br>Participação na criação das histórias de usuário (e sua priorização) dos épicos 2 e 3 no [Product Backlog](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/modelagem/agil/backlog). <br>Revisões nos artefatos Diagrama de Pacotes, Diagrama de Comunicação, Product Backlog. | Excelente                                                                            |
 | Carla Rocha Cangussú               | Elaboração dos diagramas de atividades, o geral e o reserva de mesa. Revisão do diagrama de classes| Excelente                                                  |
 | Hian Praxedes de Souza Oliveira    | -                                                                             | -                                                                              |
 | Lucas Rodrigues Monteiro           | -                                                                             | -                                                                              |
@@ -26,3 +26,4 @@ Tabela 1: Contribuições - Modelagem
 |------------|  ----  |---------------------|-----------------------------------------------|---------|
 | 04/12/2022 |  1.0.0 | Criação do artefato | [Nicolas Mantzos](https://github.com/ngm1450) | -       |
 | 04/12/2022 |  1.0.1 | Adição de contribuição |[Carla Cangussú](https://github.com/Carlacangussu) |- |
+| 05/12/2022 |  1.0.2 | Adição de contribuição novamente |[Caio César](https://github.com/oCaioOliveira) |- |
