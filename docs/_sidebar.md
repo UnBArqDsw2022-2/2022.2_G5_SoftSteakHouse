@@ -43,6 +43,7 @@
     - [2.1.2. UML – Diagramas Dinâmicos](modelagem/uml_dinamicos.md)
       - [Diagrama de Sequência](modelagem/diagramas_dinamicos/diagrama-sequencia.md)
       - [Diagrama de Comunicação](modelagem/diagramas_dinamicos/comunicacao.md)
+      - [Diagrama de Estados](modelagem/diagramas_dinamicos/Diagrama_Estados.md)
       - [Diagrama de Atividades](modelagem/diagramas_dinamicos/atividades.md)
     - [2.1.3. Modelagem Ágil](modelagem/agil.md)
       - [Product Backlog](modelagem/agil/backlog.md)
