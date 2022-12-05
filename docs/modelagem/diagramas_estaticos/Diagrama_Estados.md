@@ -31,3 +31,9 @@ Cada seta mostrada na figura Diagrama_Estados.pgn representa uma transição de 
 Data | Versão |Descrição |Autor | Revisor
 -----|--------|----------|------|--------
 30/11/2022| 1.0.0| Elaboração do artefato de Diagrama de Estados | [Lucas Rodrigues Monteiro](https://github.com/Nickby2) | [Victor Leão](https://github.com/victorleaoo)
+
+## Referências
+
+SERRANO, Milene. Diagrama de Estados, 2022. Material apresentado na Disciplina de Arquitetura e Desenho de Software do curso de engenharia de software da UnB, FGA. Acesso em: 30 nov. 2022.
+
+Livro: Engenharia de Software, Roger S. Pressman
