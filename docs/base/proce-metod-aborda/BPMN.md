@@ -10,7 +10,7 @@ O objetivo, então, da utilização do BPMN é representar os fluxos do processo
 
 A partir das definições da equipe, foram confeccionados 2 BPMN:
 
-1. Metodologia: mostra o fluxo do processo/metodologia que a equipe vai seguir durante o desenvolvimento do projeto.
+1. Metodologia: mostra o fluxo do processo/metodologia que a equipe vai seguir durante o desenvolvimento do projeto. Uma explicação melhor para como será o trabalho da equipe durante o desenvolvimento do projeto, pode-se, também, ver um detalhamento das metodologias usadas no artefato de [Escolhas Metodológicas](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/base/proce-metod-aborda/escolhas_metodologicas).
 2. Produto: mostra o fluxo de funcionamento do software a ser desenvolvido (suas funcionalidades).
 
 A ferramenta usada foi o site: https://demo.bpmn.io/s/start
