@@ -22,30 +22,47 @@ Essas quatro características são agregadas nos léxicos agrupados por tipo das
 
 ### 2.1 Verbos
 
-#### LV01 - Ver cardápio
+#### LV01 - Ver loja
+
+| Noção                                                                                            | Impacto                                                                                                 | Sinônimos                            |
+|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|--------------------------------------|
+| Ação realizada pelo cliente a fim de visualizar informações da loja | O cliente pode ver informações como telefone, endereço, gerente, entre outras. | Olhar lojas, acessar a loja. |
+
+#### LV02 - Ver cardápio
 
 | Noção                                                                                            | Impacto                                                                                                 | Sinônimos                            |
 |--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|--------------------------------------|
 | Ação realizada pelo cliente a fim de visualizar os produtos e pratos disponíveis no restaurante. | O cliente pode ver quais são os produtos oferecidos pelo restaurante, seus preços e realizar um pedido. | Olhar os pratos, acessar o cardápio. |
 
-#### LV02 - Realizar pedido
+#### LV03 - Realizar pedido
 
 | Noção                                                                                                                              | Impacto                                                                                                                                         | Sinônimos                  |
 |------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
 | Ação realizada pelo cliente na qual ele seleciona um item do cardápio e solicita a um funcionário que ele seja trazido a sua mesa. | - O valor da soma dos itens selecionados é adiciona à conta do cliente; <br> - Depois de prontos, os pedidos são levados até a mesa do cliente. | Fazer pedido, pedir prato. |
 
-#### LV03 - Cancelar pedido
+#### LV04 - Cancelar pedido
 
 | Noção                                                                                                               | Impacto                                                                                                                        | Sinônimos                        |
 |---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
 | Ação realizada pelo cliente na qual ele consulta alguns dos pedidos ainda não enviados para a cozinha e os cancela. | - O valor da soma dos itens cancelados é subtraída da conta do cliente; <br> - Os pedidos não serão levados à mesa do cliente. | Retirar pedido, cancelar pedido. |
 
-#### LV04 - Finalizar a conta
+#### LV05 - Finalizar a conta
 
 | Noção                                                                             | Impacto                                                                                                                     | Sinônimos                      |
 |-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------|
 | Ação realizada pelo cliente na qual ele consulta a lista de pedidos e a finaliza. | - Um valor final, gerado a partir da soma dos pedidos entregues, será gerado; <br> - A conta aberta pelo cliente é fechada. | Pedir a conta, fechar a conta. |
 
+#### LV06 - Entrar na fila
+
+| Noção                                                                             | Impacto                                                                                                                     | Sinônimos                      |
+|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------|
+| Ação realizada pelo cliente na qual ele entra na fila de espera do restaurante. |  - Será adicionado mais um cliente a fila. | Esperar por uma mesa, entrar na fila de espera. |
+
+#### LV07 - Cadastrar método de pagamento
+
+| Noção                                                                             | Impacto                                                                                                                     | Sinônimos                      |
+|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------|
+| Ação realizada pelo cliente na qual ele adiciona uma forma de pagamento. |  - Será adicionado uma nova forma de pagamento. | Escolher forma de pagamento, adicinar cartão. |
 
 ### 2.2 Objetos
 
@@ -61,6 +78,18 @@ Essas quatro características são agregadas nos léxicos agrupados por tipo das
 |------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
 | Usuário que recepciona e/ou responde às solicitações do cliente. | - Um funcionário pode ver a situação dos pedidos (pendente, cancelado ou entregue) e avaliar as requisições dos clientes e mesas (esgotado, disponível, demora...); | Garçom, balconista, gerente. |
 
+#### LO03 - Cardápio
+
+| Noção                                                            | Impacto                                                                                                                                                     | Sinônimos                    |
+|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
+| Lista de pratos, bebidas e sobremesas com seus ingredientes e seu preço. | - Um funcionário pode ver atualizar o cardápio, um cliente pode ver o cardário e assim fazer seu pedido; | Menu, produtos |
+
+#### LO03 - Mesa
+
+| Noção                                                            | Impacto                                                                                                                                                     | Sinônimos                    |
+|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
+| Objeto que representa uma vaga no restaurante.  | - Uma mesa pode apresentar um dos dois status (ocupada, livre), um funcionário pode direcionar um cliente para uma mesa com status 'livre'; | Cadeiras |
+
 ### 2.3 Estados
 
 #### LE01 - Status Pedido
@@ -69,11 +98,18 @@ Essas quatro características são agregadas nos léxicos agrupados por tipo das
 |---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
 | Métrica que avalia a atual situação de um pedido. | - Um funcionário pode ver a situação dos pedidos (pendente, cancelado ou entregue) e avaliar as requisições dos clientes (esgotado, disponível, demora...); | Garçom, balconista, gerente. |
 
+#### LE02 - Status Mesa
+
+| Noção                                             | Impacto                                                                                                                                                     | Sinônimos                    |
+|---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
+| Métrica que avalia a atual situação de uma mesa. | - Um funcionário pode ver e atualizar a situação das mesas (ocupada ou livre) | Garçom, balconista, gerente. |
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição            | Autor                    | Revisor |
 | ------ |------------|----------------------|--------------------------|---------|
 | 1.0    | 15/11/2022 | Criação do documento | [Nícolas Georgeos Mantzos](https://github.com/ngm1450) | [Victor Leão](https://github.com/victorleaoo) |
+| 1.1    | 04/12/2022 | Complemento dos lexicos | [Marcos Felipe de A Souza](https://github.com/Marofelipe) | [Victor Leão](https://github.com/victorleaoo) |
 
 ## Referências Bibliográficas
 
