@@ -10,7 +10,7 @@ A tabela 1 compila as contribuições de cada membro, escritas a próprio punho 
 |------------------------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 | Abraao Alves Ribeiro               | -                                                                             | -                                                                              |
 | Caio Cesar Oliveira                | -                                                                             | -                                                                              |
-| Carla Rocha Cangussú               | -                                                                             | -                                                                              |
+| Carla Rocha Cangussú               | Elaboração dos diagramas de atividades, o geral e o reserva de mesa. Revisão do diagrama de classes| Excelente                                                  |
 | Hian Praxedes de Souza Oliveira    | -                                                                             | -                                                                              |
 | Lucas Rodrigues Monteiro           | -                                                                             | -                                                                              |
 | Marcos Felipe de Almeida Souza     | -                                                                             | -                                                                              |
@@ -25,3 +25,4 @@ Tabela 1: Contribuições - Modelagem
 | Data       | Versão | Descrição           | Autor                                         | Revisor |
 |------------|  ----  |---------------------|-----------------------------------------------|---------|
 | 04/12/2022 |  1.0.0 | Criação do artefato | [Nicolas Mantzos](https://github.com/ngm1450) | -       |
+| 04/12/2022 |  1.0.1 | Adição de contribuição |[Carla Cangussú](https://github.com/Carlacangussu) |- |
