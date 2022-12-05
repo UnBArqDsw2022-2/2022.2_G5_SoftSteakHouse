@@ -8,7 +8,7 @@ O gerenciamento de custo, com o processo de estimativa de custo, converte em uni
 
  Neste projeto, os custos, se resumem aos gastos com os estudantes da disciplina, tendo em vista que a Universidade fornece local para reuniões e acesso a Internet, neste cálculo não será levado em consideração atividades realizadas fora da Univerdidade.
 
-De acordo com o relatório de gestão da Universidade, o custo médio, por hora, de cada integrante da equipe,é de aproximadamente R$26,00. O tempo estimado de trabalho para cada componente da equipe é de 6 horas semanais, distribuídos ao longo de cada semana.
+De acordo com o relatório de gestão da Universidade, o custo médio, por hora, de cada integrante da equipe,é de aproximadamente R$26,00. O tempo estimado de trabalho para cada componente da equipe é de 4 horas semanais, distribuídos ao longo de cada semana.
 
 Estes valores serão utilizados como base para futuros cálculos.
 
@@ -63,19 +63,26 @@ Percentual que evoluímos com relação ao planejado. Um valor maior que 1 é fa
 # 
 # Acompanhamento dos custos
 
+Como o valor agregado ao projeto é a menção, os cálculos que serão utilizados serão baseados nos materiais necessários para o desenvolvimento do projeto. Sendo eles:
+
+- Computador: R$ 4000;
+- Energia: R$ 14,064;
+- Internet: R$ 37,50;
+- Custo aluno UnB: R$ 26 por hora;
 
 ## Estimativa inicial
 
 * Início do projeto: 04/11/2022;
 * Fim do projeto: 30/01/2023;
-* Nas primeiras três semanas foram levantados os requisitos (e artefatos) do projeto e realizado o protótipo;
-* O custo do trabalho realizado nesse período foi de **R$ 832,00** por semana, de acordo com o cálculo:
+* Nas primeiras semanas foram levantados os requisitos (e artefatos) do projeto, realizado o protótipo de alta fidelidade e a modelagem do projeto;
+* O custo do trabalho realizado é de:
 
-```4 (horas) * 26,00 (custo por hora) * 8 (integrantes)```
+```4 (horas) * 26,00 (custo por hora) * 9 (integrantes) + (14,064 + 37,50 + 4000) * 9```
 
 | Sprint | Semanas | Preço estimado total|
 |--|--|--|
-| Preparação projeto | 3 | R$ 2.496,00 |
+| Preparação projeto | 3 | R$ 2.496,00|
+| Modelagem e correções| 2 | R$ 38.336,076|
 
 ## Histórico de Versões
 
@@ -83,6 +90,7 @@ Percentual que evoluímos com relação ao planejado. Um valor maior que 1 é fa
 | ---- | ----- | --------- | --------- | -------  |
 | 14/11/2022 | 1.0 | Criação do documento | [Taynara](https://github.com/TaynaraCris)    |   [Caio César](https://github.com/oCaioOliveira) |
 | 18/11/2022 | 1.1 | Criação do acompanhamento do custo |  [Taynara](https://github.com/TaynaraCris)    |   [Caio César](https://github.com/oCaioOliveira) |
+| 04/12/2022 | 1.2 | Correção do acompanhamento do custo |  [Taynara](https://github.com/TaynaraCris)    |   [Caio César](https://github.com/oCaioOliveira) |
 
 ## Referências
 
