@@ -49,9 +49,25 @@ Uma referência para essa aplicação: [Life Box](https://www.vucafood.com.br/li
 
 ![Print Metodologias](./assets/print-13.png)
 
-[//]: # (## Screenshots Segunda Entrega <<FOCO: DSW&#40;Modelagem&#41;>>)
+## Screenshots Segunda Entrega <<FOCO: DSW&#40;Modelagem&#41;>>
 
-[//]: # (Adicione 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entrega.)
+![Print Diagrama de Classes](./assets/print-14.png)
+
+![Print Diagrama de Pacotes](./assets/print-15.png)
+
+![Print Diagrama de Componentes](./assets/print-16.png)
+
+![Print Diagrama de Implantação](./assets/print-17.png)
+
+![Print Diagrama de Sequência](./assets/print-18.png)
+
+![Print Diagrama de Comunicação](./assets/print-19.png)
+
+![Print Diagrama de Estados](./assets/print-20.png)
+
+![Print Diagrama de Atividades](./assets/print-21.png)
+
+![Print Product Backlog](./assets/print-22.png)
 
 [//]: # ()
 [//]: # (## Screenshots Terceira Entrega <<FOCO: DSW&#40;Padrões de Projeto&#41;>>)
