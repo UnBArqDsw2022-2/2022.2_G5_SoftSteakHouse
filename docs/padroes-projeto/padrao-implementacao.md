@@ -23,5 +23,5 @@ Para agregar toda a equipe, a linguagem decidida na implementação do projeto s
 
 | Data  | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
-| 08/12/2022 | 0.1 | Criação do documento | [Caio César](https://github.com/oCaioOliveira) | - |
-| 08/12/2022 | 0.2 | Adição de padrões para Front e Back end | [Caio César](https://github.com/oCaioOliveira) | - |
+| 08/12/2022 | 0.1 | Criação do documento | [Caio César](https://github.com/oCaioOliveira) | [Victor Leão](https://github.com/victorleaoo) |
+| 08/12/2022 | 0.2 | Adição de padrões para Front e Back end | [Caio César](https://github.com/oCaioOliveira) | [Victor Leão](https://github.com/victorleaoo) |
