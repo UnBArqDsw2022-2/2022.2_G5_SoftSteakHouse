@@ -107,9 +107,101 @@ Item editado com sucesso.
 Item deletado com sucesso.
 ```
 
+### /admins
+
+#### GET
+
+* Descrição: Irá retornar uma lista com todos os administradores cadastrados no sistema.
+* Código de retorno sucesso: 200 OK 
+* Código de retorno falha: 500 Internal Server Error (depende do erro)
+* Entrada: N/A
+* Corpo da resposta: Uma lista com todos os administradores cadastrados no sistema, sendo que cada administrador é composto de usuário (string obrigatória e única) e senha (string obrigatória).
+* Exemplo de entrada: N/A
+* Exemplo de resposta:
+
+```
+[
+    {
+        "usuario": "FernandoFei",
+        "senha": "Fernandinho123"
+    },
+    {
+        "usuario": "MatheusHenrique",
+        "senha": "Matheusinho123"
+    }
+]
+```
+ 
+#### POST
+ 
+* Descrição: Irá cadastrar um administrador no sistema.
+* Código de retorno sucesso: 201 Created
+* Código de retorno falha: 500 Internal Server Error (depende do erro)
+* Entrada: Administrador composto de usuário (string obrigatória e única) e senha (string obrigatória).
+* Corpo da resposta: Uma mensagem informando que o administrador foi cadastrado com sucesso.
+* Exemplo de entrada: 
+
+```
+{
+    "usuario": "FernandoFei",
+    "senha": "Fernandinho123"
+}
+```
+
+* Exemplo de resposta:
+
+```
+Administrador cadastrado com sucesso.
+```
+
+#### PUT
+ 
+* Descrição: Irá editar um administrador já cadastrado no sistema.
+* Código de retorno sucesso: 204 No Content
+* Código de retorno falha: 500 Internal Server Error (depende do erro)
+* Entrada: Administrador composto de usuário (string obrigatória e única) e senha (string obrigatória).
+* Corpo da resposta: Uma mensagem opcional informando que o administrador foi editado com sucesso.
+* Exemplo de entrada:
+
+```
+{
+    "usuario": "FernandoFei",
+    "senha": "Fernandinho123"
+}
+```
+
+* Exemplo de resposta:
+
+```
+Administrador editado com sucesso.
+```
+
+#### DELETE
+ 
+* Descrição: Irá deletar um administrador já cadastrado no sistema.
+* Código de retorno sucesso: 200 OK
+* Código de retorno falha: 500 Internal Server Error (depende do erro)
+* Entrada: Administrador composto de usuário (string obrigatória e única) e senha (string obrigatória).
+* Corpo da resposta: Uma mensagem informando que o administrador foi deletado com sucesso.
+* Exemplo de entrada:
+
+```
+{
+    "usuario": "FernandoFei",
+    "senha": "Fernandinho123"
+}
+```
+
+* Exemplo de resposta:
+
+```
+Administrador deletado com sucesso.
+```
+
 ### Histórico de Versões
 
 | Data  | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
 | 11/12/2022 | 0.1 | Criação do documento | [Caio César](https://github.com/oCaioOliveira) | [Victor Leão](https://github.com/victorleaoo) |
 | 11/12/2022 | 0.2 | Adição do endpoint /itens | [Caio César](https://github.com/oCaioOliveira) | [Victor Leão](https://github.com/victorleaoo) |
+| 11/12/2022 | 0.3 | Adição do endpoint /admins | [Caio César](https://github.com/oCaioOliveira) | [Victor Leão](https://github.com/victorleaoo) |
