@@ -55,3 +55,4 @@ A tela de ajuda deve mostrar as principais informações do estabelecimento como
 | Data  | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
 | 11/12/2022 | 0.1 | Criação do documento | [Caio César](https://github.com/oCaioOliveira) | - |
+| 11/12/2022 | 0.2 | Adição das principais telas iniciais | [Caio César](https://github.com/oCaioOliveira) | - |
