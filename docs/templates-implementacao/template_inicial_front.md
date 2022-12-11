@@ -44,6 +44,7 @@ Após o administrador estar logado, terá acesso a tela de gerenciamento de mesa
 O menu de opções deve mostrar 4 opções para o usuário/administrador, sendo elas *Início* levando para a página inicial, *Cardápio* levando para a tela do cardápio, *Mesas* levando para a tela de login caso o administrador não esteja logado ou para a tela de gerenciamento de mesas caso contrário e *Ajuda* levando para uma tela com as principais informações do estabelecimento.
 
 ![image](https://user-images.githubusercontent.com/54439337/206926598-4050658f-9235-4d79-874e-04f75b73ba2f.png)
+
 *Imagem 6: Menu de Opções.*
 
 ### Ajuda
