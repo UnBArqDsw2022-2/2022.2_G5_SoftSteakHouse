@@ -14,7 +14,7 @@ Esta seção irá explicar sobre os endpoints iniciais que serão criados pela e
 * Código de retorno sucesso: 200 OK 
 * Código de retorno falha: 500 Internal Server Error (depende do erro)
 * Entrada: N/A
-* Corpo da resposta: Uma lista com todos os itens cadastrados no sistema, sendo que cada item é composto de titulo (string obrigatória e única), descricao (string obrigatória) e preco (float obrigatório).
+* Corpo da resposta: Uma lista com todos os itens cadastrados no sistema, sendo que cada item é composto de titulo (string obrigatória e única), descricao (string obrigatória), preco (float obrigatório) e classificacao (string opcional e única).
 * Exemplo de entrada: N/A
 * Exemplo de resposta:
 
@@ -23,27 +23,30 @@ Esta seção irá explicar sobre os endpoints iniciais que serão criados pela e
     {
         "titulo": "Batata Frita",
         "descricao": "Batata colhida nos campos da Inglaterra e frita no óleo dos pastéis da semana passada.",
-        "preco": 18.99
+        "preco": 18.99,
+        "classificacao": "Entradas"
     },
     {
         "titulo": "Feijão com Arroz",
         "descricao": "Comida tradicional brasileira e especialidade do chefe Nobody Yes Door.",
-        "preco": 45.99
+        "preco": 45.99,
+        "classificacao": "Refeições"
     },
     {
         "titulo": "Macarrão da Roça",
         "descricao": "Macarrão que a avó do chefe mandou ontem.",
-        "preco": 54.99
+        "preco": 54.99,
+        "classificacao": "Refeições"
     }
- ]
- ```
+]
+```
  
 #### POST
  
 * Descrição: Irá cadastrar um item no sistema.
 * Código de retorno sucesso: 201 Created
 * Código de retorno falha: 500 Internal Server Error (depende do erro)
-* Entrada: Item composto de titulo (string obrigatória e única), descricao (string obrigatória) e preco (float obrigatório).
+* Entrada: Item composto de titulo (string obrigatória e única), descricao (string obrigatória), preco (float obrigatório) e classificacao (string opcional e única).
 * Corpo da resposta: Uma mensagem informando que o item foi cadastrado com sucesso.
 * Exemplo de entrada: 
 
@@ -51,7 +54,8 @@ Esta seção irá explicar sobre os endpoints iniciais que serão criados pela e
 {
     "titulo": "Batata Frita",
     "descricao": "Batata colhida nos campos da Inglaterra e frita no óleo dos pastéis da semana passada.",
-    "preco": 18.99
+    "preco": 18.99,
+    "classificacao": "Entradas"
 }
 ```
 
@@ -66,7 +70,7 @@ Item cadastrado com sucesso.
 * Descrição: Irá editar um item já cadastrado no sistema.
 * Código de retorno sucesso: 204 No Content
 * Código de retorno falha: 500 Internal Server Error (depende do erro)
-* Entrada: Item composto de titulo (string obrigatória e única), descricao (string obrigatória) e preco (float obrigatório).
+* Entrada: Item composto de titulo (string obrigatória e única), descricao (string obrigatória), preco (float obrigatório) e classificacao (string opcional e única).
 * Corpo da resposta: Uma mensagem opcional informando que o item foi editado com sucesso.
 * Exemplo de entrada:
 
@@ -74,7 +78,8 @@ Item cadastrado com sucesso.
 {
     "titulo": "Batata Frita",
     "descricao": "Batata colhida nos campos da Inglaterra e frita no óleo dos pastéis da semana passada.",
-    "preco": 18.99
+    "preco": 18.99,
+    "classificacao": "Entradas"
 }
 ```
 
@@ -89,7 +94,7 @@ Item editado com sucesso.
 * Descrição: Irá deletar um item já cadastrado no sistema.
 * Código de retorno sucesso: 200 OK
 * Código de retorno falha: 500 Internal Server Error (depende do erro)
-* Entrada: Item composto de titulo (string obrigatória e única), descricao (string obrigatória) e preco (float obrigatório).
+* Entrada: Item composto de titulo (string obrigatória e única), descricao (string obrigatória), preco (float obrigatório) e classificacao (string opcional e única).
 * Corpo da resposta: Uma mensagem informando que o item foi deletado com sucesso.
 * Exemplo de entrada:
 
@@ -97,7 +102,8 @@ Item editado com sucesso.
 {
     "titulo": "Batata Frita",
     "descricao": "Batata colhida nos campos da Inglaterra e frita no óleo dos pastéis da semana passada.",
-    "preco": 18.99
+    "preco": 18.99,
+    "classificacao": "Entradas"
 }
 ```
 
