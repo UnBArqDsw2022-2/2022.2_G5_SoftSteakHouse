@@ -63,6 +63,8 @@
   - [3.3. Modelagem Ágil](padroes-projeto/modelagem_agil.md)
   - [3.4. Iniciativas Extras](padroes-projeto/iniciativas_extras.md)
     - [3.4.1. Padrões de Implementação](padroes-projeto/iniciativas_extras/padrao-implementacao.md)
+    - [3.4.2. GRASP(s)](padroes-projeto/iniciativas_extras/grasps.md)
+    - [3.4.3. GoF(s)](padroes-projeto/iniciativas_extras/gofs.md)
   - [3.5. Participações](padroes-projeto/participacoes.md)
 
 - **Templates para Implementacao**

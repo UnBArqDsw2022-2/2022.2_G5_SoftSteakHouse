@@ -6,3 +6,7 @@ Com o começo das implementações de código, algumas iniciativas extras foram 
 - Um novo tópico com os Templates de Implementação foram criados para as tarefas dessa parte:
     - [Template de Implementação do Back-End](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/templates-implementacao/template_inicial_back)
     - [Template de Implementação do Front-End](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/templates-implementacao/template_inicial_front)
+
+Além disso, para contextualizar os outros artefatos, foram feitos artefatos para explicar o que são GRASP(s) e GoF(s):
+- [GRASP(s)](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/padroes-projeto/iniciativas_extras/grasps)
+- [GoF(s)](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/padroes-projeto/iniciativas_extras/gofs)
