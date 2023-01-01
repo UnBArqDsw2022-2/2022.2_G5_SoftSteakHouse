@@ -54,26 +54,21 @@
       - [Diagramas Dinâmicos](modelagem/iniciativas_extras/diagramas_dinamicos.md)
   - [2.3.Participações](modelagem/participacoes_modelagem.md)
 
+- **Padrões de Projeto**
+
+- [3. Desenho de Software](padroes-projeto/padroes_projeto.md)
+
+  - [3.1. GRASPs](padroes-projeto/grasps.md)
+  - [3.2. GoFs](padroes-projeto/gofs.md)
+  - [3.3. Modelagem Ágil](padroes-projeto/modelagem_agil.md)
+  - [3.4. Iniciativas Extras](padroes-projeto/iniciativas_extras.md)
+  - [3.5. Participações](padroes-projeto/participacoes.md)
+
 - **Templates para Implementacao**
 
-- [3. Templates para Implementacao](templates-implementacao/template_inicial_back.md)
+- [4. Templates para Implementacao](templates-implementacao/template_inicial_back.md)
   - [3.1. Templates para Implementacao Back-end](templates-implementacao/template_inicial_back.md)
   - [3.2. Templates para Implementacao Front-end](templates-implementacao/template_inicial_front.md)
-
-[//]: # ()
-[//]: # (- **Padrões de Projeto**)
-
-[//]: # (  - [3. Desenho de Software]&#40;/padroes-projeto/padroes_projeto.md&#41;)
-
-[//]: # (    - [GRASPs]&#40;/padroes-projeto/grasps.md&#41;)
-
-[//]: # (    - [GoFs]&#40;/padroes-projeto/gofs.md&#41;)
-
-[//]: # (    - [3.3. Modelagem Ágil]&#40;/padroes-projeto/modelagem_agil.md&#41;)
-
-[//]: # (    - [3.4. Iniciativas Extras]&#40;/padroes-projeto/iniciativas_extras.md&#41;)
-
-[//]: # (    - [3.5. Participações]&#40;/padroes-projeto/participacoes.md&#41;)
 
 [//]: # ()
 [//]: # (- **Arquitetura de Software & Reutilização**)
