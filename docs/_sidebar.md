@@ -62,13 +62,14 @@
   - [3.2. GoFs](padroes-projeto/gofs.md)
   - [3.3. Modelagem Ágil](padroes-projeto/modelagem_agil.md)
   - [3.4. Iniciativas Extras](padroes-projeto/iniciativas_extras.md)
+    - [3.4.1. Padrões de Implementação](padroes-projeto/iniciativas_extras/padrao-implementacao.md)
   - [3.5. Participações](padroes-projeto/participacoes.md)
 
 - **Templates para Implementacao**
 
-- [4. Templates para Implementacao](templates-implementacao/template_inicial_back.md)
-  - [3.1. Templates para Implementacao Back-end](templates-implementacao/template_inicial_back.md)
-  - [3.2. Templates para Implementacao Front-end](templates-implementacao/template_inicial_front.md)
+- [4. Templates para Implementacao]()
+  - [4.1. Templates para Implementacao Back-end](templates-implementacao/template_inicial_back.md)
+  - [4.2. Templates para Implementacao Front-end](templates-implementacao/template_inicial_front.md)
 
 [//]: # ()
 [//]: # (- **Arquitetura de Software & Reutilização**)
