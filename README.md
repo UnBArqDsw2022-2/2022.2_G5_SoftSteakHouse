@@ -1,8 +1,9 @@
 # Soft SteakHouse
 
-Esse repositório é para ser utilizado pelo grupo 05 como um template inicial, da home page do Projeto.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-Demais diretrizes sobre a organização da wiki constam no Moodle Aprender 3.
+Esse é o repositório de documentação da equipe.
+
+- Repositório **Back-End**: https://github.com/UnBArqDsw2022-2/2022.2_G5_SoftSteakHouse_Backend
+- Repositório **Front-End**: https://github.com/UnBArqDsw2022-2/2022.2_G5_SoftSteakHouse_Frontend
 
 # Soft SteakHouse
 
