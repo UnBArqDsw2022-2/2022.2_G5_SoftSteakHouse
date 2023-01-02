@@ -1,11 +1,27 @@
 # 3.1. Módulo Padrões de Projeto GRASPs
 
-**Foco_01:** Padrões de Projeto GRASPs.
+## 3.1.1. Introdução
 
-Entrega Mínina: TRÊS padrões GRASPs, com nível de modelagem evidenciado.
+Introdução aqui...
 
-Apresentação (em sala) explicando os GRASPs, com: (i) rastro claro aos membros participantes; (ii) justificativas & senso crítico sobre os padrões estudados; (iii) breve apresentação - em nível de modelagem - de pelo menos TRÊS padrões GRASPs identificados no projeto, e (iv) comentários gerais sobre iniciativas extras. Tempo da Apresentação: +/- 5min. Recomendação: Apresentar diretamente via Wiki ou GitPages do Projeto.
+## 3.1.2. GRASP Criador
 
-A Wiki ou GitPages do Projeto deve conter um tópico dedicado ao Módulo Padrões de Projeto GRASPs, com artefatos, histórico de versões, referências, e demais detalhamentos gerados pela equipe nesse escopo.
+GRASP Criador aqui...
 
-Demais orientações disponíveis nas Diretrizes (vide Moodle).
+## 3.1.3. GRASP Especialista
+
+GRASP Especialista aqui...
+
+## 3.1.4. GRASP de Alta Coesão
+
+GRASP de Alta Coesão aqui...
+
+# 3.2 Referências
+
+Referências aqui...
+
+## Histórico de Versões
+
+|    Data    | Versão |            Descrição           |       Autor     |    Revisor    |
+|  --------  |  ----  |            ----------          | --------------- |    -------    |
+| 01/01/2023 |  0.0.1 |  Configuração inicial do artefato de Padrões GRASPs | [Caio César](https://github.com/oCaioOliveira) | - |
