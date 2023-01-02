@@ -6,10 +6,10 @@ Padrões de projeto são princípios e soluções usados durante a criação de 
 
 A referência mais relevante para é a 'Design Patterns: Elements of Reusable Object-Oriented Software', Erich Gamma, Richard Helm, Ralph Johnson e John Vlissides, de 1995. Eles descrevem seus padrões de projeto em diversos elementos:
 
-- **Nome e classificação do padrão:** O nome deve passar a essência do padrão suscintamente.
-- **Intenção:** Pequena explicação que responde as perguntas: o que o padrão faz? qual sua intenção? qual problema de design específico resolve?
+- **Nome e classificação do padrão:** O nome deve passar a essência do padrão sucintamente.
+- **Intenção:** Pequena explicação que responde às perguntas: o que o padrão faz? Qual sua intenção? Qual problema de design específico resolve?
 - **Também conhecido como:** Outros nomes para o padrão, caso exista.
-- **Motivação:** Um cenário que ilusta o problema e como as classes e objetos estruturados no padrão resolvem o problema.
+- **Motivação:** Um cenário que ilustra o problema e como as classes e objetos estruturados no padrão resolvem o problema.
 - **Aplicabilidade:** Quais são as situações que os padrões podem ser aplicados?
 - **Estrutura:** Representação gráfica das classes no padrão.
 - **Participantes:** Classes e objetos que participam do padrão e suas responsabilidades.
@@ -29,9 +29,9 @@ Em um projeto orientado a objetos, a criação de objetos tem dois problemas pri
 - Definir qual classe concreta deve ser utilizada para criar o objeto;
 - Definir como os objetos devem ser criados e como eles se relacionam com outros objetos do sistema.
 
-De acordo com o princípio do encapsulamento, essa complexidade deve ser, preferencialmente isolada. Assim, pode-se citar alguns padrões de projeto GoFs Criacionais e seus objetivos para resolver esses problemas (os usados no projeto são melhor explorados em seus artefatos únicos):
+Conforme o princípio do encapsulamento, essa complexidade deve ser, preferencialmente, isolada. Assim, pode-se citar alguns padrões de projeto GoFs Criacionais e seus objetivos para resolver esses problemas (os usados no projeto são melhor explorados em seus artefatos únicos):
 
-- **Factory Method**: permitir delegar a instanciação às subclasse.
+- **Factory Method**: permitir delegar a instanciação às subclasses.
 - **Abstract Factory**: permitir a criação de famílias de objetos relacionados ou dependentes por meio de uma única interface e sem que a classe concreta seja especificada.
 - **Builder**: permitir a construção de objetos complexos passo a passo.
 - **Prototype**: permitir a cópia de objetos existentes sem deixar o código dependente de suas classes.
@@ -39,16 +39,16 @@ De acordo com o princípio do encapsulamento, essa complexidade deve ser, prefer
 
 ## GoFs Estruturais
 
-A partir de interações, os objetos podem gerar fortes dependências entre si, o que aumenta a complexidade de eventuais alterações no funcionamento do sistema (e, consequentemente, o custo também aumenta).
+A partir de interações, os objetos podem gerar fortes dependências entre si, aumentando a complexidade de eventuais alterações no funcionamento do sistema (e, consequentemente, o custo também aumenta).
 
 Com isso, os padrões de projeto estruturais buscam diminuir o acoplamento entre os objetos de um sistema baseado em OO, trabalhando, principalmente, no nível de classes. Assim, pode-se citar alguns padrões de projeto GoFs Estruturais e seus objetivos para resolver esses problemas (os usados no projeto são melhor explorados em seus artefatos únicos):
 
 - **Adapter**: permitir que um objeto seja substituído por outro que, apesar de realizar a mesma tarefa, possui uma interface diferente.
 - **Bridge**: permitir a divisão de uma classe grande ou um conjunto de classes ligadas em duas hierarquias separadas que podem ser desenvolvidas independentemente umas das outras.
-- **Composite**: agrupar objetos que fazem parte de uma relação parte-todo de forma a tratá-los sem distinção.
-- **Decorator**: permitir a adição de novos comportamentos a objetos colocando eles dentro de um wrapper de objetos que contém os comportamentos.
-- **Facade**: fornecer uma interface simplifcada para uma biblioteca ou framework.
-- **Proxy**: permitir o fornecimento de um substituto para um outro objeto (controle do acesso ao objeto original).
+- **Composite**: agrupar objetos que fazem parte de uma relação parte-todo para tratá-los sem distinção.
+- **Decorator**: permitir a adição de novos comportamentos a objetos colocando eles em um wrapper de objetos que contém os comportamentos.
+- **Facade**: fornecer uma interface simplificada para uma biblioteca ou framework.
+- **Proxy**: permitir o fornecimento de um substituto para outro objeto (controle do acesso ao objeto original).
 
 ## GoFs Comportamentais
 
@@ -58,11 +58,11 @@ Nesse caso, permitem usar mecanismos/recursos para facilitar tanto a incorporaç
 
 - **Command**: permitir a parametrização de métodos com diferentes pedidos, uma vez que transforma pedidos em objetos independente. 
 - **Strategy**: permitir de forma simples a variação dos algoritmos utilizados na resolução de um determinado problema.
-- **Template Method**: Definir a ordem na qual determinados passos devem ser realizados na resolução de um problema e permitir que esses passos possam ser realizados de formas diferentes de acordo com a situação.
+- **Template Method**: Definir a ordem na qual determinados passos devem ser realizados na resolução de um problema e permitir que esses passos possam ser realizados de formas diferentes conforme a situação.
 - **Chain of Responsibility**: permitir passar pedidos por uma corrente de handlers (processa ou passa para o próximo handler).
 - **Iterator**: permitir percorrer elementos de uma coleção sem expor as representações estruturais dele.
-- **Mediator**: permitir a redução das dependências caóticas entre objetos (restringe comunicações diretas entre objetos e os força a colaborar apenas atráves do mediador).
-- **Observer**: permitir a definição de um mecanismo de assitura para notificar múltiplos objetos sobre eventos que aconteçam sobre um objeto observado.
+- **Mediator**: permitir a redução das dependências caóticas entre objetos (restringe comunicações diretas entre objetos e os força a colaborar apenas através do mediador).
+- **Observer**: permitir a definição de um mecanismo de assinatura para notificar múltiplos objetos sobre eventos que aconteçam sobre um objeto observado.
 - **State**: permitir que um objeto altere seu comportamento quando seu estado interno muda.
 - **Visitor**: permitir a separação de algoritmos dos objetos que eles operam.
 
@@ -70,7 +70,7 @@ Nesse caso, permitem usar mecanismos/recursos para facilitar tanto a incorporaç
 
 |    Data    | Versão |            Descrição           |       Autor     |    Revisor    |
 |  --------  |  ----  |            ----------          | --------------- |    -------    |
-| 01/01/2023 |  1.0.0 |  Criação do artefato de GoFs | [Victor Leão](https://github.com/victorleaoo) | - |
+| 01/01/2023 |  1.0.0 |  Criação do artefato de GoFs | [Victor Leão](https://github.com/victorleaoo) | [Caio César](https://github.com/oCaioOliveira) |
 
 ## Referências
 SERRANO, Milene. GoFs, 2022. Material apresentado na Disciplina de Arquitetura e Desenho de Software do curso de engenharia de software da UnB, FGA. Acesso em: 01 jan. 2023.
