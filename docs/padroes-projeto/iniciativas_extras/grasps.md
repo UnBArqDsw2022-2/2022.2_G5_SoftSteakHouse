@@ -2,15 +2,15 @@
 
 ## Introdução
 
-Os padrões de projeto GRASP são guiados pelo Projeto Guiado por Responsabilidades (PGR).
+Os padrões de projeto GRASP (General Responsability Assignment Software Patterns) são guiados pelo Projeto Guiado por Responsabilidades (PGR).
 
-Um Projeto Guiado por Responsabilidades (PGR) é uma forma de criar desenhos de software com base em responsabilidades, papéis e colaborações. No caso de um software, os objetos desempenham papéis, responsabilidades são as obrigações do objeto no papel dele, sendo 'fazer' (realizar algo, iniciar uma ação em outros objetos e controlar atividades em outros objetos) e 'conhecer' (conhecer sobre dados privados encapsulados, objetos relacionados e coisas que ele pode derivar ou calcular) duas responsabilidades de um objeto.
+Um Projeto Guiado por Responsabilidades (PGR) é uma forma de criar desenhos de software com base em responsabilidades, papéis e colaborações. No caso de um software, os objetos desempenham papéis, responsabilidades são as obrigações do objeto no papel dele, sendo *fazer* (realizar algo, iniciar uma ação em outros objetos e controlar atividades em outros objetos) e *conhecer* (conhecer sobre dados privados encapsulados, objetos relacionados e coisas que ele pode derivar ou calcular) duas responsabilidades de um objeto.
 
-Padrões de projeto são princípios e soluções usados durante a criação de um software, codificados em um formato estruturado, descrevendo o problema e a respectiva solução adotada. Com isso, GRASP (General Responsability Assignment Software Patterns), ou Padrões de Software para Atribuição de Responsabilidade Geral em português, é um tipo de padrões de projeto que pode ser aplicado para o desenvolvimento de um projeto. Em outras palavras, os padrões GRASP são princípios descritos de modo metódico, explicável e repetível para atribuir as responsabilidades (fazer e conhecer) dos papéis (objetos).
+Padrões de projeto são princípios e soluções usados durante a criação de um software, codificados em um formato estruturado, descrevendo o problema e a respectiva solução adotada. Com isso, GRASP, ou Padrões de Software para Atribuição de Responsabilidade Geral em português, é um tipo de padrões de projeto que pode ser aplicado para o desenvolvimento de um projeto. Em outras palavras, os padrões GRASP são princípios descritos de modo metódico, explicável e repetível para atribuir as responsabilidades (fazer e conhecer) dos papéis (objetos).
 
-A primeira literatura que os cita é o 'Utilizando UML e Padrões', Craig Larman, primeiramente publicado em 1997. O livro é renomado, sendo recomendado até por Martin Fowler, grande nome na área de arquitetura de software, especialmente na orientação de objetos e UML (abordados durante o projeto).
+A primeira literatura que os cita é o *Utilizando UML e Padrões*, Craig Larman, primeiramente publicado em 1997. O livro é renomado, recomendado até por Martin Fowler, grande nome na área de arquitetura de software, especialmente na orientação de objetos e UML (abordados durante o projeto).
 
-Existem 9 princípios, os problemas que eles resolvem estão representados abaixo, mas aqueles que foram usados no projeto estão melhor explicados em seus artefatos específicos:
+Existem 9 princípios, os problemas que eles resolvem estão representados abaixo, mas aqueles sendo usados no projeto estão melhor explicados em seus artefatos específicos:
 
 - **Criador:** Quem deve ser responsável pela criação de uma nova instância de uma classe?
 - **Especialista:** Qual é um princípio geral de atribuição de responsabilidade a objetos?
@@ -26,7 +26,7 @@ Existem 9 princípios, os problemas que eles resolvem estão representados abaix
 
 |    Data    | Versão |            Descrição           |       Autor     |    Revisor    |
 |  --------  |  ----  |            ----------          | --------------- |    -------    |
-| 01/01/2023 |  1.0.0 |  Criação do artefato de GRASP | [Victor Leão](https://github.com/victorleaoo) | - |
+| 01/01/2023 |  1.0.0 |  Criação do artefato de GRASP | [Victor Leão](https://github.com/victorleaoo) | [Caio César](https://github.com/oCaioOliveira) |
 
 ## Referências
 SERRANO, Milene. GRASP, 2022. Material apresentado na Disciplina de Arquitetura e Desenho de Software do curso de engenharia de software da UnB, FGA. Acesso em: 01 jan. 2023.
