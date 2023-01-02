@@ -29,8 +29,6 @@ A ferramenta utilizada para a criação dos diagramas foi a **diagrams.net** (co
 
 ![Diagrama Comunicação Funcionário](./assets/diagrama-comunicacao-func.png)
 
-### Pedidos
-
 ## Histórico de Versões
 
 |    Data    | Versão |            Descrição           |       Autor     |    Revisor    |
