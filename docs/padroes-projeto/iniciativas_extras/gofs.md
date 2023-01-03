@@ -1,4 +1,4 @@
-# GoF(s)
+# Padrões de Projeto GoF(s)
 
 ## Introdução
 
