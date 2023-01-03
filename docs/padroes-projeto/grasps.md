@@ -21,7 +21,22 @@ Em geral, uma classe ou módulo com alta coesão é considerada mais fácil de e
 ![image](https://user-images.githubusercontent.com/54439337/210288575-24b5048f-f2f4-4007-985a-c3b0bf456289.png)<br>
 *Imagem 1: Diferença entre baixa e alta coesão. Fonte: https://unbarqdsw2022-1.github.io/2022.1_G2_DonAct/#/PadroesDeProjeto/3.1.GRASPs*
 
-Na figura em blocos da esquerda exemplifica um projeto que é comum de ser encontrado no mercado de trabalho, sendo suas características: maior complexidade, dependência entre classes, forte acoplamento, baixa reutilização, maior impacto em mudanças e dificuldade na documentação e no entendimento. Projeto esse que apresenta uma baixa coesão, ou seja, suas principais funções e classes estão interligadas de formas indesejáveis, dificultando o trabalho do profissional responsável. Já o projeto da direita apresenta um projeto mais difícil de se encontrar, com características: menor complexidade, maior reutilização, dependendo da situação até inutiliza a função da documentação, essa que é muito mais simples e consideravelmente entendível, mudanças impactam minimamente o sistema, baixo acoplamento.
+Na figura em blocos da esquerda exemplifica um projeto que é comum de ser encontrado no mercado de trabalho, sendo suas características: 
+- Maior complexidade; 
+- Dependência entre classes; 
+- Forte acoplamento; 
+- Baixa reutilização; 
+- Maior impacto em mudanças; 
+- Dificuldade na documentação e no entendimento; 
+- Maior dificuldade na produção de testes.
+
+Projeto esse que apresenta uma baixa coesão, ou seja, suas principais funções e classes estão interligadas de formas indesejáveis, dificultando o trabalho do profissional responsável. Já o projeto da direita apresenta um projeto mais difícil de se encontrar, com raras características: 
+- Menor complexidade; 
+- Maior reutilização; 
+- Dependendo da situação até inutiliza a função da documentação, essa que é muito mais simples e consideravelmente entendível;
+- Mudanças impactam minimamente o sistema;
+- Baixo acoplamento;
+- Testes coerentes e fáceis de serem alterados. 
 
 No projeto do grupo 5, foi definido desde o começo que desenvolveríamos com o padrão de projeto de alta coesão, apesar de levar tempo e não ser a tarefa mais fácil, é recompensador a longo prazo. Isto é, conforme os requisitos do produto eram alterados, o impacto no projeto não foi e nem está sendo custoso. Para exemplificar melhor esse padrão de projeto serão apresentados exemplos no Back e Front-end.
 
