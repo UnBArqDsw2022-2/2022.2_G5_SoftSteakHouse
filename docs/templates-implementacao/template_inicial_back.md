@@ -14,29 +14,32 @@ Esta seção irá explicar sobre os endpoints iniciais que serão criados pela e
 * Código de retorno sucesso: 200 OK 
 * Código de retorno falha: 500 Internal Server Error (depende do erro)
 * Entrada: N/A
-* Corpo da resposta: Uma lista com todos os itens cadastrados no sistema, sendo que cada item é composto de titulo (string obrigatória e única), descricao (string obrigatória), preco (float obrigatório) e classificacao (string opcional e única).
+* Corpo da resposta: Uma lista com todos os itens cadastrados no sistema, sendo que cada item é composto de titulo (string obrigatória e única), descricao (string obrigatória), preco (float obrigatório), classificacao (string opcional e única) e link da imagem (string obrigatória).
 * Exemplo de entrada: N/A
 * Exemplo de resposta:
 
 ```
 [
     {
-        "titulo": "Batata Frita",
-        "descricao": "Batata colhida nos campos da Inglaterra e frita no óleo dos pastéis da semana passada.",
-        "preco": 18.99,
-        "classificacao": "Entradas"
+        "titulo": "Onion Rings",
+        "descricao": "Anéis de cebolas empanadas e fritas",
+        "preco": "28.00",
+        "classificacao": "ENTRADA",
+        "link_imagem": "https://softsteakhouse-images.s3.sa-east-1.amazonaws.com/onion-rings.jpg"
     },
     {
-        "titulo": "Feijão com Arroz",
-        "descricao": "Comida tradicional brasileira e especialidade do chefe Nobody Yes Door.",
-        "preco": 45.99,
-        "classificacao": "Refeições"
+        "titulo": "Macarrão com queijo",
+        "descricao": "Prato de macarrão do tipo Spaghetti com queijo mussarela",
+        "preco": "38.00",
+        "classificacao": "PRATOPRINCIPAL",
+        "link_imagem": "https://softsteakhouse-images.s3.sa-east-1.amazonaws.com/spaghetti-queijo.jpg"
     },
     {
-        "titulo": "Macarrão da Roça",
-        "descricao": "Macarrão que a avó do chefe mandou ontem.",
-        "preco": 54.99,
-        "classificacao": "Refeições"
+        "titulo": "Coxinha de Frango",
+        "descricao": "Porção de 10 coxinhas de frango fritas",
+        "preco": "17.50",
+        "classificacao": "ENTRADA",
+        "link_imagem": "https://softsteakhouse-images.s3.sa-east-1.amazonaws.com/coxinha.jpg"
     }
 ]
 ```
@@ -46,16 +49,17 @@ Esta seção irá explicar sobre os endpoints iniciais que serão criados pela e
 * Descrição: Irá cadastrar um item no sistema.
 * Código de retorno sucesso: 201 Created
 * Código de retorno falha: 500 Internal Server Error (depende do erro)
-* Entrada: Item composto de titulo (string obrigatória e única), descricao (string obrigatória), preco (float obrigatório) e classificacao (string opcional e única).
+* Entrada: Item composto de titulo (string obrigatória e única), descricao (string obrigatória), preco (float obrigatório), classificacao (string opcional e única) e link da imagem (string obrigatória).
 * Corpo da resposta: Uma mensagem informando que o item foi cadastrado com sucesso.
 * Exemplo de entrada: 
 
 ```
 {
-    "titulo": "Batata Frita",
-    "descricao": "Batata colhida nos campos da Inglaterra e frita no óleo dos pastéis da semana passada.",
-    "preco": 18.99,
-    "classificacao": "Entradas"
+    "titulo": "Coxinha de Frango",
+    "descricao": "Porção de 10 coxinhas de frango fritas",
+    "preco": "17.50",
+    "classificacao": "ENTRADA",
+    "link_imagem": "https://softsteakhouse-images.s3.sa-east-1.amazonaws.com/coxinha.jpg"
 }
 ```
 
@@ -70,16 +74,17 @@ Item cadastrado com sucesso.
 * Descrição: Irá editar um item já cadastrado no sistema.
 * Código de retorno sucesso: 204 No Content
 * Código de retorno falha: 500 Internal Server Error (depende do erro)
-* Entrada: Item composto de titulo (string obrigatória e única), descricao (string obrigatória), preco (float obrigatório) e classificacao (string opcional e única).
+* Entrada: Item composto de titulo (string obrigatória e única), descricao (string obrigatória), preco (float obrigatório), classificacao (string opcional e única) e link da imagem (string obrigatória).
 * Corpo da resposta: Uma mensagem opcional informando que o item foi editado com sucesso.
 * Exemplo de entrada:
 
 ```
 {
-    "titulo": "Batata Frita",
-    "descricao": "Batata colhida nos campos da Inglaterra e frita no óleo dos pastéis da semana passada.",
-    "preco": 18.99,
-    "classificacao": "Entradas"
+    "titulo": "Coxinha de Frango",
+    "descricao": "Porção de 10 coxinhas de frango fritas",
+    "preco": "17.50",
+    "classificacao": "ENTRADA",
+    "link_imagem": "https://softsteakhouse-images.s3.sa-east-1.amazonaws.com/coxinha.jpg"
 }
 ```
 
@@ -94,16 +99,17 @@ Item editado com sucesso.
 * Descrição: Irá deletar um item já cadastrado no sistema.
 * Código de retorno sucesso: 200 OK
 * Código de retorno falha: 500 Internal Server Error (depende do erro)
-* Entrada: Item composto de titulo (string obrigatória e única), descricao (string obrigatória), preco (float obrigatório) e classificacao (string opcional e única).
+* Entrada: Item composto de titulo (string obrigatória e única), descricao (string obrigatória), preco (float obrigatório), classificacao (string opcional e única) e link da imagem (string obrigatória).
 * Corpo da resposta: Uma mensagem informando que o item foi deletado com sucesso.
 * Exemplo de entrada:
 
 ```
 {
-    "titulo": "Batata Frita",
-    "descricao": "Batata colhida nos campos da Inglaterra e frita no óleo dos pastéis da semana passada.",
-    "preco": 18.99,
-    "classificacao": "Entradas"
+    "titulo": "Coxinha de Frango",
+    "descricao": "Porção de 10 coxinhas de frango fritas",
+    "preco": "17.50",
+    "classificacao": "ENTRADA",
+    "link_imagem": "https://softsteakhouse-images.s3.sa-east-1.amazonaws.com/coxinha.jpg"
 }
 ```
 
@@ -113,96 +119,104 @@ Item editado com sucesso.
 Item deletado com sucesso.
 ```
 
-### /admins
+### /adicionais
 
 #### GET
 
-* Descrição: Irá retornar uma lista com todos os administradores cadastrados no sistema.
+* Descrição: Irá retornar uma lista com todos os adicionais cadastrados no sistema.
 * Código de retorno sucesso: 200 OK 
 * Código de retorno falha: 500 Internal Server Error (depende do erro)
 * Entrada: N/A
-* Corpo da resposta: Uma lista com todos os administradores cadastrados no sistema, sendo que cada administrador é composto de usuário (string obrigatória e única) e senha (string obrigatória).
+* Corpo da resposta: Uma lista com todos os adicionais cadastrados no sistema, sendo que cada adicional é composto de nome (string obrigatória e única) e preco (float obrigatório).
 * Exemplo de entrada: N/A
 * Exemplo de resposta:
 
 ```
 [
     {
-        "usuario": "FernandoFei",
-        "senha": "Fernandinho123"
+        "nome": "Cheddar e Bacon",
+        "preco": "8.99"
     },
     {
-        "usuario": "MatheusHenrique",
-        "senha": "Matheusinho123"
+        "nome": "Coca Lata",
+        "preco": "8.00"
+    },
+    {
+        "nome": "Guaraná Lata",
+        "preco": "8.00"
     }
 ]
 ```
  
 #### POST
  
-* Descrição: Irá cadastrar um administrador no sistema.
-* Código de retorno sucesso: 201 Created
+* Descrição: Irá cadastrar um adicional no sistema.
+* Código de retorno sucesso: 200 OK 
 * Código de retorno falha: 500 Internal Server Error (depende do erro)
-* Entrada: Administrador composto de usuário (string obrigatória e única) e senha (string obrigatória).
-* Corpo da resposta: Uma mensagem informando que o administrador foi cadastrado com sucesso.
-* Exemplo de entrada: 
+* Entrada: Um adicional composto de nome (string obrigatória e única) e preco (float obrigatório).
+* Corpo da resposta: N/A
+* Exemplo de entrada:
 
 ```
 {
-    "usuario": "FernandoFei",
-    "senha": "Fernandinho123"
+    "nome": "Cheddar e Bacon",
+    "preco": "8.99"
 }
 ```
 
 * Exemplo de resposta:
 
 ```
-Administrador cadastrado com sucesso.
+Adicional cadastrado com sucesso.
 ```
 
 #### PUT
  
-* Descrição: Irá editar um administrador já cadastrado no sistema.
-* Código de retorno sucesso: 204 No Content
+* Descrição: Irá editar um adicional no sistema.
+* Código de retorno sucesso: 200 OK 
 * Código de retorno falha: 500 Internal Server Error (depende do erro)
-* Entrada: Administrador composto de usuário (string obrigatória e única) e senha (string obrigatória).
-* Corpo da resposta: Uma mensagem opcional informando que o administrador foi editado com sucesso.
+* Entrada: Um adicional composto de nome (string obrigatória e única) e preco (float obrigatório).
+* Corpo da resposta: N/A
 * Exemplo de entrada:
 
 ```
 {
-    "usuario": "FernandoFei",
-    "senha": "Fernandinho123"
+    "nome": "Cheddar e Bacon",
+    "preco": "8.99"
 }
 ```
 
 * Exemplo de resposta:
 
 ```
-Administrador editado com sucesso.
+Adicional editado com sucesso.
 ```
 
 #### DELETE
  
-* Descrição: Irá deletar um administrador já cadastrado no sistema.
-* Código de retorno sucesso: 200 OK
+* Descrição: Irá deletar um adicional no sistema.
+* Código de retorno sucesso: 200 OK 
 * Código de retorno falha: 500 Internal Server Error (depende do erro)
-* Entrada: Administrador composto de usuário (string obrigatória e única) e senha (string obrigatória).
-* Corpo da resposta: Uma mensagem informando que o administrador foi deletado com sucesso.
+* Entrada: Um adicional composto de nome (string obrigatória e única) e preco (float obrigatório).
+* Corpo da resposta: N/A
 * Exemplo de entrada:
 
 ```
 {
-    "usuario": "FernandoFei",
-    "senha": "Fernandinho123"
+    "nome": "Cheddar e Bacon",
+    "preco": "8.99"
 }
 ```
 
 * Exemplo de resposta:
 
 ```
-Administrador deletado com sucesso.
+Adicional deletado com sucesso.
 ```
+
+### /admins
+
+Os administradores utilizarão o sistema definido pelo próprio Django, ou seja, a parte de login e cadastro será direto pela API, o framework libera um sistema de autentificação já construído dentro das suas funcionalidades.
 
 ### Histórico de Versões
 
@@ -211,3 +225,4 @@ Administrador deletado com sucesso.
 | 11/12/2022 | 0.1 | Criação do documento | [Caio César](https://github.com/oCaioOliveira) | [Victor Leão](https://github.com/victorleaoo) |
 | 11/12/2022 | 0.2 | Adição do endpoint /itens | [Caio César](https://github.com/oCaioOliveira) | [Victor Leão](https://github.com/victorleaoo) |
 | 11/12/2022 | 0.3 | Adição do endpoint /admins | [Caio César](https://github.com/oCaioOliveira) | [Victor Leão](https://github.com/victorleaoo) |
+| 11/12/2022 | 1.0 | Atualização de template | [Caio César](https://github.com/oCaioOliveira) | [Victor Leão](https://github.com/victorleaoo) |
