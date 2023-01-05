@@ -10,11 +10,11 @@ GRASP Criador aqui...
 
 ## 3.1.3. GRASP Especialista
 
-O padrão especialista envolve a distribuição consistente de responsabilidades entre as classes, ou seja, tem como objetivo atribuir a responsabilidade de algo para uma classe específica. 
+O padrão especialista envolve a distribuição consistente de responsabilidades entre as classes, ou seja, visa atribuir a responsabilidade de algo para uma classe específica. 
 
 Com isso temos um melhor encapsulamento das informações, fazendo com que o código seja mais fácil de entender e fazer manutenções futuras.
 
-Caso alguma inforação necessária para implementar as reponsabilidades frequentes está associada a outros objetos diferentes, esses por sua vez são considerados especialistas parciais.
+Caso alguma informação necessária para implementar as responsabilidades frequentes está associada a outros objetos diferentes, esses, são considerados especialistas parciais.
 
 ### Utilização no projeto:
 
@@ -23,7 +23,7 @@ Caso alguma inforação necessária para implementar as reponsabilidades frequen
 
 Como podemos ver no exemplo acima, existe um método dentro da classe "Item" responsável por adicionar informações extra ao item do cardápio. Isso faz com que a classe "Item" seja a especialista do método citado anteriormente
 
-Podemos notar que o método que acrescenta informações adicionais ao item utiliza informações de outra classe, no caso a classe "Adicional", que por sua vez é uma especialista parcial.
+Podemos notar que o método que acrescenta informações adicionais ao item utiliza informações de outra classe, no caso a classe "Adicional", que, é uma especialista parcial.
 
 ## 3.1.4. GRASP de Alta Coesão
 
@@ -76,4 +76,4 @@ No Back-end, um exemplo mais simples é a utilização do padrão gerado pelo Dj
 |  --------  |  ----  |            ----------          | --------------- |    -------    |
 | 01/01/2023 |  0.0.1 |  Configuração inicial do artefato de Padrões GRASPs | [Caio César](https://github.com/oCaioOliveira) | [Hian Praxedes](https://github.com/HianPraxedes) |
 | 01/01/2023 |  0.1.0 |  Adição do padrão de projeto de alta coesão | [Caio César](https://github.com/oCaioOliveira) | [Hian Praxedes](https://github.com/HianPraxedes) |
-| 05/01/2023 |  0.1.1 |  Adição do padrão de projeto GRASP Especialista | [Hian Praxedes](https://github.com/HianPraxedes) | - |
+| 05/01/2023 |  0.1.1 |  Adição do padrão de projeto GRASP Especialista | [Hian Praxedes](https://github.com/HianPraxedes) |  [Caio César](https://github.com/oCaioOliveira) |
