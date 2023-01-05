@@ -57,20 +57,23 @@
 - **Padrões de Projeto**
 
 - [3. Desenho de Software](padroes-projeto/padroes_projeto.md)
-
   - [3.1. GRASPs](padroes-projeto/grasps.md)
   - [3.2. GoFs](padroes-projeto/gofs.md)
     - [GoFs Criacionais](padroes-projeto/gofs.md)
       - [Abstract Factory](padroes-projeto/criacional/absfact.md)
     - [GoFs Estruturais](padroes-projeto/gofs.md)
       - [Composite](padroes-projeto/estrut/composite.md)
+      - [Builder](padroes-projeto/gofs/estruturais/builder.md)
     - [GoFs Comportamentais](padroes-projeto/gofs.md)
       - [Observer](padroes-projeto/comport/observer.md)
   - [3.3. Modelagem Ágil](padroes-projeto/modelagem_agil.md)
   - [3.4. Iniciativas Extras](padroes-projeto/iniciativas_extras.md)
     - [3.4.1. Padrões de Implementação](padroes-projeto/iniciativas_extras/padrao-implementacao.md)
-    - [3.4.2. GRASP(s)](padroes-projeto/iniciativas_extras/grasps.md)
-    - [3.4.3. GoF(s)](padroes-projeto/iniciativas_extras/gofs.md)
+    - [3.4.2. GRASPs](padroes-projeto/iniciativas_extras/grasps.md)
+    - [3.4.3. GoFs](padroes-projeto/iniciativas_extras/gofs.md)
+    - [3.4.4. Quando evitar padrões de projeto?](padroes-projeto/iniciativas_extras/quando-evitar-padroes-projeto.md)
+
+
   - [3.5. Participações](padroes-projeto/participacoes.md)
 
 - **Templates para Implementacao**
