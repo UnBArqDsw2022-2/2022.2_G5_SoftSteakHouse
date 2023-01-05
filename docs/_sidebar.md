@@ -60,6 +60,8 @@
 
   - [3.1. GRASPs](padroes-projeto/grasps.md)
   - [3.2. GoFs](padroes-projeto/gofs.md)
+    - [GoFs Criacionais](padroes-projeto/gofs.md)
+      - [Abstract Factory](padroes-projeto/criacional/absfact.md)
     - [GoFs Estruturais](padroes-projeto/gofs.md)
       - [Composite](padroes-projeto/estrut/composite.md)
     - [GoFs Comportamentais](padroes-projeto/gofs.md)
