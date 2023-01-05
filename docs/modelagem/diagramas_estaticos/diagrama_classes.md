@@ -27,13 +27,14 @@ Após a definição das tecnologias que serão utilizadas no desenvolvimento, se
 tipos de relacionamento supracitados, consultando os membros do grupos e o backlog do produto para validação.
 
 ## 3. Diagrama
-![Diagrama de classes](../../assets/diagrama_classes_softstackhouse.jpeg)
+![Diagrama de classes](../../assets/novo_diagrama_classes_softstackhouse.jpeg)
 
 
 ## Histórico de versões
 | Data       | Versão |      Descrição       | Autor(a)                                      | Revisor(a) |
 |------------| ------ | -------------------- |-----------------------------------------------|------------|
 | 01/12/2022 | 1.0    | Criação do documento | [Nícolas Mantzos](https://github.com/ngm1450) | [Victor Leão](https://github.com/victorleaoo) |
+| 04/01/2023 | 1.1    | Modificação do Diagramada de Classes | [Hian Praxedes](https://github.com/HianPraxedes) | |
 
 
 ## Referências
