@@ -1,19 +1,17 @@
-# 3.5. Participações
+# 3.5. Participações - Padrões de Projeto
 
-## Introdução
-
-A tabela 1 compila as contribuições de cada membro, escritas a próprio punho por ele, para a entrega do terceiro módulo de documentação (*Padrões de Projeto*).
-
-## Contribuições
+Breve relato sobre as participações/contribuições de cada membro à entrega. 
 
 |Nome do Membro | Contribuição | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
 | -- | -- | -- |
-| Abraão Alves Ribeiro|1. Artefatos produzidos [Padrão GRASP's de criação](./grasps.md) <br>2. Tarefas realizadas no backend: Criação dos endpoints e views responsáveis pela autenticação do usuario|Boa|
+|Abraão Alves Ribeiro|1. Artefatos produzidos [Padrão GRASP's de criação](./grasps.md) <br>2. Tarefas realizadas no backend: Criação dos endpoints e views responsáveis pela autenticação do usuario|Boa|
 | Caio César Oliveira  |  1. Artefatos produzidos: <br>- [Padrão GRASPs de Alta Coesão](./grasps.md)<br>- [Template para implementação Back-end](../templates-implementacao/template_inicial_back.md)<br>- [Template para implementação Front-end](../templates-implementacao/template_inicial_front.md)<br>- [Padrões de Implementação](./iniciativas_extras/padrao-implementacao.md)<br>2. Artefatos Revisados:<br>- [Introdução aos Padrões de Projeto GRASP(s)](./iniciativas_extras/grasps.md)<br>- [Introdução aos Padrões de Projeto GoF(s)](./iniciativas_extras/gofs.md)<br>- [Padrão GRASPs especialista](./grasps.md)<br>3. Tarefas realizadas no Back-end:<br>- [Contrução da base do projeto](https://github.com/UnBArqDsw2022-2/2022.2_G5_SoftSteakHouse_Backend/commit/e68a33804431074b8460daf2ba7f0537f82a34ec)<br>- [Implementação do endpoint itens](https://github.com/UnBArqDsw2022-2/2022.2_G5_SoftSteakHouse_Backend/commit/e68a33804431074b8460daf2ba7f0537f82a34ec)<br>- [Implementação do endpoint adicionais](https://github.com/UnBArqDsw2022-2/2022.2_G5_SoftSteakHouse_Backend/commit/d8338b6e7e695c38cbe2518710320b609f5a6bad)<br>4. Tarefas realizadas no Front-end:<br>- [Contrução da base do projeto](https://github.com/UnBArqDsw2022-2/2022.2_G5_SoftSteakHouse_Frontend/commit/a0d581634bb2b83a2e2c13f16c6577594a27d105)<br>- [Implementação da tela do Item](https://github.com/UnBArqDsw2022-2/2022.2_G5_SoftSteakHouse_Frontend/commit/afef383f8c74f30f94003d25274b2414817607ca)<br>- [Implementação da função consumidora da API do Back-end](https://github.com/UnBArqDsw2022-2/2022.2_G5_SoftSteakHouse_Frontend/commit/c0a3beac01e05586059a6aac555b7eac5820c518)<br>- [Contribuição na construção da tela do cardápio](https://github.com/UnBArqDsw2022-2/2022.2_G5_SoftSteakHouse_Frontend/pull/4) | Excelente |
-| Carla Rocha Cangussú  |  - | - |
+| Carla Rocha Cangussú | 1. Tarefas realizadas no Front-end:<br> - Criação da página Cardápio <br> - Criação da Página principal | Boa |
 | Hian Praxedes |1. Artefatos produzidos:<br> - [Padrão GRASP's de Especialista](./grasps.md) <br>- [Atualização do diagrama de Classes](./modelagem/diagramas_estaticos/diagrama_classes.md)<br>2. Tarefas realizadas no backend: <br>Programação em pares para criação dos endpoints e views responsáveis pela autenticação do usuario<br> 3. Revisões de artefatos:<br>- [Padrão GRASP's](./grasps.md)|Excelente|
 | Lucas Rodrigues Monteiro | - | - |
 | Marcos | - | - |
 | Nicolas Georgeos Mantzos |1. Artefatos produzidos:<br> - [Builder](./padroes-projeto/gofs/criacionais/builder) <br>- [Paternite](./padroes-projeto/iniciativas_extras/paternite.md)<br>2. Tarefas realizadas no backend: <br>Adição de filtros aos endpoints get e delete.<br> 3. Revisões de artefatos:<br>- [Padrão GRASP's](./grasps.md)|Boa|
 | Taynara Cristina Ribeiro Marcellos | - | - |
 | Victor Hugo Oliveira Leão | 1. Criação dos artefatos:<br> - Iniciativa Extra de GRASPs e GoFs<br>- GoF Abstract Factory<br>- GoF Composite<br>- GoF Observer<br>- Padrão de projeto extra - Django MTV<br>2. Revisão dos GRASPs<br>3. No Back-End: trabalho na implementação do cadastro de itens. | Excelente |
+
+TODOS DEVEM PARTICIPAR, MOSTRANDO SEUS PONTOS DE VISTA E COMO COLABORARAM NESSA ETAPA DO PROJETO.
