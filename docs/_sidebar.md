@@ -63,6 +63,7 @@
       - [Abstract Factory](padroes-projeto/gofs/criacionais/absfact.md)
       - [Builder](padroes-projeto/gofs/criacionais/builder.md)
     - [GoFs Estruturais](padroes-projeto/gofs.md)
+      - [Adapter](padroes-projeto/gofs/estruturais/adapter.md)
       - [Composite](padroes-projeto/gofs/estruturais/composite.md)
     - [GoFs Comportamentais](padroes-projeto/gofs.md)
       - [Observer](padroes-projeto/gofs/comportamentais/observer.md)
