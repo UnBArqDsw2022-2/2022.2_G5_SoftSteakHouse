@@ -61,3 +61,16 @@ vegetarian_to_gluten_free_adapter = VegetarianToGlutenFreeMenuAdapter(vegetarian
 ### Imprime os itens do cardápio sem glúten
 print(vegetarian_to_gluten_free_adapter.get_items())
 ```
+
+## Histórico de versões
+
+|    Data    | Versão |            Descrição           |       Autor     |    Revisor    |
+|  --------  |  ----  |            ----------          | --------------- |    -------    |
+| 06/01/2023 |  1.0.0 |  Criação do artefato | [Taynara](https://github.com/TaynaraCris) | [Marcos](https://github.com/Marofelipe) |
+
+## Referências
+SERRANO, Milene. GoFs, 2022. Material apresentado na Disciplina de Arquitetura e Desenho de Software do curso de engenharia de software da UnB, FGA. Acesso em: 04 jan. 2023.
+
+REFACTORING GURU. Composite. Disponível em: https://refactoring.guru/pt-br/design-patterns/adapter. Acesso em: 05 jan. 2023.
+
+PADRÕES DE PROJETO: ADAPTER. Disponível em: https://www.thiengo.com.br/padrao-de-projeto-adapter. Acesso em: 05 jan. 2023.
