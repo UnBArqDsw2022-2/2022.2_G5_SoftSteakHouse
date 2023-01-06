@@ -19,10 +19,7 @@ Uma das atividades mais comuns e importantes para um sistema de orientação a o
 ![image](../assets/diagrama-classes.jpeg)<br>
 *Imagem 1: Exemplo do uso de Grasp Especialista no projeto. Fonte: Próprio autor*
 
-Pode-se observar pela imagem do diagrama de classes que a responsabilidade da criação do objeto 'Item' recai sobre a classe 'User' Dessa forma, podemos atribuir a classe 'User' a responsabilidade de criar 'Item'
-
-
-
+Pode-se observar pela imagem do diagrama de classes que a responsabilidade da criação do objeto 'Item' recai sobre a classe 'User' Dessa forma, podemos atribuir à classe 'User' a responsabilidade de criar 'Item'.
 
 ## 3.1.3. GRASP Especialista
 
@@ -37,7 +34,7 @@ Caso alguma informação necessária para implementar as responsabilidades frequ
 ![image](../assets/diagrama-classes.jpeg)<br>
 *Imagem 1: Exemplo do uso de Grasp Especialista no projeto. Fonte: Próprio autor*
 
-Como podemos ver no exemplo acima, existe um método dentro da classe "Item" responsável por adicionar informações extra ao item do cardápio. Isso faz com que a classe "Item" seja a especialista do método citado anteriormente
+Como podemos ver no exemplo acima, existe um método dentro da classe "Item" responsável por adicionar informações extra ao item do cardápio. Isso faz com que a classe "Item" seja a especialista do método citado anteriormente.
 
 Podemos notar que o método que acrescenta informações adicionais ao item utiliza informações de outra classe, no caso a classe "Adicional", que, é uma especialista parcial.
 
@@ -90,6 +87,6 @@ No Back-end, um exemplo mais simples é a utilização do padrão gerado pelo Dj
 
 |    Data    | Versão |            Descrição           |       Autor     |    Revisor    |
 |  --------  |  ----  |            ----------          | --------------- |    -------    |
-| 01/01/2023 |  0.0.1 |  Configuração inicial do artefato de Padrões GRASPs | [Caio César](https://github.com/oCaioOliveira) | [Hian Praxedes](https://github.com/HianPraxedes) |
-| 01/01/2023 |  0.1.0 |  Adição do padrão de projeto de alta coesão | [Caio César](https://github.com/oCaioOliveira) | [Hian Praxedes](https://github.com/HianPraxedes) |
-| 05/01/2023 |  0.1.1 |  Adição do padrão de projeto GRASP Especialista | [Hian Praxedes](https://github.com/HianPraxedes) |  [Caio César](https://github.com/oCaioOliveira) |
+| 01/01/2023 |  0.0.1 |  Configuração inicial do artefato de Padrões GRASPs | [Caio César](https://github.com/oCaioOliveira) | [Hian Praxedes](https://github.com/HianPraxedes), [Victor Leão](https://github.com/victorleaoo) |
+| 01/01/2023 |  0.1.0 |  Adição do padrão de projeto de alta coesão | [Caio César](https://github.com/oCaioOliveira) | [Hian Praxedes](https://github.com/HianPraxedes), [Victor Leão](https://github.com/victorleaoo) |
+| 05/01/2023 |  0.1.1 |  Adição do padrão de projeto GRASP Especialista | [Hian Praxedes](https://github.com/HianPraxedes) |  [Caio César](https://github.com/oCaioOliveira), [Victor Leão](https://github.com/victorleaoo) |
