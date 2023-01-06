@@ -57,11 +57,15 @@
 - **Padrões de Projeto**
 
 - [3. Desenho de Software](padroes-projeto/padroes_projeto.md)
-
-  - [3.1. GRASPs](padroes-projeto/iniciativas_extras/grasps.md)
-  - [3.2. GoFs](padroes-projeto/iniciativas_extras/gofs.md)
-    - [3.2.1 Estruturais]()
-      - [3.2.1.1. Builder](padroes-projeto/gofs/estruturais/builder.md)
+  - [3.1. GRASPs](padroes-projeto/grasps.md)
+  - [3.2. GoFs](padroes-projeto/gofs.md)
+    - [GoFs Criacionais](padroes-projeto/gofs.md)
+      - [Abstract Factory](padroes-projeto/criacional/absfact.md)
+    - [GoFs Estruturais](padroes-projeto/gofs.md)
+      - [Composite](padroes-projeto/estrut/composite.md)
+      - [Builder](padroes-projeto/gofs/estruturais/builder.md)
+    - [GoFs Comportamentais](padroes-projeto/gofs.md)
+      - [Observer](padroes-projeto/comport/observer.md)
   - [3.3. Modelagem Ágil](padroes-projeto/modelagem_agil.md)
   - [3.4. Iniciativas Extras](padroes-projeto/iniciativas_extras.md)
     - [3.4.1. Padrões de Implementação](padroes-projeto/iniciativas_extras/padrao-implementacao.md)
