@@ -11,5 +11,5 @@ Breve relato sobre as participações/contribuições de cada membro à entrega.
 | Lucas Rodrigues Monteiro | - | - |
 | Marcos | 1: Artefato produzido:<br> - [State](./padroes-projeto/gofs/comportamentais/state)<br>2. Front-end:<br> - HTML/CSS da tela de Login e sua integração com back-end.<br> - HTML/CSS da tela de gerenciamento de mesas.<br> - Gerenciamento de tokens de usuário no front-end via localStorage.  | Boa |
 | Nicolas Georgeos Mantzos |1. Artefatos produzidos:<br> - [Builder](./padroes-projeto/gofs/criacionais/builder) <br>- [Paternite](./padroes-projeto/iniciativas_extras/paternite.md)<br>2. Tarefas realizadas no backend: <br>Adição de filtros aos endpoints get e delete.<br> 3. Revisões de artefatos:<br>- [Padrão GRASP's](./grasps.md)|Boa|
-| Taynara Cristina Ribeiro Marcellos | - | - |
+| Taynara Cristina Ribeiro Marcellos | 1: Artefato produzido: <br> - [Adapter](./padroes-projeto/gofs/estruturais/adapter) <br> 2. Front-end:<br> - HTML/CSS da tela de Login e sua integração com back-end.<br> - HTML/CSS da tela de gerenciamento de mesas.| Média |
 | Victor Hugo Oliveira Leão | 1. Criação dos artefatos:<br> - Iniciativa Extra de GRASPs e GoFs<br>- GoF Abstract Factory<br>- GoF Composite<br>- GoF Observer<br>- Padrão de projeto extra - Django MTV<br>2. Revisão dos GRASPs<br>3. No Back-End: trabalho na implementação do cadastro de itens. | Excelente |
