@@ -6,7 +6,21 @@ Introdução aqui...
 
 ## 3.1.2. GRASP Criador
 
-GRASP Criador aqui...
+Uma das atividades mais comuns e importantes para um sistema de orientação a objetos é a criação de um objeto. O padrão Criador que determina qual classe deve ser responsável pela criação do objeto. Atribuindo à classe B a responsabilidade de criar uma instância da classe A caso:
+
+* B agrega objetos de A
+* B contém A
+* B armazena instância de A
+* B usa objetos de A
+* B possui informação necessária à criação de A
+
+![image](../assets/diagrama-classes.jpeg)<br>
+*Imagem 1: Exemplo do uso de Grasp Especialista no projeto. Fonte: Próprio autor*
+
+Pode-se observar pela imagem do diagrama de classes que a responsabilidade da criação do objeto 'Item' recai sobre a classe 'User' Dessa forma, podemos atribuir a classe 'User' a responsabilidade de criar 'Item'
+
+
+
 
 ## 3.1.3. GRASP Especialista
 
@@ -18,7 +32,7 @@ Caso alguma informação necessária para implementar as responsabilidades frequ
 
 ### Utilização no projeto:
 
-![image](../assets/print-23.jpeg)<br>
+![image](../assets/diagrama-classes.jpeg)<br>
 *Imagem 1: Exemplo do uso de Grasp Especialista no projeto. Fonte: Próprio autor*
 
 Como podemos ver no exemplo acima, existe um método dentro da classe "Item" responsável por adicionar informações extra ao item do cardápio. Isso faz com que a classe "Item" seja a especialista do método citado anteriormente
