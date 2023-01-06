@@ -10,3 +10,6 @@ Com o começo das implementações de código, algumas iniciativas extras foram 
 Além disso, para contextualizar os outros artefatos, foram feitos artefatos para explicar o que são GRASP(s) e GoF(s):
 - [GRASP(s)](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/padroes-projeto/iniciativas_extras/grasps)
 - [GoF(s)](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/padroes-projeto/iniciativas_extras/gofs)
+
+A fim de apresentar os prós e contras do assunto, foi criado um artefato para detalhar quando alguns padrões devem ser evitados.
+- [Quando evitar padrões de projeto?](/padroes-projeto/iniciativas_extras/quando-evitar-padroes-projeto.md)
