@@ -20,7 +20,7 @@ O MTV é muito similar ao famoso padrão MVC (Model, View, Controller) tanto no 
 
 ## Modelagem
 
-A figura abaixo, com fonte o site do Treina Web, apresenta, de forma simples, como funciona o padrão de projeto MTV descrito acima:
+A figura abaixo, com fonte o site do [Treina Web](https://www.treinaweb.com.br/blog/entendendo-o-mtv-do-django#:~:text=A%20arquitetura%20do%20Django%20%C3%A9,P%C3%A1ginas%20para%20visualiza%C3%A7%C3%A3o%20de%20dados), apresenta, de forma simples, como funciona o padrão de projeto MTV descrito acima:
 
 ![Modelagem Django](./django-modelagem.png)
 
@@ -46,7 +46,7 @@ A implementação do Django e, consequentemente, do MTV pode ser encontrada no [
 
 |    Data    | Versão |            Descrição           |       Autor     |    Revisor    |
 |  --------  |  ----  |            ----------          | --------------- |    -------    |
-| 06/01/2023 |  1.0.0 |  Criação do artefato | [Victor Leão](https://github.com/victorleaoo) | -|
+| 06/01/2023 |  1.0.0 |  Criação do artefato | [Victor Leão](https://github.com/victorleaoo) | [Caio César](https://github.com/oCaioOliveira) |
 
 ## Referências
 
