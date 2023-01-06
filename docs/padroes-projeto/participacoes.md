@@ -9,7 +9,7 @@ Breve relato sobre as participações/contribuições de cada membro à entrega.
 | Carla Rocha Cangussú | 1. Tarefas realizadas no Front-end:<br> - Criação da página Cardápio <br> - Criação da Página principal | Boa |
 | Hian Praxedes |1. Artefatos produzidos:<br> - [Padrão GRASP's de Especialista](./grasps.md) <br>- [Atualização do diagrama de Classes](./modelagem/diagramas_estaticos/diagrama_classes.md)<br>2. Tarefas realizadas no backend: <br>Programação em pares para criação dos endpoints e views responsáveis pela autenticação do usuario<br> 3. Revisões de artefatos:<br>- [Padrão GRASP's](./grasps.md)|Excelente|
 | Lucas Rodrigues Monteiro | - | - |
-| Marcos | - | - |
+| Marcos | 1: Artefato produzido:<br> - [State](./padroes-projeto/gofs/comportamentais/state)<br>2. Front-end:<br> - HTML/CSS da tela de Login e sua integração com back-end.<br> - HTML/CSS da tela de gerenciamento de mesas.<br> - Gerenciamento de tokens de usuário no front-end via localStorage.  | Boa |
 | Nicolas Georgeos Mantzos |1. Artefatos produzidos:<br> - [Builder](./padroes-projeto/gofs/criacionais/builder) <br>- [Paternite](./padroes-projeto/iniciativas_extras/paternite.md)<br>2. Tarefas realizadas no backend: <br>Adição de filtros aos endpoints get e delete.<br> 3. Revisões de artefatos:<br>- [Padrão GRASP's](./grasps.md)|Boa|
 | Taynara Cristina Ribeiro Marcellos | - | - |
 | Victor Hugo Oliveira Leão | 1. Criação dos artefatos:<br> - Iniciativa Extra de GRASPs e GoFs<br>- GoF Abstract Factory<br>- GoF Composite<br>- GoF Observer<br>- Padrão de projeto extra - Django MTV<br>2. Revisão dos GRASPs<br>3. No Back-End: trabalho na implementação do cadastro de itens. | Excelente |
