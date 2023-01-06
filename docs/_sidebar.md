@@ -66,6 +66,7 @@
       - [Builder](padroes-projeto/gofs/estruturais/builder.md)
     - [GoFs Comportamentais](padroes-projeto/gofs.md)
       - [Observer](padroes-projeto/comport/observer.md)
+      - [State](padroes-projeto/comport/state.md)
   - [3.3. Modelagem Ágil](padroes-projeto/modelagem_agil.md)
   - [3.4. Iniciativas Extras](padroes-projeto/iniciativas_extras.md)
     - [3.4.1. Padrões de Implementação](padroes-projeto/iniciativas_extras/padrao-implementacao.md)
