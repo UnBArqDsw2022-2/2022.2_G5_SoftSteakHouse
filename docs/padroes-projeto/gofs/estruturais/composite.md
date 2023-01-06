@@ -1,4 +1,4 @@
-# GoF Estrutural - Composite
+# Composite
 
 ## Introdução
 
@@ -20,7 +20,7 @@ Dessa forma, no projeto Soft StakeHouse, o Composite atuaria na seguinte situaç
 
 ## Modelagem (exemplo)
 
-![Composite UML](./composite-uml.png)
+![Composite UML](composite-uml.png)
 
 ## Código (exemplo)
 

@@ -1,4 +1,4 @@
-# GoF Comportamental - Observer
+# Observer
 
 ## Introdução
 
@@ -20,7 +20,7 @@ Dessa forma, no projeto Soft StakeHouse, o Observer atuaria na seguinte situaç�
 
 ## Modelagem (exemplo)
 
-![Observer UML](./observer-uml.png)
+![Observer UML](observer-uml.png)
 
 ## Código (exemplo)
 

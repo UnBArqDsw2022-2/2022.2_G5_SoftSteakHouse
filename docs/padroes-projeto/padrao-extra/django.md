@@ -1,4 +1,4 @@
-# Padrão de Projeto Extra - Django MTV
+# Django MTV
 
 ## Introdução
 

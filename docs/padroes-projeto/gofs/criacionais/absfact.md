@@ -1,4 +1,4 @@
-# GoF Criacional - Abstract Factory
+# Abstract Factory
 
 ## Introdução
 
@@ -20,7 +20,7 @@ Dessa forma, no projeto Soft StakeHouse, o Abstract Factory atuaria na seguinte 
 
 ## Modelagem (exemplo)
 
-![Abstract Factory UML](./absfact-uml.png)
+![Abstract Factory UML](absfact-uml.png)
 
 ## Código (exemplo)
 
