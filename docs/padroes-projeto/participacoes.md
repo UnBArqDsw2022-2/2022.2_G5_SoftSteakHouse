@@ -1,4 +1,8 @@
-# 3.5. Participações - Padrões de Projeto
+## Introdução
+
+A tabela 1 compila as contribuições de cada membro, escritas a próprio punho por ele, para a entrega do terceiro módulo de documentação (*Padrões de Projeto*).
+
+## Contribuições
 
 Breve relato sobre as participações/contribuições de cada membro à entrega. 
 
@@ -13,5 +17,3 @@ Breve relato sobre as participações/contribuições de cada membro à entrega.
 | Nicolas Georgeos Mantzos |1. Artefatos produzidos:<br> - [Builder](./padroes-projeto/gofs/criacionais/builder) <br>- [Singleton](./padroes-projeto/gofs/criacionais/singleton) <br>- [Paternite](./padroes-projeto/iniciativas_extras/paternite.md)<br>2. Tarefas realizadas no backend: <br>Adição de filtros dinâmicos aos endpoints get e delete.<br> |Boa|
 | Taynara Cristina Ribeiro Marcellos | 1: Artefato produzido: <br> - [Adapter](./padroes-projeto/gofs/estruturais/adapter) <br> 2. Front-end:<br> - HTML/CSS da tela de Login e sua integração com back-end.<br> - HTML/CSS da tela de gerenciamento de mesas.| Média |
 | Victor Hugo Oliveira Leão | 1. Criação dos artefatos:<br> - Iniciativa Extra de GRASPs e GoFs<br>- GoF Abstract Factory<br>- GoF Composite<br>- GoF Observer<br>- Padrão de projeto extra - Django MTV<br>2. Revisão dos GRASPs<br>3. No Back-End: trabalho na implementação do cadastro de itens. | Excelente |
-
-TODOS DEVEM PARTICIPAR, MOSTRANDO SEUS PONTOS DE VISTA E COMO COLABORARAM NESSA ETAPA DO PROJETO.

@@ -19,7 +19,7 @@ Ingrediente podem ser relevantes em um primeiro momento, ficando dados nutricion
 - Orchestrator: Possui um método <code>construct</code> que cria um Ingrediente específico.
 
 ```
-class IngredienteBuilder():
+class InterfaceBuilder():
 
     @staticmethod
     @abstractmethod
@@ -43,15 +43,15 @@ class IngredienteBuilder():
         
     @staticmethod
     @abstractmethod
-    def setLipídeo():
+    def setLipideos():
         "Set lipideo"
     
     @staticmethod
     @abstractmethod
-    def setLipídeo():
+    def setCalorias():
         "Set calorias"    
 
-class ConcreteBuilder(IngredienteBuilder):
+class ConcreteBuilder(InterfaceBuilder):
     def __init__(self):
         self.ingrediente = Ingrediente()
 
@@ -101,9 +101,14 @@ class Orchestrator:
             .setDescricoa("descricao_produto")\
             .get_result()
 
-INGREDIENTE = Director.Orchestrator()
+INGREDIENTE = Orchestrator.construct()
 print(INGREDIENTE)
 ```
+
+### 2.2. Modelagem
+
+![Diagrama de classes](modelagem_builder.png)
+
 
 ## Histórico de versões
 | Data       | Versão |      Descrição       | Autor(a)                                      | Revisor(a) |

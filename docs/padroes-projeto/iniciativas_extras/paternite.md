@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A palavra "Pattern" presente na obra que inaugurou boa parte dos padrões discutidos possui dois sinônimos em inglês, com uma tradução elucidativa para o português - "standard" e "default".
+A palavra "Pattern" presente na obra que inaugurou boa parte dos padrões discutidos, possui dois sinônimos em inglês com uma tradução elucidativa para o português - "standard" e "default".
 "Standard" é uma padrão oficial, ou uma definição definitiva, enquanto "default" é uma escolha atribuída quando nenhuma é ativamente determinada. "Pattern", por outro lado, é 
 simplesmente um comportamento repetitivo observado em contextos similares e que não necessariamente representa o jeito definitivo, ou mesmo o melhor. 
 
