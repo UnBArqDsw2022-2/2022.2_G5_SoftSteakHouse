@@ -20,7 +20,7 @@ Dessa forma, no projeto Soft StakeHouse, o Abstract Factory atuaria na seguinte 
 
 ## Modelagem (exemplo)
 
-![Abstract Factory UML](absfact-uml.png)
+![Abstract Factory UML](factory-uml.png)
 
 ## Código (exemplo)
 

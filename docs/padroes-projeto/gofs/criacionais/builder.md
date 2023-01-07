@@ -11,16 +11,13 @@ substituída por uma chamada "principal" seguida de "n" métodos set, um para ca
 Além do volume de atributos, o recorrente desconhecimento (ou irrelevância) de muitos deles no momento da instanciação também evoca o uso desse padrão de projeto. Na aplicação, por exempo, somente o nome e a descrição de um objeto do tipo
 Ingrediente podem ser relevantes em um primeiro momento, ficando dados nutricionais como o nível de carboidrato ou proteína em segundo plano; como pontuado na modelagem e implementação abaixo.
 
-### 2.1. Modelagem
+### 2.1. Implementação
 
-* Ingrediente: O objeto que será construído.
+- Ingrediente: O objeto que será construído.
 - Builder: "Builda" o ingrediente concreto, implementando a interface <code>IBuilder</code>.
 - Bulder Interface: A interface que o Builder deve implementar.
 - Orchestrator: Possui um método <code>construct</code> que cria um Ingrediente específico.
 
-![Diagrama de classes](../../assets/novo_diagrama_classes_softstackhouse.jpeg)
-
-### 2.2. Implementação
 ```
 class IngredienteBuilder():
 
@@ -55,7 +52,6 @@ class IngredienteBuilder():
         "Set calorias"    
 
 class ConcreteBuilder(IngredienteBuilder):
-
     def __init__(self):
         self.ingrediente = Ingrediente()
 
