@@ -64,6 +64,7 @@
       - [Builder](padroes-projeto/gofs/criacionais/builder.md)
       - [Singleton](padroes-projeto/gofs/criacionais/singleton.md)
     - [GoFs Estruturais](padroes-projeto/gofs.md)
+      - [Adapter](padroes-projeto/gofs/estruturais/adapter.md)
       - [Composite](padroes-projeto/gofs/estruturais/composite.md)
     - [GoFs Comportamentais](padroes-projeto/gofs.md)
       - [Observer](padroes-projeto/gofs/comportamentais/observer.md)
