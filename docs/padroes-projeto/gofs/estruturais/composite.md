@@ -25,7 +25,7 @@ Dessa forma, no projeto Soft StakeHouse, o Composite atuaria na seguinte situaç
 ## Código (exemplo)
 
 ```
-class CalculaPedido():
+class Calculavel():
     def calculaPreco(self):
         pass
 
@@ -52,7 +52,7 @@ class Adicional(CalculaPedido):
     def calculaPreco(self):
         return self.preco
 
-class Composite(CalculaPedido):
+class Comanda(CalculaPedido):
     def __init__(self):
         self._children = []
 

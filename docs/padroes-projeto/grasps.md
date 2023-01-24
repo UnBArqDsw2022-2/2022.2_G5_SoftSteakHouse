@@ -4,7 +4,7 @@
 
 Padrões de projeto são princípios e soluções usados durante a criação de um software, codificados em um formato estruturado, descrevendo o problema e a respectiva solução adotada. Com isso, GRASP, ou Padrões de Software para Atribuição de Responsabilidade Geral em português, é um tipo de padrões de projeto que pode ser aplicado para o desenvolvimento de um projeto. Em outras palavras, os padrões GRASP são princípios descritos de modo metódico, explicável e repetível para atribuir as responsabilidades (fazer e conhecer) dos papéis (objetos).
 
-Para conferir com mais detalhes pode ser acessado a [Introdução aos Padrões de Projeto GRASP(s).](./iniciativas_extras/grasps.md)
+Para conferir com mais detalhes pode ser acessado a [Introdução aos Padrões de Projeto GRASP(s).](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/padroes-projeto/iniciativas_extras/grasps)
 
 ## 3.1.2. GRASP Criador
 

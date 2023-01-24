@@ -80,21 +80,17 @@
 
   - [3.5. Participações](padroes-projeto/participacoes.md)
 
+- **Arquitetura de Software & Reutilização**
+
+- [4. Desenho de Software](arquitetura-reutilizacao/4.1.PadroesArquiteturais.md)
+  - [4.1. Módulo Estilos e Padrões Arquiteturais](arquitetura-reutilizacao/4.1.PadroesArquiteturais.md)
+    - [4.1.1 DAS](arquitetura-reutilizacao/das/das.md)
+  - [4.2. Módulo Reutilização de Software](arquitetura-reutilizacao/4.2.ReutilizacaoDeSoftware.md)
+  - [4.3. Iniciativas Extras](arquitetura-reutilizacao/4.3.IniciativasExtras.md)
+  - [4.4. Participações](arquitetura-reutilizacao/4.4.ParticipacoesArqReutilizacao.md)
+
 - **Templates para Implementacao**
 
-- [4. Templates para Implementacao](templates-implementacao/templates.md)
-  - [4.1. Templates para Implementacao Back-end](templates-implementacao/template_inicial_back.md)
-  - [4.2. Templates para Implementacao Front-end](templates-implementacao/template_inicial_front.md)
-
-[//]: # ()
-[//]: # (- **Arquitetura de Software & Reutilização**)
-
-[//]: # (  - [4. Desenho de Software]&#40;/docs/arquitetura-reutilizacao/4.ArquiteturaReutilizacao.md&#41;)
-
-[//]: # (    - [4.1. Módulo Estilos e Padrões Arquiteturais]&#40;/docs/arquitetura-reutilizacao/4.1.PadroesArquiteturais.md&#41;)
-
-[//]: # (    - [4.2. Módulo Reutilização de Software]&#40;/docs/arquitetura-reutilizacao/4.2.ReutilizacaoDeSoftware.md&#41;)
-
-[//]: # (    - [4.3. Iniciativas Extras]&#40;/docs/arquitetura-reutilizacao/4.3.IniciativasExtras.md&#41;)
-
-[//]: # (    - [4.4. Participações]&#40;/docs/arquitetura-reutilizacao/4.4.ParticipacoesArqReutilizacao.md&#41;)
+- [5. Templates para Implementacao](templates-implementacao/templates.md)
+  - [5.1. Templates para Implementacao Back-end](templates-implementacao/template_inicial_back.md)
+  - [5.2. Templates para Implementacao Front-end](templates-implementacao/template_inicial_front.md)

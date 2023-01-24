@@ -218,6 +218,110 @@ Adicional deletado com sucesso.
 
 Os administradores utilizarão o sistema definido pelo próprio Django, ou seja, a parte de login e cadastro será direto pela API, o framework libera um sistema de autentificação já construído dentro das suas funcionalidades.
 
+### /mesas
+
+#### GET
+
+* Descrição: Irá retornar uma lista com todos as mesas cadastradas no sistema.
+* Código de retorno sucesso: 200 OK 
+* Código de retorno falha: 500 Internal Server Error (depende do erro)
+* Entrada: N/A
+* Corpo da resposta: Uma lista com todas as mesas cadastradas no sistema, sendo que cada mesa é composto de id, nomeTipo (string obrigatória), qtdCadeiras (inteiro positivo obrigatório) e qtdMesas (inteiro positivo obrigatório).
+* Exemplo de entrada: N/A
+* Exemplo de resposta:
+
+```
+[
+    {
+        "id": "1",
+        "nomeTipo": "Mesa #2",
+        "qtdCadeiras": "2",
+        "qtdMesas": "6"
+    },
+    {
+        "id": "2",
+        "nomeTipo": "Mesa #4",
+        "qtdCadeiras": "4",
+        "qtdMesas": "3"
+    }
+]
+```
+ 
+#### POST
+ 
+* Descrição: Irá cadastrar uma mesa no sistema.
+* Código de retorno sucesso: 200 OK 
+* Código de retorno falha: 500 Internal Server Error (depende do erro)
+* Entrada: Uma mesa composta de auto-incrementável no banco de dados, nomeTipo (string obrigatória), qtdCadeiras (inteiro positivo obrigatório) e qtdMesas (inteiro positivo obrigatório).
+* Corpo da resposta: N/A
+* Exemplo de entrada:
+
+```
+{
+    {
+        "nomeTipo": "Mesa #2",
+        "qtdCadeiras": "2",
+        "qtdMesas": "6"
+    }
+}
+```
+
+* Exemplo de resposta:
+
+```
+Mesa cadastrada com sucesso.
+```
+
+#### PUT
+ 
+* Descrição: Irá editar uma mesa no sistema.
+* Código de retorno sucesso: 200 OK 
+* Código de retorno falha: 500 Internal Server Error (depende do erro)
+* Entrada: Uma mesa composta de auto-incrementável no banco de dados, nomeTipo (string obrigatória), qtdCadeiras (inteiro positivo obrigatório) e qtdMesas (inteiro positivo obrigatório).
+* Corpo da resposta: N/A
+* Exemplo de entrada:
+
+```
+{
+    {
+        "nomeTipo": "Mesa #2",
+        "qtdCadeiras": "2",
+        "qtdMesas": "3"
+    }
+}
+```
+
+* Exemplo de resposta:
+
+```
+Mesa editada com sucesso.
+```
+
+#### DELETE
+ 
+* Descrição: Irá deletar uma mesa no sistema.
+* Código de retorno sucesso: 200 OK 
+* Código de retorno falha: 500 Internal Server Error (depende do erro)
+* Entrada: Uma mesa composta de auto-incrementável no banco de dados, nomeTipo (string obrigatória), qtdCadeiras (inteiro positivo obrigatório) e qtdMesas (inteiro positivo obrigatório).
+* Corpo da resposta: N/A
+* Exemplo de entrada:
+
+```
+{
+    {
+        "nomeTipo": "Mesa #2",
+        "qtdCadeiras": "2",
+        "qtdMesas": "3"
+    }
+}
+```
+
+* Exemplo de resposta:
+
+```
+Mesa deletada com sucesso.
+```
+
 ### Histórico de Versões
 
 | Data  | Versão | Descrição | Autor | Revisor |
@@ -226,3 +330,4 @@ Os administradores utilizarão o sistema definido pelo próprio Django, ou seja,
 | 11/12/2022 | 0.2 | Adição do endpoint /itens | [Caio César](https://github.com/oCaioOliveira) | [Victor Leão](https://github.com/victorleaoo) |
 | 11/12/2022 | 0.3 | Adição do endpoint /admins | [Caio César](https://github.com/oCaioOliveira) | [Victor Leão](https://github.com/victorleaoo) |
 | 11/12/2022 | 1.0 | Atualização de template | [Caio César](https://github.com/oCaioOliveira) | [Victor Leão](https://github.com/victorleaoo) |
+| 23/01/2023 | 1.1 | Adição do endpoint /mesas | [Victor Leão](https://github.com/victorleaoo) | - |
