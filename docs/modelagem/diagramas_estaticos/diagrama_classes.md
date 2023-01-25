@@ -26,15 +26,20 @@ relacionamento do que heranças e associações e, no diagrama de classes, é re
 Após a definição das tecnologias que serão utilizadas no desenvolvimento, seus objetivos e sua arquitetura, houve um mapeamento das entidades fundamentais da aplicação e das classes necessárias à sua manipulação (<i>services, repositories, controllers, utils </i> etc). Por fim, foram estabelecidos os
 tipos de relacionamento supracitados, consultando os membros do grupos e o backlog do produto para validação.
 
-## 3. Diagrama
-![Diagrama de classes](../../assets/novo_diagrama_classes_softstackhouse.jpeg)
+## 3. Diagramas
 
+### 3.1 Diagrama de Classes - Entrega 3
+![Diagrama de classes - entrega4](../../assets/novo_diagrama_classes_softstackhouse.jpeg)
+
+### 3.2 Diagrama de Classes - Entrega 4
+![Diagrama de classes - entrega 4](../../assets/diagrama-classes-entrega4.png)
 
 ## Histórico de versões
 | Data       | Versão |      Descrição       | Autor(a)                                      | Revisor(a) |
 |------------| ------ | -------------------- |-----------------------------------------------|------------|
 | 01/12/2022 | 1.0    | Criação do documento | [Nícolas Mantzos](https://github.com/ngm1450) | [Victor Leão](https://github.com/victorleaoo) |
-| 04/01/2023 | 1.1    | Modificação do Diagramada de Classes | [Hian Praxedes](https://github.com/HianPraxedes) | |
+| 04/01/2023 | 1.1    | Modificação do Diagrama de Classes | [Hian Praxedes](https://github.com/HianPraxedes) | [Victor Leão](https://github.com/victorleaoo) |
+| 24/01/2023 | 1.2    | Modificação do Diagrama de Classes para entrega 4 | [Victor Leão](https://github.com/victorleaoo) | - |
 
 
 ## Referências
