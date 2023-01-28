@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-O Documento de Arquitetura de Software (DAS) é um artefato que apresenta a arquitetura de um projeto de software desenvolvido em diferentes visões. Para o software Soft SteakHouse, o DAS apresentará as visões arquiteturais de Casos de Uso, Lógica, Implantação, Implementação e Dados (camada de persistência). Além disso, Tamanho e Performance também serão tópicos analisados no artefato.
+O Documento de Arquitetura de Software (DAS) é um artefato que apresenta a arquitetura de um projeto de software desenvolvido em diferentes visões. Para o software Soft SteakHouse, o DAS apresentará as visões arquiteturais de Casos de Uso, Lógica, Implantação, Implementação e Dados (camada de persistência). Além disso, Tamanho e Desempenho também serão tópicos analisados no artefato.
 
 ### 1.1 Propósito
 
@@ -14,7 +14,7 @@ O Documento de Arquitetura de Software se aplica ao projeto Soft SteakHouse dese
 
 De forma geral, o projeto possui o foco em resolver problemas para restaurantes que desejam passar por um processo de digitalização de alguns de seus serviços. Como pode ser melhor observado no [Product Backlog](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/modelagem/agil/backlog) da aplicação, as funcionalidades que receberam maior enfoque e, portanto, são essenciais para o produto, foram a de apresentação de cardápio digital e gerenciamento de mesas, além do acesso pelo administrador do restaurante.
 
-O escopo imaginado da aplicação, juntamente com uma visão mais geral conceitual da mesma, pode ser vista de forma mais completa em alguns artefatos:
+O escopo imaginado da aplicação, com uma visão mais geral conceitual da mesma, pode ser vista de forma mais completa em alguns artefatos:
 
 - [Mapa Mental](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/base/abordagem-geral/mapa_mental)
 
@@ -77,12 +77,12 @@ A ferramenta Docker também foi implementada para a integração em ambiente iso
 
 ### 3.1 Metas
 
-Abaixo estão listados alguns requisitos e objetivos do software que têm impacto significativo na arquitetura.
+Abaixo estão listados alguns requisitos e objetivos do software, com impacto significativo na arquitetura.
 
 | Categoria | Metas |
 | :-------: | :---- |
 | Segurança e confiabilidade | A aplicação deve garantir proteção aos dados sensíveis dos usuários.</br>Falhas ou erros devem ser reportados ao usuário.</br>O sistema deve fornecer a capacidade de autenticação com credenciais únicas (cada usuário é identificado unicamente por um e-mail e senha). |
-| Portabilidade e suportabilidade | O usuário deve ser capaz de acessar a aplicação web em navegadores tanto de desktop, quanto mobile. |
+| Portabilidade e suportabilidade | O usuário deve conseguir acessar a aplicação web em navegadores tanto de desktop, quanto mobile. |
 | Responsividade | As páginas desenvolvidas devem ser responsivas ao tamanho de tela do usuário. |
 | Escalabilidade | O software deve ser desenvolvido para suportar novas evoluções (escalar), tanto de funcionalidades, quanto de dados. |
 
@@ -122,7 +122,7 @@ Algumas restrições especiais também são aplicadas à arquitetura, abaixo ela
 
 |    Data    | Versão |            Descrição           |       Autor     |    Revisor    |
 |  --------  |  ----  |            ----------          | --------------- |    -------    |
-| 23/01/2023 |  1.0.0 |  Criação da estrutura inicial em tópicos e preenchimento da introdução, representação arquitetural, metas e restrições arquiteturais, visão de casos de uso e visão lógica. | [Victor Leão](https://github.com/victorleaoo) | - |
+| 23/01/2023 |  1.0.0 |  Criação da estrutura inicial em tópicos e preenchimento da introdução, representação arquitetural, metas e restrições arquiteturais, visão de casos de uso e visão lógica. | [Victor Leão](https://github.com/victorleaoo) | [Caio César](https://github.com/oCaioOliveira) |
 
 ## Referências
 
