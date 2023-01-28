@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-O Documento de Arquitetura de Software (DAS) é um artefato que apresenta a arquitetura de um projeto de software desenvolvido em diferentes visões. Para o software Soft SteakHouse, o DAS apresentará as visões arquiteturais de Casos de Uso, Lógica, Implantação, Implementação e Dados (camada de persistência). Além disso, Tamanho e Performance também serão tópicos analisados no artefato.
+O Documento de Arquitetura de Software (DAS) é um artefato que apresenta a arquitetura de um projeto de software desenvolvido em diferentes visões. Para o software Soft SteakHouse, o DAS apresentará as visões arquiteturais de Casos de Uso, Lógica, Implantação, Implementação e Dados (camada de persistência). Além disso, Tamanho e Desempenho também serão tópicos analisados no artefato.
 
 ### 1.1 Propósito
 
@@ -14,7 +14,7 @@ O Documento de Arquitetura de Software se aplica ao projeto Soft SteakHouse dese
 
 De forma geral, o projeto possui o foco em resolver problemas para restaurantes que desejam passar por um processo de digitalização de alguns de seus serviços. Como pode ser melhor observado no [Product Backlog](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/modelagem/agil/backlog) da aplicação, as funcionalidades que receberam maior enfoque e, portanto, são essenciais para o produto, foram a de apresentação de cardápio digital e gerenciamento de mesas, além do acesso pelo administrador do restaurante.
 
-O escopo imaginado da aplicação, juntamente com uma visão mais geral conceitual da mesma, pode ser vista de forma mais completa em alguns artefatos:
+O escopo imaginado da aplicação, com uma visão mais geral conceitual da mesma, pode ser vista de forma mais completa em alguns artefatos:
 
 - [Mapa Mental](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/base/abordagem-geral/mapa_mental)
 
@@ -59,7 +59,7 @@ Antes de explicar a arquitetura do sistema em diferentes visões, é importante 
 
 Primeiramente, para o back-end, foi escolhida a linguagem Python para o desenvolvimento. O motivo de tal seleção foi, principalmente, pela familiaridade por maior parte dos integrantes do grupo, além da concordância geral que o desenvolvimento de uma aplicação web poderia ser beneficiado por certos frameworks disponíveis para a linguagem.
 
-Assim, o framework Django foi selecionado, também por causa do conhecimento e experiência prévia de membros da equipe e, portanto, o risco para o desenvolvimento seria menor e menos tempo seria gasto no aprendizado da ferramenta. Como modelo arquitetural, então, foi adotado, "automaticamente" o [MTV (Model Template View)](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/padroes-projeto/padrao-extra/django), uma vez que é o padrão implementado pelo framework.
+Assim, o framework Django foi selecionado, também devido ao conhecimento e experiência prévia de membros da equipe e, portanto, o risco para o desenvolvimento seria menor e menos tempo seria gasto no aprendizado da ferramenta. Como modelo arquitetural, então, foi adotado, "automaticamente" o [MTV (Model Template View)](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/padroes-projeto/padrao-extra/django), uma vez que é o padrão implementado pelo framework.
 
 ### 2.2 Banco de Dados
 
@@ -77,12 +77,12 @@ A ferramenta Docker também foi implementada para a integração em ambiente iso
 
 ### 3.1 Metas
 
-Abaixo estão listados alguns requisitos e objetivos do software que têm impacto significativo na arquitetura.
+Abaixo estão listados alguns requisitos e objetivos do software, com impacto significativo na arquitetura.
 
 | Categoria | Metas |
 | :-------: | :---- |
 | Segurança e confiabilidade | A aplicação deve garantir proteção aos dados sensíveis dos usuários.</br>Falhas ou erros devem ser reportados ao usuário.</br>O sistema deve fornecer a capacidade de autenticação com credenciais únicas (cada usuário é identificado unicamente por um e-mail e senha). |
-| Portabilidade e suportabilidade | O usuário deve ser capaz de acessar a aplicação web em navegadores tanto de desktop, quanto mobile. |
+| Portabilidade e suportabilidade | O usuário deve conseguir acessar a aplicação web em navegadores tanto de desktop, quanto mobile. |
 | Responsividade | As páginas desenvolvidas devem ser responsivas ao tamanho de tela do usuário. |
 | Escalabilidade | O software deve ser desenvolvido para suportar novas evoluções (escalar), tanto de funcionalidades, quanto de dados. |
 
@@ -115,7 +115,7 @@ Para guiar melhor ainda o Documento de Arquitetura de Software que está sendo l
 
 ### 4.1 Realizações de Casos de Usos
 
-Para a aplicação de algumas das funcionalidades citadas acima, foi implementada uma API RESTful com o Django, que conceitualmente pode ser explicada como uma interface que dois sistemas de computador usam para trocar informações de forma segura pela internet, de acordo com a Amazon AWS. Assim, pode-se caracterizar o uso de uma **arquitetura cliente-servidor**, uma vez que um cliente faz requisições/solicitações via protocolo HTTP e, então, ela é processada e respondida por um servidor. A figura abaixo representa bem como funciona uma API RESTful e, de semelhante modo, uma arquitetura cliente-servidor.
+Para a aplicação de algumas das funcionalidades citadas acima, foi implementada uma API RESTful com o Django, que conceitualmente pode ser explicada como uma interface que dois sistemas de computador usam para trocar informações de forma segura pela internet, conforme a Amazon AWS. Assim, pode-se caracterizar o uso de uma **arquitetura cliente-servidor**, uma vez que um cliente faz requisições/solicitações via protocolo HTTP e, então, ela é processada e respondida por um servidor. A figura abaixo representa bem como funciona uma API RESTful e, de semelhante modo, uma arquitetura cliente-servidor.
 
 ![Exemplo RESTful](./apirest.png)
 
@@ -124,7 +124,7 @@ Para a aplicação de algumas das funcionalidades citadas acima, foi implementad
 <figcaption>Fonte: phpenthusiast[1]</figcaption>
 </center>
 
-Dessa forma, as funcionalidades que estão relacionadas a cadastro, edição, deleção e visualização são implementadas por meio dessa arquitetura no sistema.
+Dessa forma, as funcionalidades relacionadas a cadastro, edição, deleção e visualização são implementadas por meio dessa arquitetura no sistema.
 
 ## 5. Visão Lógica
 
@@ -158,16 +158,16 @@ Como pode ser visto, esses diagramas são compostos por pacotes que comunicam en
 | Back-end -> Settings | urls | Pacote que contém o mapeamento de todas as urls da aplicação desenvolvida (para requests). |
 | Back-end | App N | Pacote com a aplicação realmente desenvolvida. |
 | Back-end -> App N | urls | Pacote que implementa as urls da aplicação. |
-| Back-end -> App N | views | Pacote com as funções que recebem uma requisição e retorna uma retorna uma resposta (lógica de negócio, em si). |
+| Back-end -> App N | views | Pacote com as funções que recebem uma requisição e retorna uma resposta (lógica de negócio, em si). |
 | Back-end -> App N | serielizers | Pacote que implementa a conversão de tipos de dados em Python para REST. |
-| Back-end -> App N | models | Pacote que é a fonte dos dados criados e manipulados no banco de dados (campos e comportamentos dos dados). |
+| Back-end -> App N | models | Pacote a qual é a fonte dos dados criados e manipulados no banco de dados (campos e comportamentos dos dados). |
 | Back-end -> App N | migrations | Pacote responsável pela interação entre a models e o SGBD (banco de dados). |
 | Front-end | routes | Pacote com as rotas da aplicação web. |
 | Front-end | services | Pacote com classes ordinárias que contém funções de escolha própria. |
 | Front-end | utils | Pacote com uma coleção de funções com propósito geral. |
 | Front-end | views | Pacote com componentes para construir a interface do usuário. |
-| Front-end | components | Pacote que implementam funções que trabalham em isolamento e retornam HTML. |
-| Front-end | assets | Pacote que armazenam arquivos que são usados na aplicação de front-end. |
+| Front-end | components | Pacote que implementam funções trabalhando em isolamento e retornam HTML. |
+| Front-end | assets | Pacote que armazenam arquivos usados na aplicação de front-end. |
 
 A aplicação de fato desses diagramas apresentados pode ser vista nos repositórios de [Front-end](https://github.com/UnBArqDsw2022-2/2022.2_G5_SoftSteakHouse_Frontend) e [Back-end](https://github.com/UnBArqDsw2022-2/2022.2_G5_SoftSteakHouse_Backend) do projeto.
 
@@ -210,7 +210,7 @@ O diagrama de classes mostra a organização e composição das classes presente
 
 |    Data    | Versão |            Descrição           |       Autor     |    Revisor    |
 |  --------  |  ----  |            ----------          | --------------- |    -------    |
-| 23/01/2023 |  1.0.0 |  Criação da estrutura inicial em tópicos e preenchimento da introdução, representação arquitetural, metas e restrições arquiteturais, visão de casos de uso e visão lógica. | [Victor Leão](https://github.com/victorleaoo) | - |
+| 23/01/2023 |  1.0.0 |  Criação da estrutura inicial em tópicos e preenchimento da introdução, representação arquitetural, metas e restrições arquiteturais, visão de casos de uso e visão lógica. | [Victor Leão](https://github.com/victorleaoo) | [Caio César](https://github.com/oCaioOliveira) |
 
 ## Referências
 
