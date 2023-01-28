@@ -82,12 +82,19 @@
 
 - **Arquitetura de Software & Reutilização**
 
-- [4. Desenho de Software](arquitetura-reutilizacao/4.1.PadroesArquiteturais.md)
-  - [4.1. Módulo Estilos e Padrões Arquiteturais](arquitetura-reutilizacao/4.1.PadroesArquiteturais.md)
+- [4. Desenho de Software](arquitetura-reutilizacao/padroes_arquiteturais.md)
+  - [4.1. Estilos e Padrões Arquiteturais](arquitetura-reutilizacao/padroes_arquiteturais.md)
     - [4.1.1 DAS](arquitetura-reutilizacao/das/das.md)
-  - [4.2. Módulo Reutilização de Software](arquitetura-reutilizacao/4.2.ReutilizacaoDeSoftware.md)
-  - [4.3. Iniciativas Extras](arquitetura-reutilizacao/4.3.IniciativasExtras.md)
-  - [4.4. Participações](arquitetura-reutilizacao/4.4.ParticipacoesArqReutilizacao.md)
+      - [ Visão Geral](arquitetura-reutilizacao/das/visao_geral.md)
+      - [ Visão de Casos de Uso](arquitetura-reutilizacao/das/visao_casos_uso.md)
+      - [ Visão Lógica](arquitetura-reutilizacao/das/visao_logica.md)
+      - [ Visão de Implementação](arquitetura-reutilizacao/das/visao_implementacao.md)
+      - [ Visão de Processos](arquitetura-reutilizacao/iniciativas-extras/das_visao_processos.md)
+      - [ Visão de Implantação](arquitetura-reutilizacao/das/visao_implantacao.md)
+      - [ Visão de Dados](arquitetura-reutilizacao/das/visao_dados.md)
+  - [4.2. Reutilização de Software](arquitetura-reutilizacao/reutilizacao_software.md)
+  - [4.3. Iniciativas Extras](arquitetura-reutilizacao/inicitativas_extras.md)
+  - [4.4. Participações](arquitetura-reutilizacao/participacoes.md)
 
 - **Templates para Implementacao**
 

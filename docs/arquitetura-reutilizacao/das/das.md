@@ -59,7 +59,7 @@ Antes de explicar a arquitetura do sistema em diferentes visões, é importante 
 
 Primeiramente, para o back-end, foi escolhida a linguagem Python para o desenvolvimento. O motivo de tal seleção foi, principalmente, pela familiaridade por maior parte dos integrantes do grupo, além da concordância geral que o desenvolvimento de uma aplicação web poderia ser beneficiado por certos frameworks disponíveis para a linguagem.
 
-Assim, o framework Django foi selecionado, também devido ao conhecimento e experiência prévia de membros da equipe e, portanto, o risco para o desenvolvimento seria menor e menos tempo seria gasto no aprendizado da ferramenta. Como modelo arquitetural, então, foi adotado, "automaticamente" o [MTV (Model Template View)](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/padroes-projeto/padrao-extra/django), uma vez que é o padrão implementado pelo framework.
+Assim, o framework Django foi selecionado, também por causa do conhecimento e experiência prévia de membros da equipe e, portanto, o risco para o desenvolvimento seria menor e menos tempo seria gasto no aprendizado da ferramenta. Como modelo arquitetural, então, foi adotado, "automaticamente" o [MTV (Model Template View)](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/padroes-projeto/padrao-extra/django), uma vez que é o padrão implementado pelo framework.
 
 ### 2.2 Banco de Dados
 
@@ -98,111 +98,23 @@ Algumas restrições especiais também são aplicadas à arquitetura, abaixo ela
 | Estrutura do Time | A equipe segue a estrutura da [metodologia ágil](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/base/proce-metod-aborda/escolhas_metodologicas) Scrum.</br>A equipe é formada de 8 membros. |
 | Ferramentas de desenvolvimento | React (front-end), Django (back-end) e PostgreSQL (SGBD) |
 
-## 4. Visão de Caso de Uso
+### 4 Visões
 
-Para guiar melhor ainda o Documento de Arquitetura de Software que está sendo lido, essa seção vai listar algumas das funcionalidades mais significantes da aplicação para trazer uma compreensão mais elaborada do sistema que foi desenvolvido. Além disso, essas funcionalidades podem refletir e explicar, de alguma forma, algumas das escolhas e decisões arquiteturais tomadas. Como não foi feito um artefato de casos de uso para os requisitos do projeto durante a parte de elicitação, abaixo serão especificadas histórias de usuário e, como deve-se indicar as mais importantes, serão destacadas a com priorização 'Must' (a maior na técnica de priorização MoSCoW). Importante mencionar que essas histórias de usuário podem ser encontradas mais detalhadas no [Product Backlog](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/modelagem/agil/backlog).
+#### [4.1 Geral](arquitetura-reutilizacao/das/visao_geral.md)
 
-- **US04:** Eu, como administrador do sistema, quero poder realizar login para acessar funcionalidades restritas para administradores.
-- **US06:** Eu, como administrador, quero poder realizar logout para não estar mais autenticado e não acessar mais funcionalidades e telas restritas.
-- **US08:** Eu, como administrador do sistema, quero poder solicitar cadastro para os desenvolvedores por meio do suporte disponível no site para poder acessar minhas funcionalidades específicas.
-- **US09:** Eu, como usuário do produto, quero visualizar o cardápio com todos os itens disponíveis do restaurante.
-- **US10:** Eu, como usuário do produto, quero visualizar o cardápio separado por categorias, com objetivo de ter uma visão melhor sobre os itens e suas características.
-- **US11:** Eu, como administrador do sistema, quero cadastrar novos itens ao cardápio.
-- **US12:** Eu, como administrador do sistema, quero editar itens disponíveis no cardápio.
-- **US13:** Eu, como administrador do sistema, quero deletar itens disponíveis no cardápio.
-- **US16:** Eu, como administrador do sistema, quero visualizar a disponibilidade de mesas para cada quantidade de pessoas.
-- **US17:** Eu, como administrador do sistema, quero editar a disponibilidade de mesas para cada quantidade de pessoas.
+#### [4.2 Casos de Uso](arquitetura-reutilizacao/das/visao_casos_uso.md)
 
-### 4.1 Realizações de Casos de Usos
+#### [4.3 Lógica](arquitetura-reutilizacao/das/visao_logica.md)
 
-Para a aplicação de algumas das funcionalidades citadas acima, foi implementada uma API RESTful com o Django, que conceitualmente pode ser explicada como uma interface que dois sistemas de computador usam para trocar informações de forma segura pela internet, conforme a Amazon AWS. Assim, pode-se caracterizar o uso de uma **arquitetura cliente-servidor**, uma vez que um cliente faz requisições/solicitações via protocolo HTTP e, então, ela é processada e respondida por um servidor. A figura abaixo representa bem como funciona uma API RESTful e, de semelhante modo, uma arquitetura cliente-servidor.
+#### [4.4 Implementação](arquitetura-reutilizacao/das/visao_implementacao.md)
 
-![Exemplo RESTful](./apirest.png)
+#### [4.5 Processos](arquitetura-reutilizacao/iniciativas-extras/das_visao_processos.md)
 
-<center>
-<figcaption>Imagem: Funcionamento de uma API RESTful/Arquitetura cliente-servidor</figcaption>
-<figcaption>Fonte: phpenthusiast[1]</figcaption>
-</center>
+#### [4.6 Implantação](arquitetura-reutilizacao/das/visao_implantacao.md)
 
-Dessa forma, as funcionalidades relacionadas a cadastro, edição, deleção e visualização são implementadas por meio dessa arquitetura no sistema.
+#### [4.7 Dados](arquitetura-reutilizacao/das/visao_dados.md)
 
-## 5. Visão Lógica
-
-A Visão Lógica é uma seção que descreve partes, arquiteturalmente, significantes do desenho do sistema, como, por exemplo, sua decomposição em subsistemas e pacotes. Cada pacote significante pode, caso seja necessário, ser decomposto em classes. 
-
-### 5.1 Diagrama de Pacotes
-
-Primeiramente, o Diagrama de Pacotes apresenta a arquitetura do projeto em pacotes e, assim, pode-se entender como a aplicação é desenvolvida de forma lógica. Os diagramas abaixo podem ser encontrados no [artefato](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/modelagem/diagramas_estaticos/diagrama_pacotes) específico dessa diagramação. Entretanto, aqui eles serão explicados cada um de forma mais específica.
-
-![Diagrama de Pacotes Back-end](../../assets/diagrama_pacotes_back.png)
-
-<center>
-<figcaption>Imagem: Diagrama de Pacotes Back-end</figcaption>
-<figcaption>Autor: Abraão (Integrante do Grupo)</figcaption>
-</center>
-
-![Diagrama de Pacotes Front-end](../../assets/diagrama_pacotes_front.png)
-
-<center>
-<figcaption>Imagem: Diagrama de Pacotes Front-end</figcaption>
-<figcaption>Autor: Abraão (Integrante do Grupo)</figcaption>
-</center>
-
-Como pode ser visto, esses diagramas são compostos por pacotes que comunicam entre si e todos são de suma importância para o funcionamento do projeto. Então, para melhor compreensão, eles são explicados:
-
-| Pacotes Pais | Nome | Descrição |
-| :----------: | :--: | :-------- |
-| Back-end | Settings | Pacote responsável pelas configurações da aplicação Django, além das urls que podem ser acessadas. |
-| Back-end -> Settings | Settings Ambiente | Pacote que contém todas as configurações da instalação e funcionamento do sistema Django. | 
-| Back-end -> Settings | wsgi | Pacote que especificação para uma interface entre servidores web e aplicações web para Python. |
-| Back-end -> Settings | urls | Pacote que contém o mapeamento de todas as urls da aplicação desenvolvida (para requests). |
-| Back-end | App N | Pacote com a aplicação realmente desenvolvida. |
-| Back-end -> App N | urls | Pacote que implementa as urls da aplicação. |
-| Back-end -> App N | views | Pacote com as funções que recebem uma requisição e retorna uma resposta (lógica de negócio, em si). |
-| Back-end -> App N | serielizers | Pacote que implementa a conversão de tipos de dados em Python para REST. |
-| Back-end -> App N | models | Pacote a qual é a fonte dos dados criados e manipulados no banco de dados (campos e comportamentos dos dados). |
-| Back-end -> App N | migrations | Pacote responsável pela interação entre a models e o SGBD (banco de dados). |
-| Front-end | routes | Pacote com as rotas da aplicação web. |
-| Front-end | services | Pacote com classes ordinárias que contém funções de escolha própria. |
-| Front-end | utils | Pacote com uma coleção de funções com propósito geral. |
-| Front-end | views | Pacote com componentes para construir a interface do usuário. |
-| Front-end | components | Pacote que implementam funções trabalhando em isolamento e retornam HTML. |
-| Front-end | assets | Pacote que armazenam arquivos usados na aplicação de front-end. |
-
-A aplicação de fato desses diagramas apresentados pode ser vista nos repositórios de [Front-end](https://github.com/UnBArqDsw2022-2/2022.2_G5_SoftSteakHouse_Frontend) e [Back-end](https://github.com/UnBArqDsw2022-2/2022.2_G5_SoftSteakHouse_Backend) do projeto.
-
-### 5.2 Diagrama de Classes
-
-O diagrama de classes mostra a organização e composição das classes presentes no projeto. Relacionando com o diagrama de pacotes, eles estariam no models do Back-end, uma vez que seriam, então, implementados no banco de dados. Há um [artefato](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/modelagem/diagramas_estaticos/diagrama_classes) específico para esse tipo diagrama.
-
-![Diagrama de Classes](../../assets/diagrama-classes-entrega4.png)
-
-<center>
-<figcaption>Imagem: Diagrama de Classes Atualizado - Entrega 4</figcaption>
-<figcaption>Autor: Victor (Integrante do Grupo)</figcaption>
-</center>
-
-## 6. Visão de Implantação
-
-[This section describes one or more physical network (hardware) configurations on which the software is deployed and run. It is a view of the Deployment Model. At a minimum for each configuration it should indicate the physical nodes (computers, CPUs) that execute the software and their interconnections (bus, LAN, point-to-point, and so on.) Also include a mapping of the processes of the Process View onto the physical nodes.]
-
-## 7. Visão de Implementação
-
-[This section describes the overall structure of the implementation model, the decomposition of the software into layers and subsystems in the implementation model, and any architecturally significant components.]
-
-### 7.1 Visão Geral
-
-[This subsection names and defines the various layers and their contents, the rules that govern the inclusion to a given layer, and the boundaries between layers. Include a component diagram that shows the relations between layers. ]
-
-### 7.2 Camadas
-
-[For each layer, include a subsection with its name, an enumeration of the subsystems located in the layer, and a component diagram.]
-
-## 8. Visão de Dados
-
-[A description of the persistent data storage perspective of the system. This section is optional if there is little or no persistent data, or the translation between the Design Model and the Data Model is trivial.]
-
-## 9. Tamanho e Performance
+## 5. Tamanho e Performance
 
 [A description of the major dimensioning characteristics of the software that impact the architecture, as well as the target performance constraints.]
 
