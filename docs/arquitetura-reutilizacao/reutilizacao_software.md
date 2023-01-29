@@ -64,6 +64,7 @@ No caso do método que gera os botões de adição e remoção de mesas dispoív
 
 A ideia desse método é o usuário poder alterar o número de mesas disponíveis através dos botões, para ter um controle sobre a disponibilidade do local. Exemplo de código:
 
+![Captura de tela de 2023-01-29 19-35-57](https://user-images.githubusercontent.com/54339291/215360538-998a32df-7509-40f4-8301-d39bc3395802.png)
 
 
 ## Método que consome a API
