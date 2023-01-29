@@ -1,4 +1,4 @@
-# DAS - Documento de Arquitetura de Software
+# Documento de Arquitetura de Software (DAS)
 
 ## 1. Introdução
 
@@ -98,34 +98,35 @@ Algumas restrições especiais também são aplicadas à arquitetura, abaixo ela
 | Estrutura do Time | A equipe segue a estrutura da [metodologia ágil](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/base/proce-metod-aborda/escolhas_metodologicas) Scrum.</br>A equipe é formada de 8 membros. |
 | Ferramentas de desenvolvimento | React (front-end), Django (back-end) e PostgreSQL (SGBD) |
 
-### 4 Visões
+### 4. Visões
 
-#### [4.1 Geral](arquitetura-reutilizacao/das/visao_geral.md)
+#### [4.1. Geral](arquitetura-reutilizacao/das/visao_geral.md)
 
-#### [4.2 Casos de Uso](arquitetura-reutilizacao/das/visao_casos_uso.md)
+#### [4.2. Casos de Uso](arquitetura-reutilizacao/das/visao_casos_uso.md)
 
-#### [4.3 Lógica](arquitetura-reutilizacao/das/visao_logica.md)
+#### [4.3. Lógica](arquitetura-reutilizacao/das/visao_logica.md)
 
-#### [4.4 Implementação](arquitetura-reutilizacao/das/visao_implementacao.md)
+#### [4.4. Implementação](arquitetura-reutilizacao/das/visao_implementacao.md)
 
-#### [4.5 Processos](arquitetura-reutilizacao/iniciativas-extras/das_visao_processos.md)
+#### [4.5. Processos](arquitetura-reutilizacao/iniciativas-extras/das_visao_processos.md)
 
-#### [4.6 Implantação](arquitetura-reutilizacao/das/visao_implantacao.md)
+#### [4.6. Implantação](arquitetura-reutilizacao/das/visao_implantacao.md)
 
-#### [4.7 Dados](arquitetura-reutilizacao/das/visao_dados.md)
+#### [4.7. Dados](arquitetura-reutilizacao/das/visao_dados.md)
 
 ## 5. Tamanho e Performance
 
 [A description of the major dimensioning characteristics of the software that impact the architecture, as well as the target performance constraints.]
-
-## Histórico de Versões
-
-|    Data    | Versão |            Descrição           |       Autor     |    Revisor    |
-|  --------  |  ----  |            ----------          | --------------- |    -------    |
-| 23/01/2023 |  1.0.0 |  Criação da estrutura inicial em tópicos e preenchimento da introdução, representação arquitetural, metas e restrições arquiteturais, visão de casos de uso e visão lógica. | [Victor Leão](https://github.com/victorleaoo) | [Caio César](https://github.com/oCaioOliveira) |
 
 ## Referências
 
 1. BENHAROSH, Joseph. What is REST API? in plain English. Disponível em: https://phpenthusiast.com/blog/what-is-rest-api. Acesso em: 24 jan. 2023.
 
 2. AMAZON. O que é API RESTful?. Disponível em: https://aws.amazon.com/pt/what-is/restful-api/. Acesso em: 24. jan. 2023.
+
+## Histórico de Versões
+
+| Data       | Versão | Descrição                                                                                                                                                                  | Autor                                                  | Revisor                                        |
+|------------|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|------------------------------------------------|
+| 23/01/2023 | 1.0.0  | Criação da estrutura inicial em tópicos e preenchimento da introdução, representação arquitetural, metas e restrições arquiteturais, visão de casos de uso e visão lógica. | [Victor Leão](https://github.com/victorleaoo)          | [Caio César](https://github.com/oCaioOliveira) |
+| 25/01/2023 | 1.0.1  | Reajuste da estrutura de pastas criada e esrita da "seção ponteiro" "Visões".                                                                                              | [Nicolas Georgeos Mantzos](https://github.com/ngm1450) | -                                              |
