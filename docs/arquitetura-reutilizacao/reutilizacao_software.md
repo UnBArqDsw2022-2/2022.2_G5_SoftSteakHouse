@@ -13,7 +13,7 @@ Além disso, o Django também utiliza o padrão de projeto Model-View-Controller
 
 Dessa forma, o Django permite que os desenvolvedores criem aplicações web de maneira rápida e eficiente, reutilizando componentes já existentes e organizando o código de maneira clara e estruturada.
 
-![image](https://github.com/UnBArqDsw2022-2/2022.2_G5_SoftSteakHouse/blob/main/docs/assets/print-24.jpeg)
+![image](../assets/print-24.jpeg)
 
 Imagem 1: Conjunto de arquivos padrões do Django. Fonte: Autores do documento
 
