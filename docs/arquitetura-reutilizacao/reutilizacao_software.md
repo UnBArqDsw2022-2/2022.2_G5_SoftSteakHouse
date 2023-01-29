@@ -17,9 +17,6 @@ Dessa forma, o Django permite que os desenvolvedores criem aplicações web de m
 
 Imagem 1: Conjunto de arquivos padrões do Django. Fonte: Autores do documento
 
-
-
-
 # Reutilização no Front-end
 
 A reutilização no Front-end será citada em exemplos mais específicos e apontados como pontos de melhoria. Existem dois parte visíveis no código que foram reutilizadas e poderiam se transformar em uma função genérica que abordasse todos os casos, diminuindo a complexidade do código quando analisado a função. Infelizmente por conta do tempo escasso não foi possível criar esses métodos. 
