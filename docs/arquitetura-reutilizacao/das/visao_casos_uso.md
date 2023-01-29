@@ -25,3 +25,9 @@ Para a aplicação de algumas das funcionalidades citadas acima, foi implementad
 </center>
 
 Dessa forma, as funcionalidades que estão relacionadas a cadastro, edição, deleção e visualização são implementadas por meio dessa arquitetura no sistema.
+
+## Histórico de Versões
+
+| Data       | Versão | Descrição         | Autor                                                  | Revisor                                        |
+|------------|--------|-------------------|--------------------------------------------------------|------------------------------------------------|
+| 23/01/2023 | 1.0.0  | Escrita do texto. | [Victor Leão](https://github.com/victorleaoo)          | [Caio César](https://github.com/oCaioOliveira) |

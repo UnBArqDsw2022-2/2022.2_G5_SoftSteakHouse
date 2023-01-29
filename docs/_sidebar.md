@@ -34,7 +34,7 @@
 
 - [2. Desenho de Software](modelagem/modelagem.md)
 
-  - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](modelagem/modelagem_tradicional.md)
+  - [2.1. Projeto Orientado a Abordagens Tradicionais](modelagem/modelagem_tradicional.md)
     - [2.1.1. UML – Diagramas Estáticos](modelagem/uml_estaticos.md)
       - [Diagrama de Classes](modelagem/diagramas_estaticos/diagrama_classes.md)
       - [Diagrama de Pacotes](modelagem/diagramas_estaticos/diagrama_pacotes.md)
@@ -84,7 +84,7 @@
 
 - [4. Desenho de Software](arquitetura-reutilizacao/padroes_arquiteturais.md)
   - [4.1. Estilos e Padrões Arquiteturais](arquitetura-reutilizacao/padroes_arquiteturais.md)
-    - [4.1.1 DAS](arquitetura-reutilizacao/das/das.md)
+    - [4.1.1 Documento de Arquitetura (DAS)](arquitetura-reutilizacao/das/das.md)
       - [ Visão Geral](arquitetura-reutilizacao/das/visao_geral.md)
       - [ Visão de Casos de Uso](arquitetura-reutilizacao/das/visao_casos_uso.md)
       - [ Visão Lógica](arquitetura-reutilizacao/das/visao_logica.md)
