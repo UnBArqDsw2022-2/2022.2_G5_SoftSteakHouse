@@ -80,5 +80,5 @@ Entrando em um lado positivo da reutilização de código no nosso sistema temos
 | 28/01/2023 |  0.1.0 |  Adição da introdução do template do documento | [Hian Praxedes](https://github.com/HianPraxedes) | [Caio César](https://github.com/oCaioOliveira) |
 | 28/01/2023 |  0.1.1 |  Adição da Reutilização no Back-end no documento | [Hian Praxedes](https://github.com/HianPraxedes) | [Caio César](https://github.com/oCaioOliveira) |
 | 28/01/2023 |  1.0.0 |  Adição da Reutilização no Front-End no documento | [Caio César](https://github.com/oCaioOliveira) | [Taynara Cristina](https://github.com/TaynaraCris) |
-|29/01/2023| 1.0.1 | Adição da Reutilização no Front-End no documento |[Taynara Cristina](https://github.com/TaynaraCris)| 
+|29/01/2023| 1.0.1 | Adição da Reutilização no Front-End no documento |[Taynara Cristina](https://github.com/TaynaraCris)| [Hian Praxedes](https://github.com/HianPraxedes)
 
