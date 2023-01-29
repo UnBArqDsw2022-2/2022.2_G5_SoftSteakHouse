@@ -58,6 +58,14 @@ Essa parte do código é reutilizada na página inicial da mesma forma, apenas c
 
 Sendo a única diferença a estilização dos botões, mais especificamente o tamanho, dimensionamento, entre outras características.
 
+## Método que gera os botões/select de mudança de número de mesas disponíveis
+
+No caso do método que gera os botões de adição e remoção de mesas dispoíveis e select, o código está reduzido no que diz respeito a ideia do projeto, já que no caso do SoftSteakHouse ele não poderia ser reutilizado em outro componente. A não ser que tivesse alguma nova funcionalidade a ser desenvolvida, como por exemplo, número de pratos disponíveis de determinado item.
+
+A ideia desse método é o usuário poder alterar o número de mesas disponíveis através dos botões, para ter um controle sobre a disponibilidade do local. Exemplo de código:
+
+
+
 ## Método que consome a API
 
 Entrando em um lado positivo da reutilização de código no nosso sistema temos a função responsável por consumir a API, essa função é utilizada diversas vezes no código e basicamente ela apenas recupera dados dentro da API apenas passando a URL e o endpoint como parâmetro. Demonstração:
@@ -75,6 +83,6 @@ Entrando em um lado positivo da reutilização de código no nosso sistema temos
 | 25/01/2023 |  0.0.1 |  Criação do documento de Reutilização de código | [Victor Leão](https://github.com/victorleao) | [Hian Praxedes](https://github.com/HianPraxedes)|
 | 28/01/2023 |  0.1.0 |  Adição da introdução do template do documento | [Hian Praxedes](https://github.com/HianPraxedes) | [Caio César](https://github.com/oCaioOliveira) |
 | 28/01/2023 |  0.1.1 |  Adição da Reutilização no Back-end no documento | [Hian Praxedes](https://github.com/HianPraxedes) | [Caio César](https://github.com/oCaioOliveira) |
-| 28/01/2023 |  1.0.0 |  Adição da Reutilização no Front-End no documento | [Caio César](https://github.com/oCaioOliveira) |  |
-
+| 28/01/2023 |  1.0.0 |  Adição da Reutilização no Front-End no documento | [Caio César](https://github.com/oCaioOliveira) | [Taynara Cristina](https://github.com/TaynaraCris) |
+|29/01/2023| 1.0.1 | Adição da Reutilização no Front-End no documento |[Taynara Cristina](https://github.com/TaynaraCris)| 
 
