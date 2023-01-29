@@ -31,7 +31,7 @@ As entidades descritas utilizando o ER estão descritas abaixo:
 
 ### Modelagem Lógica
 
-Na etapa anterior, a base estabeleceu-se mais próxima do usuário do que do Sistema Gerenciador de Banco de Dados (SGBD) SGBD no qual ela será escrita. Nesta etapa os papéis se invertem.
+Na etapa anterior, a base estabeleceu-se mais próxima do usuário do que do Sistema Gerenciador de Banco de Dados (SGBD) no qual ela será escrita. Nesta etapa os papéis se invertem.
 
 O propósito é, portanto, fazer o mapeamento ER para relacional, considerando o tipo de cada atributo (texto, número etc), realizando a normalização e preparando o necessário para a escrita
 efetiva das tabelas.

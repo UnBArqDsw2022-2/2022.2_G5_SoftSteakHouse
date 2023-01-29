@@ -53,3 +53,9 @@ O diagrama de classes mostra a organização e composição das classes presente
 <figcaption>Imagem: Diagrama de Classes Atualizado - Entrega 4</figcaption>
 <figcaption>Autor: Victor (Integrante do Grupo)</figcaption>
 </center>
+
+## Histórico de Versões
+
+| Data       | Versão | Descrição         | Autor                                                  | Revisor                                        |
+|------------|--------|-------------------|--------------------------------------------------------|------------------------------------------------|
+| 23/01/2023 | 1.0.0  | Escrita do texto. | [Victor Leão](https://github.com/victorleaoo)          | [Caio César](https://github.com/oCaioOliveira) |

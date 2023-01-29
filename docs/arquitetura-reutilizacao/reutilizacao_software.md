@@ -1,4 +1,4 @@
-# 4.2. Módulo Reutilização de Software
+# Reutilização de Software
 # Introdução
 
 A arquitetura de reutilização de software é um conceito que se baseia na ideia de utilizar componentes ou módulos já existentes para construir novos sistemas, ao invés de criá-los do zero. Isso permite que o desenvolvimento de software seja mais rápido, mais eficiente e menos propenso a erros, além de facilitar a manutenção e evolução dos sistemas. A reutilização de software pode ser realizada em vários níveis, desde a reutilização de código até a reutilização de arquiteturas e design de sistemas.
