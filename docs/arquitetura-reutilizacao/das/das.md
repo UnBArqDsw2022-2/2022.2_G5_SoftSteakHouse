@@ -100,23 +100,17 @@ Algumas restrições especiais também são aplicadas à arquitetura, abaixo ela
 
 ### 4. Visões
 
-#### [4.1. Geral](arquitetura-reutilizacao/das/visao_geral.md)
+#### [4.1. Casos de Uso](arquitetura-reutilizacao/das/visao_casos_uso.md)
 
-#### [4.2. Casos de Uso](arquitetura-reutilizacao/das/visao_casos_uso.md)
+#### [4.2. Lógica](arquitetura-reutilizacao/das/visao_logica.md)
 
-#### [4.3. Lógica](arquitetura-reutilizacao/das/visao_logica.md)
+#### [4.3. Implementação](arquitetura-reutilizacao/das/visao_implementacao.md)
 
-#### [4.4. Implementação](arquitetura-reutilizacao/das/visao_implementacao.md)
+#### [4.4. Processos](arquitetura-reutilizacao/iniciativas-extras/das_visao_processos.md)
 
-#### [4.5. Processos](arquitetura-reutilizacao/iniciativas-extras/das_visao_processos.md)
+#### [4.5. Implantação](arquitetura-reutilizacao/das/visao_implantacao.md)
 
-#### [4.6. Implantação](arquitetura-reutilizacao/das/visao_implantacao.md)
-
-#### [4.7. Dados](arquitetura-reutilizacao/das/visao_dados.md)
-
-## 5. Tamanho e Performance
-
-[A description of the major dimensioning characteristics of the software that impact the architecture, as well as the target performance constraints.]
+#### [4.6. Dados](arquitetura-reutilizacao/das/visao_dados.md)
 
 ## Referências
 
