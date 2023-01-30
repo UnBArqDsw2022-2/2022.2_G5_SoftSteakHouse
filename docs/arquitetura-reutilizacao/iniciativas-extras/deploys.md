@@ -1,7 +1,7 @@
 # Deploys
 
 Implantação é a fase do ciclo de vida de um software, no contexto de um Sistema de Informação, que corresponde textualmente à passagem do software para a produção. 
-O processo de implantação universal consiste de várias atividades intercaladas como possíveis transições entre elas.
+O processo de implantação universal consiste em várias atividades intercaladas como possíveis transições entre elas.
 Nossa equipe desejava que qualquer usuário da disciplina pudesse acessar nossa solução e por isso gastamos esforços para conseguir realizar deploys no Front e Back-end.
 
 ## Front-end
@@ -12,7 +12,7 @@ está sendo servido no link [Soft Steak House](https://deploy-ads-ap.vercel.app/
 
 ## Back-end
 
-No Back-end utilizamos a plataforma [Python Anywhere](https://www.pythonanywhere.com/), uma plataforma gratuita, porém, para subir nossa API nela precisamos alterar
+No Back-end utilizamos a plataforma [Python Anywhere](https://www.pythonanywhere.com/), uma plataforma gratuita, porém, para subir nossa API foi preciso alterar
 algumas versões do Django, o que acabou quebrando algumas funcionalidades, com um pouco de tempo tudo foi resolvido, mas esteja ciente de que poderão ter alterações 
 para conseguir fazer o deploy da sua aplicação. Dependendo de quando seja acessado nossa API talvez não esteja mais funcionando, mas atualmente 
 está sendo servido no link [Soft Steak House API](https://josue1231.pythonanywhere.com/).
