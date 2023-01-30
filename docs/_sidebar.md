@@ -85,7 +85,6 @@
 - [4. Desenho de Software](arquitetura-reutilizacao/padroes_arquiteturais.md)
   - [4.1. Estilos e Padrões Arquiteturais](arquitetura-reutilizacao/padroes_arquiteturais.md)
     - [4.1.1 Documento de Arquitetura (DAS)](arquitetura-reutilizacao/das/das.md)
-      - [ Visão Geral](arquitetura-reutilizacao/das/visao_geral.md)
       - [ Visão de Casos de Uso](arquitetura-reutilizacao/das/visao_casos_uso.md)
       - [ Visão Lógica](arquitetura-reutilizacao/das/visao_logica.md)
       - [ Visão de Implementação](arquitetura-reutilizacao/das/visao_implementacao.md)
