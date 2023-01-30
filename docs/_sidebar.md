@@ -94,6 +94,7 @@
   - [4.2. Reutilização de Software](arquitetura-reutilizacao/reutilizacao_software.md)
   - [4.3. Iniciativas Extras](arquitetura-reutilizacao/inicitativas_extras.md)
   - [4.4. Participações](arquitetura-reutilizacao/participacoes.md)
+  - [4.5. Deploys](arquitetura-reutilizacao/iniciativas-extras/deploys.md)
 
 - **Templates para Implementacao**
 
