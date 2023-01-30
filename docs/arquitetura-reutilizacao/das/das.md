@@ -196,13 +196,6 @@ A Visão de Implementação procura mostrar como o sistema será desenvolvido e 
 <figcaption>Autor: Abraão Alves (Integrante do Grupo)</figcaption>
 </center>
 
-### 7.1 Visão Geral
-
-[This subsection names and defines the various layers and their contents, the rules that govern the inclusion to a given layer, and the boundaries between layers. Include a component diagram that shows the relations between layers. ]
-
-### 7.2 Camadas
-
-[For each layer, include a subsection with its name, an enumeration of the subsystems located in the layer, and a component diagram.]
 
 ## 8. Visão de Dados
 
