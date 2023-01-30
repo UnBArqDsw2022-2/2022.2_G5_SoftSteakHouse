@@ -63,7 +63,7 @@ Assim, o framework Django foi selecionado, também por causa do conhecimento e e
 
 ### 2.2 Banco de Dados
 
-O SGBD usado no projeto foi o PostgreSQL, uma vez que é o sistema gerenciador padrão implementado pelo Django e os dados armazenados pelo projeto são relacionais.
+O SGBD usado no projeto foi o Sqlite, uma vez que é o sistema gerenciador padrão implementado pelo Django e os dados armazenados pelo projeto são relacionais.
 
 A ferramenta AWS é encontrada, também, no projeto para o armazenamento das imagens dos itens, similar a um repositório. A tecnologia trabalha em forma de nuvem.
 
@@ -96,7 +96,7 @@ Algumas restrições especiais também são aplicadas à arquitetura, abaixo ela
 | Idioma | As funcionalidades desenvolvidas devem estar em português. |
 | Cronograma | O sistema deve estar disponível até, pelo menos, o fim do segundo semestre de 2.2022 da Universidade de Brasília (18 de fevereiro de 2023). | 
 | Estrutura do Time | A equipe segue a estrutura da [metodologia ágil](https://unbarqdsw2022-2.github.io/2022.2_G5_SoftSteakHouse/#/base/proce-metod-aborda/escolhas_metodologicas) Scrum.</br>A equipe é formada de 8 membros. |
-| Ferramentas de desenvolvimento | React (front-end), Django (back-end) e PostgreSQL (SGBD) |
+| Ferramentas de desenvolvimento | React (front-end), Django (back-end) e Sqlite (SGBD) |
 
 ### 4 Visões
 
