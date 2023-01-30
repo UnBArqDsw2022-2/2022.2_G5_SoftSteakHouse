@@ -191,7 +191,10 @@ O diagrama de classes mostra a organização e composição das classes presente
 A Visão de Implementação procura mostrar como o sistema será desenvolvido e organizado para se compreender a distribuição física do projeto. Para isto é utilizado o diagrama de componentes, mostrando como a aplicação é componentizada com os componentes e interfaces necessárias. 
 
 ![Diagrama de Classes](../../assets/diagrama_componentes.png)
-
+<center>
+<figcaption>Imagem: Diagrama de componentes Atualizado</figcaption>
+<figcaption>Autor: Abraão Alves (Integrante do Grupo)</figcaption>
+</center>
 
 ### 7.1 Visão Geral
 
