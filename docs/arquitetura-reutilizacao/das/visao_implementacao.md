@@ -8,8 +8,8 @@ Nossos artefatos estão organizados dentro da estrutura src que faz referencia a
 
 Os arquivos de configuração do projeto junto ao arquivo de rotas podem ser encontrados na raiz do projeto, no "guarda-chuva" do diretório src.
 
-![Diagrama de implementação](../../assets/Diagrama_implementacao.png)   
- Figura 1: Diagrama de implementacao. Autor: Marcos Felipe
+![Organização de artefato](../../assets/Diagrama_implementacao.png)   
+ Figura 1: Organização de artefatos. Autor: Marcos Felipe
 
 
 ## Histórico de Versão
